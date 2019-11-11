@@ -1,1640 +1,514 @@
-#EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",A&E
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37130
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E FHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/825.png" group-title="Canais | Full HD",A&E FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40263
-#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",A&E HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36929
-#EXTINF:-1 tvg-id="" tvg-name="Aerosmith" tvg-logo="" group-title="Shows",Aerosmith
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42571
-#EXTINF:-1 tvg-id="Agro Canal HD" tvg-name="Agro Canal HD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ddf87ee412553236ff71fdb6a2f5d8ce.jpg" group-title="Canais | Abertos",Agro Canal HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40244
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="Canais | Filmes e Series",AMC
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41087
-#EXTINF:-1 tvg-id="AMC FHD" tvg-name="AMC FHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="Canais | Full HD",AMC FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40262
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="Canais | Filmes e Series",AMC HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36928
-#EXTINF:-1 tvg-id="" tvg-name="amigaozao [24h]" tvg-logo="https://media.fstatic.com/yx2ORRqyHCShqDHo1PhyHdy7Qd4=/fit-in/290x478/smart/media/movies/covers/2017/01/amigaozao.png" group-title="Canais | 24 Horas",amigaozao [24h]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40786
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Documentarios",Animal Planet
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37128
-#EXTINF:-1 tvg-id="Animal Planet FHD" tvg-name="Animal Planet FHD" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Full HD",Animal Planet FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38392
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Documentarios",Animal Planet HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36992
-#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Canais | Variedades",Arte 1
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37133
-#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1 FHD" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Canais | Variedades",Arte 1 FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41467
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Filmes e Series",AXN
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37132
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Filmes e Series",AXN FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41468
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Filmes e Series",AXN HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36991
-#EXTINF:-1 tvg-id="BabyTV" tvg-name="BabyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Infantil",BabyTV
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36993
-#EXTINF:-1 tvg-id="Band HD" tvg-name="Band" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37127
-#EXTINF:-1 tvg-id="Band FHD" tvg-name="Band FHD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Full HD",Band FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38429
-#EXTINF:-1 tvg-id="Band HD" tvg-name="Band HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36990
-#EXTINF:-1 tvg-id="BandNews FHD" tvg-name="Band News" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Noticias",Band News
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37126
-#EXTINF:-1 tvg-id="BandNews FHD" tvg-name="BandNews FHD" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Full HD",BandNews FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38391
-#EXTINF:-1 tvg-id="Band SP FHD" tvg-name="Band SP FHD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Full HD",Band SP FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41514
-#EXTINF:-1 tvg-id="Band HD" tvg-name="Band SP HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band SP HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41530
-#EXTINF:-1 tvg-id="BandSports FHD" tvg-name="BandSports FHD" tvg-logo="https://i.imgur.com/7ItcMOv.jpg" group-title="Canais | Full HD",BandSports FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42900
-#EXTINF:-1 tvg-id="" tvg-name="Banda Calypso" tvg-logo="" group-title="Shows",Banda Calypso
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39787
-#EXTINF:-1 tvg-id="" tvg-name="BANDA FORROZÃO DAS ANTIGAS" tvg-logo="" group-title="Shows",BANDA FORROZÃO DAS ANTIGAS
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39786
-#EXTINF:-1 tvg-id="BandNews HD" tvg-name="BandNews HD" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Noticias",BandNews HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42411
-#EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="Canais | Esportes",BandSports
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37125
-#EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports HD" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="Canais | Esportes",BandSports HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36989
-#EXTINF:-1 tvg-id="BIS" tvg-name="Bis" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Canais | Variedades",Bis
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37131
-#EXTINF:-1 tvg-id="BIS FHD" tvg-name="BIS FHD" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Canais | Full HD",BIS FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38403
-#EXTINF:-1 tvg-id="BIS HD" tvg-name="Bis HD" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Canais | Variedades",Bis HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36988
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom [24h]" tvg-logo="https://static1.squarespace.com/static/5a79ba25bce176147984e73b/5a79bb0a652deaeb2153b2ab/5a79dd3fe4966b5472c5bcec/1517939443178/ch_bobzoom.png" group-title="Canais | 24 Horas",Bob Zoom [24h]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40745
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais | Infantil",Boomerang
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37123
-#EXTINF:-1 tvg-id="Boomerang FHD" tvg-name="Boomerang FHD" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais | Full HD",Boomerang FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38390
-#EXTINF:-1 tvg-id="" tvg-name="CABARE EDUARDO COSTA & LEONARDO" tvg-logo="" group-title="Shows",CABARE EDUARDO COSTA & LEONARDO
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39768
-#EXTINF:-1 tvg-id="Canal Brasil HD" tvg-name="Canal Brasil" tvg-logo="http://i.imgur.com/8NoMJrr.png" group-title="Canais | Abertos",Canal Brasil
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37122
-#EXTINF:-1 tvg-id="Canal Brasil FHD" tvg-name="Canal Brasil FHD" tvg-logo="http://i.imgur.com/8NoMJrr.png" group-title="Canais | Full HD",Canal Brasil FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41517
-#EXTINF:-1 tvg-id="Canção Nova HD" tvg-name="Canção Nova HD" tvg-logo="https://i.imgur.com/SzRozG4.png" group-title="Canais | Religioso",Canção Nova HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37023
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Infantil",Cartoon Network
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37121
-#EXTINF:-1 tvg-id="Cartoon Network FHD" tvg-name="Cartoon Network FHD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Full HD",Cartoon Network FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41471
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Infantil",Cartoon Network HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36927
-#EXTINF:-1 tvg-id="" tvg-name="Cascavel Panorâmica" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f869e31dbca32dca5d9adda8f13fcd09.png" group-title="Câmeras | 24 Horas",Cascavel Panorâmica
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40116
-#EXTINF:-1 tvg-id="" tvg-name="Charlie e Lola [24h]" tvg-logo="http://www.mag2u.com/images/custom/cnl/charlielola.png" group-title="Canais | 24 Horas",Charlie e Lola [24h]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39579
-#EXTINF:-1 tvg-id="" tvg-name="Chaves [24h]" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/LP_Chaves.jpg" group-title="Canais | 24 Horas",Chaves [24h]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39762
-#EXTINF:-1 tvg-id="Cinemax SD" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Canais | Filmes e Series",Cinemax
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37120
-#EXTINF:-1 tvg-id="Cinemax FHD" tvg-name="Cinemax FHD" tvg-logo="https://i.pinimg.com/originals/a8/2b/83/a82b8391d267db1667978dc58413a018.png" group-title="Canais | Full HD",Cinemax FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40261
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax HD" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Canais | Filmes e Series",Cinemax HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36926
-#EXTINF:-1 tvg-id="" tvg-name="Cocoricó [24h]" tvg-logo="https://i.pinimg.com/originals/d9/85/04/d985040b90dac7529ac94816b0dadcd9.png" group-title="Canais | 24 Horas",Cocoricó [24h]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39582
-#EXTINF:-1 tvg-id="Combate" tvg-name="Combate" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes",Combate
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37119
-#EXTINF:-1 tvg-id="CombateHD" tvg-name="COMBATE 4K" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais 4K",COMBATE 4K
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42635
-#EXTINF:-1 tvg-id="Combate FHD" tvg-name="Combate FHD" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Full HD",Combate FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38428
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes",Combate HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36986
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Variedades",Comedy Central
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37118
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Variedades",Comedy Central HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36925
-#EXTINF:-1 tvg-id="Comedy Central FHD" tvg-name="Comedy Central FHD" tvg-logo="https://lh3.googleusercontent.com/-ZDlWJqUp3H4/Wh8P4sC3O8I/AAAAAAAAPBo/-93fP1YLSVYAHmotiteJcYs97q2CvVwjwCLcBGAs/h200/COMEDY_CENTRAL_HD.png" group-title="Canais | Full HD",Comedy Central FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40260
-#EXTINF:-1 tvg-id="" tvg-name="Crystal Bay Beach Resort" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e5b669849dc31124918b36d62681c754.png" group-title="Câmeras | 24 Horas",Crystal Bay Beach Resort
-https://www.youtube.com/watch?v=1FvwPEKgcsA&feature=youtu.be
-#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="Canais | Abertos",Cultura
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40073
-#EXTINF:-1 tvg-id="Cultura FHD" tvg-name="Cultura FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="Canais | Full HD",Cultura FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42903
-#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta!" tvg-logo="https://i.imgur.com/IlzIxvv.png" group-title="Canais | Variedades",Curta!
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37117
-#EXTINF:-1 tvg-id="Curta! FHD" tvg-name="Curta! FHD" tvg-logo="https://i.imgur.com/IlzIxvv.png" group-title="Canais | Full HD",Curta! FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41472
-#EXTINF:-1 tvg-id="" tvg-name="David Guetta" tvg-logo="" group-title="Shows",David Guetta
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39785
-#EXTINF:-1 tvg-id="" tvg-name="Desenhos Biblicos [24h]" tvg-logo="http://2.bp.blogspot.com/-6HEU0pJ2gqI/VOyIbDax8kI/AAAAAAAANGU/6B8x_EOaMOk/s1600/Desenhos%2BBiblicos%2B%2B1.png" group-title="Canais | 24 Horas",Desenhos Biblicos [24h]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39780
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Channel
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37116
-#EXTINF:-1 tvg-id="Discovery Channel FHD" tvg-name="Discovery Channel FHD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Full HD",Discovery Channel FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38404
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Channel HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36985
-#EXTINF:-1 tvg-id="Discovery Civilization FHD" tvg-name="Discovery Civilization FHD" tvg-logo="https://1.bp.blogspot.com/-zfUSjCPSqE0/WasIODWYBVI/AAAAAAAACSE/7Y3DoKQVXuQrsCbTghQBC_Ni-DG6Mej4ACLcBGAs/s1600/downloadfile-1.png" group-title="Canais | Full HD",Discovery Civilization FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40259
-#EXTINF:-1 tvg-id="Discovery Civilization HD" tvg-name="Discovery Civilization HD" tvg-logo="https://1.bp.blogspot.com/-zfUSjCPSqE0/WasIODWYBVI/AAAAAAAACSE/7Y3DoKQVXuQrsCbTghQBC_Ni-DG6Mej4ACLcBGAs/s1600/downloadfile-1.png" group-title="Canais | Documentarios",Discovery Civilization HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36924
-#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home & Health" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Canais | Documentarios",Discovery Home & Health
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36984
-#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Canais | Full HD",DISCOVERY HOME & HEALTH FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38389
-#EXTINF:-1 tvg-id="Discovery Home & Health HD" tvg-name="Discovery Home & Health HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Home & Health HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37115
-#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Infantil",Discovery Kids
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37113
-#EXTINF:-1 tvg-id="Discovery Kids FHD" tvg-name="Discovery Kids FHD" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Full HD",Discovery Kids FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41473
-#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids HD" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Infantil",Discovery Kids HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36923
-#EXTINF:-1 tvg-id="Discovery Science FHD" tvg-name="Discovery Science FHD" tvg-logo="http://urlcurta.ml/qyAyP" group-title="Canais | Full HD",Discovery Science FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41474
-#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="Discovery Science HD" tvg-logo="http://urlcurta.ml/qyAyP" group-title="Canais | Documentarios",Discovery Science HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36922
-#EXTINF:-1 tvg-id="Discovery Theater FHD" tvg-name="Discovery Theater FHD" tvg-logo="http://i.imgur.com/VZH1x36.png" group-title="Canais | Full HD",Discovery Theater FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41475
-#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="http://i.imgur.com/VZH1x36.png" group-title="Canais | Documentarios",Discovery Theater HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36983
-#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Documentarios",Discovery Turbo
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37112
-#EXTINF:-1 tvg-id="Discovery Turbo FHD" tvg-name="Discovery Turbo FHD" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Full HD",Discovery Turbo FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38388
-#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo HD" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Documentarios",Discovery Turbo HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36982
-#EXTINF:-1 tvg-id="Discovery World FHD" tvg-name="Discovery World FHD" tvg-logo="https://i.imgur.com/hGhgbMQ.png" group-title="Canais | Full HD",Discovery World FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38387
-#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="https://i.imgur.com/hGhgbMQ.png" group-title="Canais | Documentarios",Discovery World HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36981
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais | Infantil",Disney Channel
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37111
-#EXTINF:-1 tvg-id="Disney Channel FHD" tvg-name="Disney Channel FHD" tvg-logo="https://i.imgur.com/sQSxcnd.png" group-title="Canais | Full HD",Disney Channel FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38402
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Disney Channel HD" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais | Infantil",Disney Channel HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36921
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://i.imgur.com/HNCqSdX.png" group-title="Canais | Infantil",Disney Junior
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37110
-#EXTINF:-1 tvg-id="Disney Junior FHD" tvg-name="Disney Junior FHD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-disney-junior-hd.png" group-title="Canais | Full HD",Disney Junior FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41512
-#EXTINF:-1 tvg-id="Disney Junior HD" tvg-name="Disney Junior HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-disney-junior-hd.png" group-title="Canais | Infantil",Disney Junior HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40517
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Canais | Infantil",Disney XD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37109
-#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment Television" tvg-logo="https://goo.gl/V6G6Hy" group-title="Canais | Variedades",E! Entertainment Television
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37108
-#EXTINF:-1 tvg-id="E! FHD" tvg-name="E! FHD" tvg-logo="https://goo.gl/V6G6Hy" group-title="Canais | Full HD",E! FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41476
-#EXTINF:-1 tvg-id="E! HD" tvg-name="E! HD" tvg-logo="https://goo.gl/V6G6Hy" group-title="Canais | Variedades",E! HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36920
-#EXTINF:-1 tvg-id="EPTV Campinas" tvg-name="EPTV Campinas" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="Canais| Regionais MANUTENÇÃO",EPTV Campinas
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40248
-#EXTINF:-1 tvg-id="EPTV Campinas" tvg-name="EPTV Campinas HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="Canais| Regionais MANUTENÇÃO",EPTV Campinas HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40249
-#EXTINF:-1 tvg-id="EPTV Campinas" tvg-name="EPTV Ribeirão" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",EPTV Ribeirão
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40514
-#EXTINF:-1 tvg-id="Globo EPTV Ribeirao Preto" tvg-name="EPTV Ribeirão HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",EPTV Ribeirão HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38640
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://bit.ly/2GLHTrI" group-title="Canais | Esportes",ESPN
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37105
-#EXTINF:-1 tvg-id="ESPN 2 FHD" tvg-name="ESPN 2 FHD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Full HD",ESPN 2 FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41477
-#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Esportes",ESPN 2 HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36976
-#EXTINF:-1 tvg-id="ESPN" tvg-name="Globo 4K" tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais 4K",Globo 4K
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/43430
-#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil" tvg-logo="https://bit.ly/2ICVj9U" group-title="Canais | Esportes",ESPN Brasil
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37104
-#EXTINF:-1 tvg-id="ESPN Brasil FHD" tvg-name="ESPN Brasil FHD" tvg-logo="https://i.imgur.com/u11qaVb.png" group-title="Canais | Full HD",ESPN Brasil FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38413
-#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-name="ESPN Brasil HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh5R2hNRFnQfEI9Cv1wXmjdYTJOXbnpwPJgI_Ky_hujhkeWDJ_XQ" group-title="Canais | Esportes",ESPN Brasil HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36978
-#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Esportes",ESPN Extra
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41977
-#EXTINF:-1 tvg-id="ESPN Extra FHD" tvg-name="ESPN Extra FHD" tvg-logo="https://i.imgur.com/M43oOmn.png" group-title="Canais | Full HD",ESPN Extra FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38380
-#EXTINF:-1 tvg-id="ESPN Extra HD" tvg-name="ESPN Extra HD" tvg-logo="https://i.imgur.com/M43oOmn.png" group-title="Canais | Esportes",ESPN Extra HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42910
-#EXTINF:-1 tvg-id="ESPN FHD" tvg-name="ESPN FHD" tvg-logo="https://i.imgur.com/k3Ic3Mo.png" group-title="Canais | Full HD",ESPN FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38401
-#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056" group-title="Canais | Esportes",ESPN HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36977
-#EXTINF:-1 tvg-id="" tvg-name="FESTIVAL SERTANEJO" tvg-logo="https://i.imgur.com/VQiMDXL.jpg" group-title="Shows",FESTIVAL SERTANEJO
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39772
-#EXTINF:-1 tvg-id="" tvg-name="Festival Sertanejo 2018" tvg-logo="https://i.imgur.com/VQiMDXL.jpg" group-title="Shows",Festival Sertanejo 2018
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39771
-#EXTINF:-1 tvg-id="FILM&Arts" tvg-name="FILM&Arts" tvg-logo="http://urlcurta.ml/B5aYX" group-title="Canais | Filmes e Series",FILM&Arts
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41374
-#EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV" tvg-logo="http://i.imgur.com/IroXP7H.png" group-title="Canais | Esportes",Fish TV
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37103
-#EXTINF:-1 tvg-id="Fish TV FHD" tvg-name="Fish TV FHD" tvg-logo="http://i.imgur.com/IroXP7H.png" group-title="Canais | Full HD",Fish TV FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41478
-#EXTINF:-1 tvg-id="Fish TV HD" tvg-name="Fish TV HD" tvg-logo="http://i.imgur.com/IroXP7H.png" group-title="Canais | Esportes",Fish TV HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42911
-#EXTINF:-1 tvg-id="" tvg-name="FM O Dia 100,5 FM - Estúdio Ao Vivo" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/28987a4ac0e1c027f469ff70d132a5a8.png" group-title="Câmeras | 24 Horas",FM O Dia 100,5 FM - Estúdio Ao Vivo
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40203
-#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://i.imgur.com/bcdE7nj.png" group-title="Canais | Variedades",Food Network
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37102
-#EXTINF:-1 tvg-id="Food Network FHD" tvg-name="Food Network FHD" tvg-logo="https://media.cdnandroid.com/b8/d5/6e/20/imagen-food-network-brasil-0thumb.jpg" group-title="Canais | Full HD",Food Network FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40257
-#EXTINF:-1 tvg-id="Food Network HD" tvg-name="Food Network HD" tvg-logo="https://i.imgur.com/bcdE7nj.png" group-title="Canais | Variedades",Food Network HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36919
-#EXTINF:-1 tvg-id="Fox Channel" tvg-name="Fox Channel" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox Channel
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37101
-#EXTINF:-1 tvg-id="Fox Channel HD" tvg-name="Fox Channel HD" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox Channel HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36972
-#EXTINF:-1 tvg-id="Fox Channel" tvg-name="FOX FHD" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Full HD",FOX FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38427
-#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="Fox Premium 1" tvg-logo="https://i.imgur.com/ANiatwo.png" group-title="Canais | Filmes e Series",Fox Premium 1
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37335
-#EXTINF:-1 tvg-id="Fox Premium 1 HD" tvg-name="Fox Premium 1  HD" tvg-logo="https://i.imgur.com/ANiatwo.png" group-title="Canais | Filmes e Series",Fox Premium 1  HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36974
-#EXTINF:-1 tvg-id="Fox Premium 1 FHD" tvg-name="Fox Premium 1 FHD" tvg-logo="https://i.imgur.com/ANiatwo.png" group-title="Canais | Full HD",Fox Premium 1 FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41480
-#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="Fox Premium 2" tvg-logo="https://i.imgur.com/WgobCjU.png" group-title="Canais | Filmes e Series",Fox Premium 2
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37336
-#EXTINF:-1 tvg-id="Fox Premium 2 FHD" tvg-name="Fox Premium 2 FHD" tvg-logo="https://i.imgur.com/WgobCjU.png" group-title="Canais | Full HD",Fox Premium 2 FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38386
-#EXTINF:-1 tvg-id="Fox Premium 2 HD" tvg-name="Fox Premium 2 HD" tvg-logo="https://i.imgur.com/WgobCjU.png" group-title="Canais | Filmes e Series",Fox Premium 2 HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36973
-#EXTINF:-1 tvg-id="FoxLife" tvg-name="FoxLife" tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Canais | Variedades",FoxLife
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37100
-#EXTINF:-1 tvg-id="FoxLife FHD" tvg-name="FoxLife FHD" tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Canais | Full HD",FoxLife FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41479
-#EXTINF:-1 tvg-id="FoxLife HD" tvg-name="FoxLife HD" tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Canais | Variedades",FoxLife HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36918
-#EXTINF:-1 tvg-id="FoxSports" tvg-name="FoxSports" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Esportes",FoxSports
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37099
-#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="FoxSports 2" tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Esportes",FoxSports 2
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37098
-#EXTINF:-1 tvg-id="FoxSports 2 FHD" tvg-name="FoxSports 2 FHD" tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Full HD",FoxSports 2 FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38398
-#EXTINF:-1 tvg-id="FoxSports 2 HD" tvg-name="FoxSports 2 HD" tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Esportes",FoxSports 2 HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36971
-#EXTINF:-1 tvg-id="FoxSports FHD" tvg-name="FoxSports FHD" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Full HD",FoxSports FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38412
-#EXTINF:-1 tvg-id="FoxSports HD" tvg-name="FoxSports HD" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Esportes",FoxSports HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36970
-#EXTINF:-1 tvg-id="" tvg-name="Frank Aguiar" tvg-logo="" group-title="Shows",Frank Aguiar
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39788
-#EXTINF:-1 tvg-id="Futura" tvg-name="Futura" tvg-logo="https://macmagazine.com.br/wp-content/uploads/2014/10/29-futura.png" group-title="Canais | Abertos",Futura
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40074
-#EXTINF:-1 tvg-id="Futura FHD" tvg-name="Futura FHD" tvg-logo="https://macmagazine.com.br/wp-content/uploads/2014/10/29-futura.png" group-title="Canais | Full HD",Futura FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41481
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Filmes e Series",FX
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37097
-#EXTINF:-1 tvg-id="FX FHD" tvg-name="FX FHD" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Full HD",FX FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41482
-#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Filmes e Series",FX HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36969
-#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha [24h]" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e7/Galinha_Pintadinha.png/255px-Galinha_Pintadinha.png" group-title="Canais | 24 Horas",Galinha Pintadinha [24h]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39570
-#EXTINF:-1 tvg-id="" tvg-name="Garfield [24h]" tvg-logo="https://is.gd/RY2bjE" group-title="Canais | 24 Horas",Garfield [24h]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39573
-#EXTINF:-1 tvg-id="Gazeta HD" tvg-name="Gazeta HD" tvg-logo="https://4.bp.blogspot.com/-njl0j_tJ_j8/T9pJrd6srTI/AAAAAAAAMWo/69-3gYzq9uY/s1600/Logo+TV+Gazeta.png" group-title="Canais | Variedades",Gazeta HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40120
-#EXTINF:-1 tvg-id="TV Anhanguera Goiania" tvg-name="Globo Anhanguera" tvg-logo="https://i.imgur.com/55jNpJk.png" group-title="Canais| Regionais MANUTENÇÃO",Globo Anhanguera
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38966
-#EXTINF:-1 tvg-id="Globo Bahia HD" tvg-name="Globo Bahia HD" tvg-logo="https://i.imgur.com/qKVxMjv.png" group-title="Canais | Abertos",Globo Bahia HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37096
-#EXTINF:-1 tvg-id="TV Bahia FHD" tvg-name="TV Bahia FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",TV Bahia FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42987
-#EXTINF:-1 tvg-id="TV Bahia HD" tvg-name="TV Bahia HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",TV Bahia HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41402
-#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="Globo Brasília" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Globo Brasília
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37095
-#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="Globo Brasília HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",Globo Brasília HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40513
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV ARARAQUARA" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO EPTV ARARAQUARA
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42950
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO EPTV CAMPINAS
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42951
-#EXTINF:-1 tvg-id="EPTV Campinas FHD" tvg-name="EPTV Campinas FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",EPTV Campinas FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42983
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO EPTV CAMPINAS HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42952
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRAO PRETO" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO EPTV RIBEIRAO PRETO
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42954
-#EXTINF:-1 tvg-id="EPTV Ribeirão FHD" tvg-name="EPTV Ribeirão FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",EPTV Ribeirão FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42999
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO EPTV RIBEIRÃO PRETO HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42953
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SAO CARLOS" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO EPTV SAO CARLOS
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42955
-#EXTINF:-1 tvg-id="Globo NSC Florianopolis HD" tvg-name="Globo Florianopolis" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",Globo Florianopolis
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38641
-#EXTINF:-1 tvg-id="NSC TV Florianópolis FHD" tvg-name="NSC TV Florianópolis FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",NSC TV Florianópolis FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42985
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV NATAL" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO INTER TV NATAL
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42956
-#EXTINF:-1 tvg-id="Globo Minas" tvg-name="GLOBO MG" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO MG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40250
-#EXTINF:-1 tvg-id="Globo Minas FHD" tvg-name="Globo Minas FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",Globo Minas FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41515
-#EXTINF:-1 tvg-id="GloboMG" tvg-name="GLOBO MG HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO MG HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40251
-#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Nordeste" tvg-logo="https://i.imgur.com/41jw6Ej.png" group-title="Canais | Abertos",Globo Nordeste
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37092
-#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",Globo Nordeste FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42984
-#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Nordeste HD" tvg-logo="https://i.imgur.com/41jw6Ej.png" group-title="Canais| Regionais MANUTENÇÃO",Globo Nordeste HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38971
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO NSC TV CHAPECO
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42971
-#EXTINF:-1 tvg-id="NSC TV Chapecó FHD" tvg-name="NSC TV Chapecó FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",NSC TV Chapecó FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42969
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO NSC TV CHAPECO HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42970
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV FLORIANOPOLIS HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO NSC TV FLORIANOPOLIS HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42958
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PORTO ALEGRE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO RBS TV PORTO ALEGRE
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42959
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AM. MANAUS" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO REDE AM. MANAUS
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42960
-#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo Rio" tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais | Abertos",Globo Rio
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37091
-#EXTINF:-1 tvg-id="Globo Rio HD" tvg-name="Globo Rio HD" tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais | Abertos",Globo Rio HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36968
-#EXTINF:-1 tvg-id="Globo Rio FHD" tvg-name="Globo Rio FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",Globo Rio FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38425
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",Globo RPC Curitiba
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37366
-#EXTINF:-1 tvg-id="RPC Curitiba FHD" tvg-name="RPC Curitiba FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",RPC Curitiba FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38381
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO RPC CURITIBA HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42961
-#EXTINF:-1 tvg-id="RPC Foz do Iguaçu" tvg-name="RPC Foz do Iguaçu" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",RPC Foz do Iguaçu
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42972
-#EXTINF:-1 tvg-id="RPC Foz do Iguaçu FHD" tvg-name="RPC Fox do Iguaçu FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",RPC Fox do Iguaçu FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42973
-#EXTINF:-1 tvg-id="RPC Foz do Iguaçu HD" tvg-name="RPC Foz do Iguaçu HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",RPC Foz do Iguaçu HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42974
-#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37090
-#EXTINF:-1 tvg-id="Globo SP FHD" tvg-name="Globo SP FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",Globo SP FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38424
-#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37361
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA" tvg-logo="https://i.imgur.com/55jNpJk.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO TV ANHANGUERA
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42962
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",GLOBO TV ANHANGUERA FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42986
-#EXTINF:-1 tvg-id="GNT HD" tvg-name="GLOBO TV ANHANGUERA HD" tvg-logo="https://i.imgur.com/55jNpJk.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO TV ANHANGUERA HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38967
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV C. AMERICA CUIABA" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO TV C. AMERICA CUIABA
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42963
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CLUBE TERESINA" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO TV CLUBE TERESINA
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42975
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CLUBE TERESINA FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",GLOBO TV CLUBE TERESINA FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42976
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CLUBE TERESINA HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO TV CLUBE TERESINA HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42977
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA ALAGOAS" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO TV GAZETA ALAGOAS
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42994
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA ALAGOAS FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",GLOBO TV GAZETA ALAGOAS FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42995
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA ALAGOAS HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO TV GAZETA ALAGOAS HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42996
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA SUL ES FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",GLOBO TV GAZETA SUL ES FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42997
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA SUL ES HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO TV GAZETA SUL ES HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42998
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA VITORIA" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO TV GAZETA VITORIA
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42978
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA VITORIA FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",GLOBO TV GAZETA VITORIA FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42979
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA VITORIA HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO TV GAZETA VITORIA HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42980
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV LIBERAL BELEM" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO TV LIBERAL BELEM
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42964
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE SAO LUIS" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO TV MIRANTE SAO LUIS
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42990
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE SAO LUIS FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",GLOBO TV MIRANTE SAO LUIS FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42988
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE SAO LUIS HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO TV MIRANTE SAO LUIS HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42989
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA CAMPO GRANDE" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO TV MORENA CAMPO GRANDE
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42992
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA CAMPO GRANDE FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",GLOBO TV MORENA CAMPO GRANDE FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42991
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SERGIPE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO TV SERGIPE
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42908
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SERGIPE FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="Canais | Full HD",GLOBO TV SERGIPE FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42981
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SERGIPE HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO TV SERGIPE HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42982
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SAO JOSE DO RIO PRETO" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO TV TEM SAO JOSE DO RIO PRETO
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40516
-#EXTINF:-1 tvg-id="TV TEM SJRP FHD" tvg-name="TV TEM SJRP FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",TV TEM SJRP FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42993
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SAO JOSE DO RIO PRETO HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO TV TEM SAO JOSE DO RIO PRETO HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40515
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TRIBUNA SANTOS" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO TV TRIBUNA SANTOS
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42966
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA S. J. DOS CAMPOS" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO TV VANGUARDA S. J. DOS CAMPOS
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42967
-#EXTINF:-1 tvg-id="GloboNews" tvg-name="GloboNews" tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Canais | Noticias",GloboNews
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37093
-#EXTINF:-1 tvg-id="GloboNews FHD" tvg-name="GloboNews FHD" tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Canais | Full HD",GloboNews FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38397
-#EXTINF:-1 tvg-id="GloboNews HD" tvg-name="GloboNews HD" tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Canais | Noticias",GloboNews HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36917
-#EXTINF:-1 tvg-id="I-Sat" tvg-name="GloboSat HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",GloboSat HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36916
-#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil",Gloob
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37089
-#EXTINF:-1 tvg-id="Gloob  FHD" tvg-name="Gloob FHD" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Full HD",Gloob FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38396
-#EXTINF:-1 tvg-id="Gloob  HD" tvg-name="Gloob HD" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil",Gloob HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36915
-#EXTINF:-1 tvg-id="Gloobinho FHD" tvg-name="Gloobinho FHD" tvg-logo="https://i.imgur.com/KC9T8wA.png" group-title="Canais | Full HD",Gloobinho FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41483
-#EXTINF:-1 tvg-id="Gloobinho HD" tvg-name="Gloobinho HD" tvg-logo="https://i.imgur.com/KC9T8wA.png" group-title="Canais | Infantil",Gloobinho HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38969
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Canais | Variedades",GNT
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37088
-#EXTINF:-1 tvg-id="GNT FHD" tvg-name="GNT FHD" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Canais | Full HD",GNT FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41484
-#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT HD" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Canais | Variedades",GNT HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36967
-#EXTINF:-1 tvg-id="History 2 FHD" tvg-name="History 2 FHD" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Full HD",History 2 FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41485
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Canais | Filmes e Series",HBO
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37087
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Canais | Filmes e Series",HBO 2
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37086
-#EXTINF:-1 tvg-id="HBO 2  FHD" tvg-name="HBO 2 FHD" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Canais | Full HD",HBO 2 FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38423
-#EXTINF:-1 tvg-id="HBO 2  HD" tvg-name="HBO 2 HD" tvg-logo="http://t.likeiptv.com/hbo2hd.png" group-title="Canais | Filmes e Series",HBO 2 HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36966
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais | Filmes e Series",HBO Family
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37085
-#EXTINF:-1 tvg-id="HBO Family FHD" tvg-name="HBO Family FHD" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais | Full HD",HBO Family FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41486
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="http://t.likeiptv.com/hbohddd.png" group-title="Canais | Filmes e Series",HBO Family HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36965
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="http://t.likeiptv.com/hbohd.png" group-title="Canais | Filmes e Series",HBO HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36964
-#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO Plus" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Filmes e Series",HBO Plus
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37084
-#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO PLUS E" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Filmes e Series",HBO PLUS E
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37083
-#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO Plus FHD" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Full HD",HBO Plus FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41487
-#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO Plus HD" tvg-logo="http://t.likeiptv.com/hboplushd.png" group-title="Canais | Filmes e Series",HBO Plus HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36963
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Filmes e Series",HBO Signature
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37082
-#EXTINF:-1 tvg-id="HBO Signature FHD" tvg-name="HBO Signature FHD" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Full HD",HBO Signature FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41488
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Filmes e Series",HBO Signature HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36962
-#EXTINF:-1 tvg-id="" tvg-name="He Man [24h]" tvg-logo="https://www.impaktovisual.com.br/3759-large_default/display-de-festa-infantil.jpg" group-title="Canais | 24 Horas",He Man [24h]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39776
-#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37081
-#EXTINF:-1 tvg-id="History 2" tvg-name="History 2" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History 2
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42915
-#EXTINF:-1 tvg-id="History 2 HD" tvg-name="History 2 HD" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History 2 HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36961
-#EXTINF:-1 tvg-id="History FHD" tvg-name="History FHD" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Full HD",History FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38383
-#EXTINF:-1 tvg-id="History" tvg-name="History HD" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36960
-#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="ID: Investigação Discovery" tvg-logo="https://i.imgur.com/7wEq3VK.png" group-title="Canais | Documentarios",ID: Investigação Discovery
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37114
-#EXTINF:-1 tvg-id="ID: Investigação Discovery HD" tvg-name="ID: Investigação Discovery HD" tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Canais | Documentarios",ID: Investigação Discovery HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36959
-#EXTINF:-1 tvg-id="" tvg-name="IMPD TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f3409bb0ed003448041dfd1aa8871a9e.jpg" group-title="Canais | Religioso",IMPD TV
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40080
-#EXTINF:-1 tvg-id="" tvg-name="INSANO" tvg-logo="http://urlcurta.ml/y9rJq" group-title="Historias Paranormal",INSANO
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42580
-#EXTINF:-1 tvg-id="ID: Investigação Discovery FHD" tvg-name="ID: Investigação Discovery FHD" tvg-logo="https://i.imgur.com/7wEq3VK.png" group-title="Canais | Full HD",ID: Investigação Discovery FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41489
-#EXTINF:-1 tvg-id="" tvg-name="JOAO NETO E FREDERICO" tvg-logo="" group-title="Shows",JOAO NETO E FREDERICO
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39790
-#EXTINF:-1 tvg-id="Lifetime FHD" tvg-name="Lifetime FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/200px-Lifetime_logo17.svg.png" group-title="Canais | Full HD",Lifetime FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40265
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://i.imgur.com/tsFolbI.png" group-title="Canais | Variedades",Lifetime
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37077
-#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="http://t.likeiptv.com/lifetimehd.png" group-title="Canais | Variedades",Lifetime HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36914
-#EXTINF:-1 tvg-id="" tvg-name="Ligeirinho [24h]" tvg-logo="https://is.gd/sa9rs9" group-title="Canais | 24 Horas",Ligeirinho [24h]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41893
-#EXTINF:-1 tvg-id="" tvg-name="Looney Tones [24h]" tvg-logo="https://orig00.deviantart.net/214b/f/2012/009/6/9/69a53eac14e46b5ac302935d314246cc-d2ub40a.png" group-title="Canais | 24 Horas",Looney Tones [24h]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39575
-#EXTINF:-1 tvg-id="" tvg-name="Mais GloboSat FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",Mais GloboSat FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42902
-#EXTINF:-1 tvg-id="" tvg-name="Manda Chuva [24h]" tvg-logo="https://is.gd/pz8a8X" group-title="Canais | 24 Horas",Manda Chuva [24h]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41894
-#EXTINF:-1 tvg-id="Max HD" tvg-name="Max" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais | Filmes e Series",Max
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37076
-#EXTINF:-1 tvg-id="" tvg-name="MAX FHD" tvg-logo="http://urlcurta.ml/KRVHG" group-title="Canais | Full HD",MAX FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40268
-#EXTINF:-1 tvg-id="Max HD" tvg-name="Max HD" tvg-logo="http://urlcurta.ml/KRVHG" group-title="Canais | Filmes e Series",Max HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36913
-#EXTINF:-1 tvg-id="MAX Prime e" tvg-name="MAX PRIME E" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais | Filmes e Series",MAX PRIME E
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37074
-#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME FHD" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais | Filmes e Series",MAX PRIME FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42901
-#EXTINF:-1 tvg-id="MaxPrime" tvg-name="Max Prime HD" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais | Filmes e Series",Max Prime HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36912
-#EXTINF:-1 tvg-id="Max UP HD" tvg-name="Max UP" tvg-logo="http://i.imgur.com/tcr0CGl.png" group-title="Canais | Filmes e Series",Max UP
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37073
-#EXTINF:-1 tvg-id="Max UP FHD" tvg-name="Max UP FHD" tvg-logo="http://i.imgur.com/tcr0CGl.png" group-title="Canais | Full HD",Max UP FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40270
-#EXTINF:-1 tvg-id="Max UP" tvg-name="Max UP HD" tvg-logo="http://i.imgur.com/tcr0CGl.png" group-title="Canais | Filmes e Series",Max UP HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36911
-#EXTINF:-1 tvg-id="Max Prime HD" tvg-name="MaxPrime" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais | Filmes e Series",MaxPrime
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37075
-#EXTINF:-1 tvg-id="MaxPrime FHD" tvg-name="MaxPrime FHD" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais | Full HD",MaxPrime FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40269
-#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Filmes e Series",Megapix
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37072
-#EXTINF:-1 tvg-id="Megapix FHD" tvg-name="Megapix FHD" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Full HD",Megapix FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41491
-#EXTINF:-1 tvg-id="Megapix HD" tvg-name="Megapix HD" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Filmes e Series",Megapix HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36958
-#EXTINF:-1 tvg-id="" tvg-name="Metálica" tvg-logo="" group-title="Shows",Metálica
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42577
-#EXTINF:-1 tvg-id="" tvg-name="Milionario e Jose Rico" tvg-logo="" group-title="Shows",Milionario e Jose Rico
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39789
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Canais | Variedades",MTV
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37071
-#EXTINF:-1 tvg-id="MTV FHD" tvg-name="MTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/MTV_Music_2017_logo_Australia.svg/200px-MTV_Music_2017_logo_Australia.svg.png" group-title="Canais | Full HD",MTV FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40266
-#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Canais | Variedades",MTV HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36910
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/MTVLIVE/large_white.png" group-title="Canais | Variedades",MTV Live
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40519
-#EXTINF:-1 tvg-id="MTV Live HD FHD" tvg-name="MTV Live HD FHD" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/MTVLIVE/large_white.png" group-title="Canais | Full HD",MTV Live HD FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41492
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV LIVE HD" tvg-logo="https://www.parabola.cz/img_logo/mtv-live-hd.gif" group-title="Canais | Variedades",MTV LIVE HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40518
-#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Variedades",Multishow
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37070
-#EXTINF:-1 tvg-id="Multishow FHD" tvg-name="Multishow FHD" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Full HD",Multishow FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41493
-#EXTINF:-1 tvg-id="Multishow HD" tvg-name="Multishow HD" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Variedades",Multishow HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36957
-#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="Music Box Brazil" tvg-logo="http://i.imgur.com/ubp029X.png" group-title="Canais | Variedades",Music Box Brazil
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37069
-#EXTINF:-1 tvg-id="Music Box Brazil FHD" tvg-name="Music Box Brazil FHD" tvg-logo="http://i.imgur.com/ubp029X.png" group-title="Canais | Full HD",Music Box Brazil FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41494
-#EXTINF:-1 tvg-id="" tvg-name="Naha Airport" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b00fe4c8e68e38b5cbe7f93df1fd1e7e.jpg" group-title="Câmeras | 24 Horas",Naha Airport
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40109
-#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids" tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Infantil",NatGeo Kids
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37067
-#EXTINF:-1 tvg-id="NatGeo Kids FHD" tvg-name="NatGeo Kids FHD" tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Full HD",NatGeo Kids FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41496
-#EXTINF:-1 tvg-id="Nat Geo Kids Alternativo HD" tvg-name="NatGeo Kids HD" tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Infantil",NatGeo Kids HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36909
-#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="National Geographic Wild" tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Documentarios",National Geographic Wild
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37066
-#EXTINF:-1 tvg-id="National Geographic Wild FHD" tvg-name="National Geographic Wild FHD" tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Full HD",National Geographic Wild FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41497
-#EXTINF:-1 tvg-id="National Geographic Wild HD" tvg-name="National Geographic Wild HD" tvg-logo="http://i.imgur.com/QouD1hh.png" group-title="Canais | Documentarios",National Geographic Wild HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36955
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="NATIONAL GEOGRAPHICS" tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | Documentarios",NATIONAL GEOGRAPHICS
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37068
-#EXTINF:-1 tvg-id="National Geographic FHD" tvg-name="National Geographic FHD" tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | Full HD",National Geographic FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41280
-#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="National Geographic HD" tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | Documentarios",National Geographic HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36956
-#EXTINF:-1 tvg-id="" tvg-name="NBR" tvg-logo="https://i.imgur.com/gb8AAKf.png" group-title="Canais | Abertos",NBR
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37021
-#EXTINF:-1 tvg-id="Nick" tvg-name="Nick" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Infantil",Nick
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37064
-#EXTINF:-1 tvg-id="Nick FHD" tvg-name="Nick FHD" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Full HD",Nick FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40039
-#EXTINF:-1 tvg-id="Nick HD" tvg-name="Nick HD" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Infantil",Nick HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36907
-#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr." tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Canais | Infantil",Nick Jr.
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37065
-#EXTINF:-1 tvg-id="Nick Jr. FHD" tvg-name="Nick Jr. FHD" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Canais | Full HD",Nick Jr. FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41498
-#EXTINF:-1 tvg-id="Nick Jr. HD" tvg-name="Nick Jr. HD" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Canais | Infantil",Nick Jr. HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36908
-#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Tempo" tvg-logo="https://i.imgur.com/Y2ncDiz.png" group-title="Canais | Religioso",Novo Tempo
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39793
-#EXTINF:-1 tvg-id="" tvg-name="O Incrivel Mundo de Gumball [24h]" tvg-logo="https://is.gd/OVpPfN" group-title="Canais | 24 Horas",O Incrivel Mundo de Gumball [24h]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39774
-#EXTINF:-1 tvg-id="" tvg-name="O Livro Maldito" tvg-logo="https://i.imgur.com/88xlAiA.jpg" group-title="Historias Paranormal",O Livro Maldito
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42578
-#EXTINF:-1 tvg-id="" tvg-name="O Maskara [24h]" tvg-logo="https://is.gd/ud1Rd7" group-title="Canais | 24 Horas",O Maskara [24h]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41895
-#EXTINF:-1 tvg-id="" tvg-name="O MELHOR DO PAGODE" tvg-logo="" group-title="Shows",O MELHOR DO PAGODE
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39773
-#EXTINF:-1 tvg-id="Off" tvg-name="Off" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Canais | Variedades",Off
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37063
-#EXTINF:-1 tvg-id="Off FHD" tvg-name="Off FHD" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Canais | Full HD",Off FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41499
-#EXTINF:-1 tvg-id="Off HD" tvg-name="Off HD" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Canais | Variedades",Off HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36954
-#EXTINF:-1 tvg-id="" tvg-name="Os Padrinhos Magicos [24h]" tvg-logo="https://colorir.org/wp-content/uploads/2015/03/os-padrinhos-magicos-para-colorir.png" group-title="Canais | 24 Horas",Os Padrinhos Magicos [24h]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39574
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais | Filmes e Series",Paramount Channel
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37062
-#EXTINF:-1 tvg-id="Paramount Channel FHD" tvg-name="Paramount Channel FHD" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais | Full HD",Paramount Channel FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41500
-#EXTINF:-1 tvg-id="Paramount Channel HD" tvg-name="Paramount Channel HD" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais | Filmes e Series",Paramount Channel HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36953
-#EXTINF:-1 tvg-id="" tvg-name="PATATI PATATA [24h]" tvg-logo="https://occ-0-901-999.1.nflxso.net/art/3dbf7/2ae0a5ddd191aa9565d566c729882104f063dbf7.png" group-title="Canais | 24 Horas",PATATI PATATA [24h]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39781
-#EXTINF:-1 tvg-id="" tvg-name="Pearl Jam" tvg-logo="https://i.imgur.com/ywEMvAa.jpg" group-title="Shows",Pearl Jam
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42444
-#EXTINF:-1 tvg-id="" tvg-name="Pepe Legal [24h]" tvg-logo="https://is.gd/7RHp0u" group-title="Canais | 24 Horas",Pepe Legal [24h]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41897
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig [24h]" tvg-logo="https://is.gd/Hpu9Wg" group-title="Canais | 24 Horas",Peppa Pig [24h]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39572
-#EXTINF:-1 tvg-id="" tvg-name="Pink Floyd" tvg-logo="" group-title="Shows",Pink Floyd
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42445
-#EXTINF:-1 tvg-id="" tvg-name="PJ Masks [24h]" tvg-logo="https://i1.wp.com/disneynews.us/wp-content/uploads/2018/04/l4406_4419_PJ-Masks.png" group-title="Canais | 24 Horas",PJ Masks [24h]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39775
-#EXTINF:-1 tvg-id="" tvg-name="PLAYKIDS FHD" tvg-logo="https://sydneyseast.kidsizeliving.com.au/dotAsset/f281f444-3ec8-4b01-826c-4287a7649bc6.png" group-title="Canais | Full HD",PLAYKIDS FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41522
-#EXTINF:-1 tvg-id="" tvg-name="PlayKids HD" tvg-logo="https://sydneyseast.kidsizeliving.com.au/dotAsset/f281f444-3ec8-4b01-826c-4287a7649bc6.png" group-title="Canais | Infantil",PlayKids HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41359
-#EXTINF:-1 tvg-id="" tvg-name="Popeye [24h]" tvg-logo="https://i.pinimg.com/originals/3a/c3/ac/3ac3ac9a957f934708c7ce785ece3dc0.png" group-title="Canais | 24 Horas",Popeye [24h]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39777
-#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 2
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37060
-#EXTINF:-1 tvg-id="Premiere 2 FHD" tvg-name="Premiere 2 FHD" tvg-logo="https://i.imgur.com/OEuXulO.png" group-title="Canais | Full HD",Premiere 2 FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38410
-#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 2 HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36952
-#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 3
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37059
-#EXTINF:-1 tvg-id="Premiere 3 FHD" tvg-name="Premiere 3 FHD" tvg-logo="https://i.imgur.com/OEuXulO.png" group-title="Canais | Full HD",Premiere 3 FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38409
-#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 3 HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36951
-#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 4
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37058
-#EXTINF:-1 tvg-id="Premiere 4 FHD" tvg-name="Premiere 4 FHD" tvg-logo="https://i.imgur.com/OEuXulO.png" group-title="Canais | Full HD",Premiere 4 FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38408
-#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="Premiere 4 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 4 HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36950
-#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 5
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37057
-#EXTINF:-1 tvg-id="Premiere 5 FHD" tvg-name="Premiere 5 FHD" tvg-logo="https://i.imgur.com/OEuXulO.png" group-title="Canais | Full HD",Premiere 5 FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38407
-#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="Premiere 5 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 5 HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36949
-#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 6
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37056
-#EXTINF:-1 tvg-id="Premiere 6 FHD" tvg-name="Premiere 6 FHD" tvg-logo="https://i.imgur.com/OEuXulO.png" group-title="Canais | Full HD",Premiere 6 FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38406
-#EXTINF:-1 tvg-id="Premiere 6 HD" tvg-name="Premiere 6 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 6 HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36906
-#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 7
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37017
-#EXTINF:-1 tvg-id="Premiere 7 FHD" tvg-name="Premiere 7 FHD" tvg-logo="https://i.imgur.com/OEuXulO.png" group-title="Canais | Full HD",Premiere 7 FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38405
-#EXTINF:-1 tvg-id="Premiere 7 HD" tvg-name="Premiere 7 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 7 HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36905
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="PREMIERE CLUBES" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",PREMIERE CLUBES
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37016
-#EXTINF:-1 tvg-id="Premiere Clubes FHD" tvg-name="PREMIERE CLUBES 4K" tvg-logo="https://i.imgur.com/OEuXulO.png" group-title="Canais 4K",PREMIERE CLUBES 4K
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40783
-#EXTINF:-1 tvg-id="Premiere Clubes FHD" tvg-name="Premiere Clubes FHD" tvg-logo="https://i.imgur.com/OEuXulO.png" group-title="Canais | Full HD",Premiere Clubes FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38411
-#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere Clubes HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36948
-#EXTINF:-1 tvg-id="Prime Box" tvg-name="Prime Box Brazil" tvg-logo="http://i.imgur.com/tjEoZDA.png" group-title="Canais | Filmes e Series",Prime Box Brazil
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37053
-#EXTINF:-1 tvg-id="Prime Box Brazil FHD" tvg-name="Prime Box Brazil FHD" tvg-logo="http://i.imgur.com/tjEoZDA.png" group-title="Canais | Full HD",Prime Box Brazil FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41501
-#EXTINF:-1 tvg-id="" tvg-name="Queen" tvg-logo="" group-title="Shows",Queen
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42572
-#EXTINF:-1 tvg-id="" tvg-name="Racionais Mc's" tvg-logo="" group-title="Shows",Racionais Mc's
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39784
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="RBS TV Porto Alegre" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",RBS TV Porto Alegre
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40253
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD" tvg-name="RBS TV Porto Alegre HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",RBS TV Porto Alegre HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40252
-#EXTINF:-1 tvg-id="" tvg-name="RECEBI UMA ENCOMENDA ESTRANHA" tvg-logo="https://i.imgur.com/88xlAiA.jpg" group-title="Historias Paranormal",RECEBI UMA ENCOMENDA ESTRANHA
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42581
-#EXTINF:-1 tvg-id="RecordTV HD" tvg-name="RecordTV HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36947
-#EXTINF:-1 tvg-id="RecordTV Minas" tvg-name="RecordTV Minas " tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV Minas 
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41362
-#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",Record News
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41529
-#EXTINF:-1 tvg-id="Record News FHD" tvg-name="Record News FHD" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Full HD",Record News FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41502
-#EXTINF:-1 tvg-id="Record News" tvg-name="Record News HD" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",Record News HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37050
-#EXTINF:-1 tvg-id="RecordTV Paulista FHD" tvg-name="RecordTV Paulista FHD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Full HD",RecordTV Paulista FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41516
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37051
-#EXTINF:-1 tvg-id="" tvg-name="RECORDTV BAHIA FHD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Full HD",RECORDTV BAHIA FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42905
-#EXTINF:-1 tvg-id="" tvg-name="RECORDTV BAHIA HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RECORDTV BAHIA HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42624
-#EXTINF:-1 tvg-id="RecordTV Brasília" tvg-name="RecordTV Brasilia" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV Brasilia
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42627
-#EXTINF:-1 tvg-id="RecordTV Brasília HD" tvg-name="RecordTV Brasilia HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV Brasilia HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42626
-#EXTINF:-1 tvg-id="RecordTV FHD" tvg-name="RecordTV FHD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Full HD",RecordTV FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38421
-#EXTINF:-1 tvg-id="RecordTV Minas FHD" tvg-name="RecordTV Minas FHD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Full HD",RecordTV Minas FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42904
-#EXTINF:-1 tvg-id="RecordTV Rio" tvg-name="RecordTV Rio" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV Rio
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42637
-#EXTINF:-1 tvg-id="RecordTV Rio FHD" tvg-name="RecordTV Rio FHD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Full HD",RecordTV Rio FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41521
-#EXTINF:-1 tvg-id="RecordTV RS FHD" tvg-name="RecordTV RS FHD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Full HD",RecordTV RS FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42907
-#EXTINF:-1 tvg-id="RecordTV RS HD" tvg-name="RecordTV RS HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV RS HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42628
-#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede Brasil" tvg-logo="https://i.imgur.com/nDzoCw3.png" group-title="Canais | Religioso",Rede Brasil
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37013
-#EXTINF:-1 tvg-id="" tvg-name="Rede Minas" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/17007d69e234910da3da1ac85e3d49b9.jpg" group-title="Canais | Variedades",Rede Minas
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40183
-#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="https://i.imgur.com/yuEWxEV.png" group-title="Canais | Religioso",Rede Vida
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37011
-#EXTINF:-1 tvg-id="Rede Vida FHD" tvg-name="Rede Vida FHD" tvg-logo="https://i.imgur.com/yuEWxEV.png" group-title="Canais | Full HD",Rede Vida FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41519
-#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",RedeTV!
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37012
-#EXTINF:-1 tvg-id="RedeTV! FHD" tvg-name="RedeTV! FHD" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Full HD",RedeTV! FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41518
-#EXTINF:-1 tvg-id="RedeTV! HD" tvg-name="RedeTV! HD" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",RedeTV! HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36946
-#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37048
-#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36945
-#EXTINF:-1 tvg-id="SBT Interior SP" tvg-name="SBT SP Interior" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT SP Interior
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/42912
-#EXTINF:-1 tvg-id="" tvg-name="SHOW DA VIOLA" tvg-logo="https://i.imgur.com/fAltLJd.jpg" group-title="Shows",SHOW DA VIOLA
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39770
-#EXTINF:-1 tvg-id="" tvg-name="Simone e Simaria Bar das Coleguinhas" tvg-logo="" group-title="Shows",Simone e Simaria Bar das Coleguinhas
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39792
-#EXTINF:-1 tvg-id="Sony Channel" tvg-name="Sony Channel" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Canais | Filmes e Series",Sony Channel
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37007
-#EXTINF:-1 tvg-id="Sony Channel FHD" tvg-name="Sony Channel FHD" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Canais | Full HD",Sony Channel FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41470
-#EXTINF:-1 tvg-id="Sony Channel HD" tvg-name="Sony Channel HD" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Canais | Filmes e Series",Sony Channel HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36987
-#EXTINF:-1 tvg-id="Space HD" tvg-name="Space" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais | Filmes e Series",Space
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37046
-#EXTINF:-1 tvg-id="Space FHD" tvg-name="Space FHD" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais | Full HD",Space FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41503
-#EXTINF:-1 tvg-id="Space" tvg-name="Space HD" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais | Filmes e Series",Space HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36944
-#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes",SporTV
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37256
-#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2" tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="Canais | Esportes",SporTV 2
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37044
-#EXTINF:-1 tvg-id="SporTV 2 FHD" tvg-name="SporTV 2 FHD" tvg-logo="https://i.imgur.com/dnjAv2m.png" group-title="Canais | Full HD",SporTV 2 FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38395
-#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SporTV 2 HD" tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="Canais | Esportes",SporTV 2 HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36943
-#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/SAxzLi9.png" group-title="Canais | Esportes",SporTV 3
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37006
-#EXTINF:-1 tvg-id="SporTV 3 FHD" tvg-name="SporTV 3 FHD" tvg-logo="https://i.imgur.com/SAxzLi9.png" group-title="Canais | Full HD",SporTV 3 FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38394
-#EXTINF:-1 tvg-id="SporTV 3 HD" tvg-name="SporTV 3 HD" tvg-logo="https://i.imgur.com/SAxzLi9.png" group-title="Canais | Esportes",SporTV 3 HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36942
-#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV 4K" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais 4K",SPORTV 4K
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40785
-#EXTINF:-1 tvg-id="SporTV FHD" tvg-name="SporTV FHD" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Full HD",SporTV FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38419
-#EXTINF:-1 tvg-id="SporTV HD" tvg-name="SporTV HD" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes",SporTV HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37255
-#EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="Studio Universal" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Canais | Filmes e Series",Studio Universal
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37043
-#EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="Studio Universal HD" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Canais | Filmes e Series",Studio Universal HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36904
-#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="http://i.imgur.com/2lKk7Jw.png" group-title="Canais | Filmes e Series",Syfy
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37042
-#EXTINF:-1 tvg-id="Syfy FHD" tvg-name="Syfy FHD" tvg-logo="http://i.imgur.com/2lKk7Jw.png" group-title="Canais | Full HD",Syfy FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41504
-#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy HD" tvg-logo="http://i.imgur.com/2lKk7Jw.png" group-title="Canais | Filmes e Series",Syfy HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36903
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Canais | Variedades",TBS
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37041
-#EXTINF:-1 tvg-id="TBS FHD" tvg-name="TBS FHD" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Canais | Full HD",TBS FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41505
-#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Canais | Variedades",TBS HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36940
-#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM" tvg-logo="http://tbsila.cdn.turner.com/tbsila/hashtag/assets/tcm/logo.png" group-title="Canais | Filmes e Series",TCM
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37037
-#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="Telecine Action" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Filmes e Series",Telecine Action
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37040
-#EXTINF:-1 tvg-id="Telecine Action FHD" tvg-name="Telecine Action FHD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Full HD",Telecine Action FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38418
-#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Filmes e Series",Telecine Action HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36939
-#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="https://i.imgur.com/XvhwDTh.png" group-title="Canais | Filmes e Series",Telecine Cult
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37039
-#EXTINF:-1 tvg-id="Telecine Cult FHD" tvg-name="Telecine Cult FHD" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="Canais | Full HD",Telecine Cult FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41506
-#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult HD" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="Canais | Filmes e Series",Telecine Cult HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36901
-#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Filmes e Series",Telecine Fun
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37005
-#EXTINF:-1 tvg-id="Telecine Fun FHD" tvg-name="Telecine Fun FHD" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Full HD",Telecine Fun FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38417
-#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="Telecine Fun HD" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Filmes e Series",Telecine Fun HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36938
-#EXTINF:-1 tvg-id="Telecine Pipoca  HD" tvg-name="Telecine Pipoca" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Canais | Filmes e Series",Telecine Pipoca
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37038
-#EXTINF:-1 tvg-id="Telecine Pipoca  FHD" tvg-name="Telecine Pipoca FHD" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Canais | Full HD",Telecine Pipoca FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38416
-#EXTINF:-1 tvg-id="Telecine Pipoca  HD" tvg-name="Telecine Pipoca HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Filmes e Series",Telecine Pipoca HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36937
-#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Canais | Filmes e Series",Telecine Premium
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36994
-#EXTINF:-1 tvg-id="Telecine Premium FHD" tvg-name="Telecine Premium FHD" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Canais | Full HD",Telecine Premium FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38415
-#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium HD" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Canais | Filmes e Series",Telecine Premium HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36936
-#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="Telecine Touch" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Canais | Filmes e Series",Telecine Touch
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36995
-#EXTINF:-1 tvg-id="Telecine Touch FHD" tvg-name="Telecine Touch FHD" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Canais | Full HD",Telecine Touch FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38414
-#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="Telecine Touch HD" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Canais | Filmes e Series",Telecine Touch HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36935
-#EXTINF:-1 tvg-id="" tvg-name="Teletubbies [24h]" tvg-logo="https://2.bp.blogspot.com/-ldyYvygC3tA/V2KchfdiSaI/AAAAAAAAXXw/Q_kpOc1OGfAMWQUuefQ-Iwt7jW7r--MoACLcB/s640/teletubbies-brand-image_v5.png" group-title="Canais | 24 Horas",Teletubbies [24h]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39583
-#EXTINF:-1 tvg-id="" tvg-name="Teodoro & Sampaio" tvg-logo="https://i.imgur.com/wrCD0wZ.jpg" group-title="Shows",Teodoro & Sampaio
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39791
-#EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva" tvg-logo="http://i.imgur.com/Lasl3ys.png" group-title="Canais | Variedades",Terra Viva
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37004
-#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="Canais | Variedades",TLC HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36902
-#EXTINF:-1 tvg-id="" tvg-name="TLC SD" tvg-logo="http://images.mi.tv/channels/br_tlc_m.png" group-title="Canais | Variedades",TLC SD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37036
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Filmes e Series",TNT
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37035
-#EXTINF:-1 tvg-id="TNT FHD" tvg-name="TNT FHD" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Full HD",TNT FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41507
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://t.likeiptv.com/tnthd1.png" group-title="Canais | Filmes e Series",TNT HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36934
-#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Séries" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Filmes e Series",TNT Séries
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37034
-#EXTINF:-1 tvg-id="TNT Séries FHD" tvg-name="TNT Séries FHD" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Full HD",TNT Séries FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41508
-#EXTINF:-1 tvg-id="TNT Séries HD" tvg-name="TNT Séries HD" tvg-logo="http://t.likeiptv.com/tntserieshd.png" group-title="Canais | Filmes e Series",TNT Séries HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36933
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="Canais | Infantil",Tooncast
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37033
-#EXTINF:-1 tvg-id="TruTV" tvg-name="TruTV" tvg-logo="https://i.imgur.com/qxeEe8p.png" group-title="Canais | Variedades",TruTV
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37032
-#EXTINF:-1 tvg-id="TruTV FHD" tvg-name="TruTV FHD" tvg-logo="https://i.imgur.com/qxeEe8p.png" group-title="Canais | Full HD",TruTV FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41509
-#EXTINF:-1 tvg-id="" tvg-name="Turma da Monica [24h]" tvg-logo="http://1.bp.blogspot.com/-ksg1L-EuEJ0/UxfPcWiYZNI/AAAAAAAABi0/PFDR7T8OY2c/s1600/turma-da-monica.png" group-title="Canais | 24 Horas",Turma da Monica [24h]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/39571
-#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-logo="http://i.imgur.com/UOMWJH6.png" group-title="Canais | Religioso",TV Aparecida
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37003
-#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida HD" tvg-logo="http://i.imgur.com/UOMWJH6.png" group-title="Canais | Religioso",TV Aparecida HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41341
-#EXTINF:-1 tvg-id="" tvg-name="TV Câmara" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a21e5d497fe0f1fc302afd7f02082730.jpg" group-title="Canais | Variedades",TV Câmara
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40189
-#EXTINF:-1 tvg-id="CATVE" tvg-name="TV CATVE SD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b3559796c3af8698f1de6163c34454cb.jpg" group-title="Canais | Variedades",TV CATVE SD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40186
-#EXTINF:-1 tvg-id="TV Escola" tvg-name="TV Escola" tvg-logo="http://i.imgur.com/oSZZKxP.png" group-title="Canais | Abertos",TV Escola
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36999
-#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar" tvg-logo="https://i.imgur.com/Mki3wiO.jpg" group-title="Canais | Religioso",TV Evangelizar
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40072
-#EXTINF:-1 tvg-id="TV Imaculada Conceicao" tvg-name="TV Imaculada SD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/798e12bbccbc19d6e254463b1b072f06.png" group-title="Canais | Religioso",TV Imaculada SD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40127
-#EXTINF:-1 tvg-id="TV Jornal Recife" tvg-name="TV Jornal (SBT PE) SD" tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/tv-jornal.png" group-title="Canais | Abertos",TV Jornal (SBT PE) SD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41371
-#EXTINF:-1 tvg-id="TV Rá-Tim-Bum" tvg-name="TV Ra Tim Bum" tvg-logo="https://i.imgur.com/0MrTbLP.png" group-title="Canais | Infantil",TV Ra Tim Bum
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37015
-#EXTINF:-1 tvg-id="TV Rá-Tim-Bum" tvg-name="TV RA TIM BUM FHD" tvg-logo="https://i.imgur.com/0MrTbLP.png" group-title="Canais | Full HD",TV RA TIM BUM FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41510
-#EXTINF:-1 tvg-id="Rede Gospel" tvg-name="TV Rede Gospel SD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4bde8a9c788e4ae4b2d76359d0889963.jpg" group-title="Canais | Religioso",TV Rede Gospel SD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40247
-#EXTINF:-1 tvg-id="Rede Seculo 21" tvg-name="Tv Século 21" tvg-logo="http://i.imgur.com/ORv5J6Y.png" group-title="Canais | Religioso",Tv Século 21
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40098
-#EXTINF:-1 tvg-id="TV TEM Bauru" tvg-name="TV TEM Bauru" tvg-logo="https://i.imgur.com/n6a7ez8.png" group-title="Canais | Abertos",TV TEM Bauru
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37030
-#EXTINF:-1 tvg-id="TV TEM Sorocaba" tvg-name="TV TEM Sorocaba" tvg-logo="https://i.imgur.com/n6a7ez8.png" group-title="Canais | Abertos",TV TEM Sorocaba
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37029
-#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal Channel" tvg-logo="http://i.imgur.com/Aag8ICV.png" group-title="Canais | Filmes e Series",Universal Channel
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37027
-#EXTINF:-1 tvg-id="Studio Universal FHD" tvg-name="Studio Universal FHD" tvg-logo="http://i.imgur.com/Aag8ICV.png" group-title="Canais | Full HD",Studio Universal FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41511
-#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal Channel HD" tvg-logo="http://i.imgur.com/Aag8ICV.png" group-title="Canais | Filmes e Series",Universal Channel HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36932
-#EXTINF:-1 tvg-id="VH1 HD FHD" tvg-name="VH1 HD FHD" tvg-logo="http://2.bp.blogspot.com/-jtZjq4j1z5I/UMeFkmhloNI/AAAAAAAABAQ/rEe0YTqqo5E/s1600/Render+Logo+VH1.png" group-title="Canais | Full HD",VH1 HD FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40271
-#EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 HD" tvg-logo="http://i.imgur.com/ST4gtJb.png" group-title="Canais | Variedades",VH1 HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36900
-#EXTINF:-1 tvg-id="Viva" tvg-name="Viva" tvg-logo="http://i.imgur.com/CZMldQu.png" group-title="Canais | Variedades",Viva
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36997
-#EXTINF:-1 tvg-id="Viva FHD" tvg-name="Viva FHD" tvg-logo="http://i.imgur.com/CZMldQu.png" group-title="Canais | Full HD",Viva FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38393
-#EXTINF:-1 tvg-id="Viva HD" tvg-name="Viva HD" tvg-logo="http://i.imgur.com/CZMldQu.png" group-title="Canais | Variedades",Viva HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36931
-#EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="Warner Channel" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="Canais | Filmes e Series",Warner Channel
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36996
-#EXTINF:-1 tvg-id="Warner Channel FHD" tvg-name="Warner Channel FHD" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="Canais | Full HD",Warner Channel FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/38384
-#EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="Warner HD" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="Canais | Filmes e Series",Warner HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36930
-#EXTINF:-1 tvg-id="" tvg-name="Woohoo" tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="Canais | Variedades",Woohoo
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37025
-#EXTINF:-1 tvg-id="Woohoo FHD" tvg-name="Woohoo FHD" tvg-logo="https://4.bp.blogspot.com/-2CwDjeJXwlc/Whg9i0MBY7I/AAAAAAAABXI/Qt16RTfb3potQaf4rl8fDNuLzqdtexpqgCLcBGAs/s1600/woohoo.png" group-title="Canais | Full HD",Woohoo FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40267
-#EXTINF:-1 tvg-id="" tvg-name="[XX] Jasmin TV" tvg-logo="http://i.imgur.com/DLEFDcv.png" group-title="Canais | Adultos",[XX] Jasmin TV
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40305
-#EXTINF:-1 tvg-id="PlayboyTV" tvg-name="[XX] Playboy TV HD" tvg-logo="http://4.bp.blogspot.com/-zoABwtfCqyI/VnH8ehrNSwI/AAAAAAAAAdU/qZU8akpmPfE/s1600/PLAYBOYTVHD-2012.png" group-title="Canais | Adultos",[XX] Playboy TV HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40749
-#EXTINF:-1 tvg-id="" tvg-name="[XX] Playboy TV" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="Canais | Adultos",[XX] Playboy TV
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37061
-#EXTINF:-1 tvg-id="PlayboyTV FHD" tvg-name="[XX] Playboy TV  FHD" tvg-logo="http://4.bp.blogspot.com/-zoABwtfCqyI/VnH8ehrNSwI/AAAAAAAAAdU/qZU8akpmPfE/s1600/PLAYBOYTVHD-2012.png" group-title="Canais | Adultos",[XX] Playboy TV  FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/41513
-#EXTINF:-1 tvg-id="" tvg-name="[XX] Sextreme" tvg-logo="http://i.imgur.com/rxDFBSw.png" group-title="Canais | Adultos",[XX] Sextreme
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37047
-#EXTINF:-1 tvg-id="" tvg-name="[XX] Sexy Hot" tvg-logo="http://i.imgur.com/jv8XhSR.png" group-title="Canais | Adultos",[XX] Sexy Hot
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37009
-#EXTINF:-1 tvg-id="" tvg-name="[XX] Venus" tvg-logo="https://i.imgur.com/Ru2GvCs.png" group-title="Canais | Adultos",[XX] Venus
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/37026
-#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD [Alternativo]" tvg-logo="http://urlcurta.ml/2hbQ6" group-title="Canais | Alternativos",A&E HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50614
-#EXTINF:-1 tvg-id="AXN" tvg-name="A&E SD [Alternativo]" tvg-logo="http://urlcurta.ml/2hbQ6" group-title="Canais | Alternativos",A&E SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50628
-#EXTINF:-1 tvg-id="AMC FHD" tvg-name="AMC FHD [Alternativo]" tvg-logo="http://urlcurta.ml/4624i" group-title="Canais | Alternativos",AMC FHD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50636
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD  [Alternativo]" tvg-logo="http://urlcurta.ml/4624i" group-title="Canais | Alternativos",AMC HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50639
-#EXTINF:-1 tvg-id="" tvg-name="AMC SD [Alternativo]" tvg-logo="http://urlcurta.ml/4624i" group-title="Canais | Alternativos",AMC SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50640
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET SD [Alternativo]" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Alternativos",ANIMAL PLANET SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50641
-#EXTINF:-1 tvg-id="" tvg-name="Arte 1 HD [Alternativo]" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Canais | Alternativos",Arte 1 HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50642
-#EXTINF:-1 tvg-id="" tvg-name="Arte 1 SD [Alternativo]" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Canais | Alternativos",Arte 1 SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50643
-#EXTINF:-1 tvg-id="" tvg-name="AXN FHD  [Alternativo]" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Alternativos",AXN FHD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50644
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD [Alternativo]" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Alternativos",AXN HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50646
-#EXTINF:-1 tvg-id="" tvg-name="AXN SD [Alternativo]" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Alternativos",AXN SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50647
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV HD [Alternativo]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Alternativos",BABY TV HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50648
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV SD [Alternativo]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Alternativos",BABY TV SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50649
-#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS HD [Alternativo]" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Alternativos",BAND CAMPINAS HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50650
-#EXTINF:-1 tvg-id="" tvg-name="BAND HD [Alternativo]" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Alternativos",BAND HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50652
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS HD [Alternativo]" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Alternativos",BAND NEWS HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50654
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS SD [Alternativo]" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Alternativos",BAND NEWS SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50655
-#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/7ItcMOv.jpg" group-title="Canais | Esportes",BAND SPORTS
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50613
-#EXTINF:-1 tvg-id="BandSports HD" tvg-name="BAND SPORTS HD" tvg-logo="https://i.imgur.com/7ItcMOv.jpg" group-title="Canais | Esportes",BAND SPORTS HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50612
-#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS HD [Alternativo]" tvg-logo="https://i.imgur.com/7ItcMOv.jpg" group-title="Canais | Alternativos",BAND SPORTS HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50656
-#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS SD [Alternativo]" tvg-logo="https://i.imgur.com/7ItcMOv.jpg" group-title="Canais | Alternativos",BAND SPORTS SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50657
-#EXTINF:-1 tvg-id="" tvg-name="BIS FHD [Alternativo]" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Canais | Alternativos",BIS FHD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50660
-#EXTINF:-1 tvg-id="" tvg-name="BIS HD [Alternativo]" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Canais | Alternativos",BIS HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50661
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG FHD [Alternativo]" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais | Alternativos",BOOMERANG FHD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50663
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD [Alternativo]" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais | Alternativos",BOOMERANG HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50664
-#EXTINF:-1 tvg-id="Canal do Boi" tvg-name="Canal do Boi" tvg-logo="http://urlcurta.ml/B8eTy" group-title="Canais | Abertos",Canal do Boi
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50645
-#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA [Alternativo]" tvg-logo="https://i.imgur.com/SzRozG4.png" group-title="Canais | Alternativos",CANCAO NOVA [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50665
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK FHD [Alternativo]" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Alternativos",CARTOON NETWORK FHD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50666
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",CARTOON NETWORK H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50534
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD [Alternativo]" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Alternativos",CARTOON NETWORK HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50667
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX FHD [Alternativo]" tvg-logo="https://i.pinimg.com/originals/a8/2b/83/a82b8391d267db1667978dc58413a018.png" group-title="Canais | Alternativos",CINEMAX FHD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50668
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",CINEMAX - H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50535
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD [Alternativo]" tvg-logo="https://i.pinimg.com/originals/a8/2b/83/a82b8391d267db1667978dc58413a018.png" group-title="Canais | Alternativos",CINEMAX HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50669
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE FHD [Alternativo]" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Alternativos",COMBATE FHD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50671
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",COMBATE H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50536
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE HD [Alternativo]" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Alternativos",COMBATE HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50672
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY - CENTRAL H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",COMEDY - CENTRAL H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50537
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD [Alternativo]" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Alternativos",COMEDY CENTRAL HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50674
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL SD [Alternativo]" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Alternativos",COMEDY CENTRAL SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50675
-#EXTINF:-1 tvg-id="" tvg-name="CURTA SD [Alternativo]" tvg-logo="https://i.imgur.com/IlzIxvv.png" group-title="Canais | Alternativos",CURTA SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50676
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL FHD [Alternativo]" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Alternativos",DISCOVERY CHANNEL FHD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50681
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",DISCOVERY CHANNEL H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50538
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD [Alternativo]" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Alternativos",DISCOVERY CHANNEL HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50691
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL SD [Alternativo]" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Alternativos",DISCOVERY CHANNEL SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50701
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION FHD  [Alternativo]" tvg-logo="https://1.bp.blogspot.com/-zfUSjCPSqE0/WasIODWYBVI/AAAAAAAACSE/7Y3DoKQVXuQrsCbTghQBC_Ni-DG6Mej4ACLcBGAs/s1600/downloadfile-1.png" group-title="Canais | Alternativos",DISCOVERY CIVILIZATION FHD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50702
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",DISCOVERY CIVILIZATION H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50539
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION HD  [Alternativo]" tvg-logo="https://1.bp.blogspot.com/-zfUSjCPSqE0/WasIODWYBVI/AAAAAAAACSE/7Y3DoKQVXuQrsCbTghQBC_Ni-DG6Mej4ACLcBGAs/s1600/downloadfile-1.png" group-title="Canais | Alternativos",DISCOVERY CIVILIZATION HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50703
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH HD  [Alternativo]" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Canais | Alternativos",DISCOVERY HOME & HEALTH HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50704
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HELTH SD  [Alternativo]" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Canais | Alternativos",DISCOVERY HOME & HELTH SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50705
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD  [Alternativo]" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Alternativos",DISCOVERY KIDS HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50706
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS SD  [Alternativo]" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Alternativos",DISCOVERY KIDS SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50707
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://urlcurta.ml/qyAyP" group-title="Canais | Documentarios",DISCOVERY SCIENCE
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51002
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",DISCOVERY SCIENCE H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50540
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE HD  [Alternativo]" tvg-logo="http://urlcurta.ml/qyAyP" group-title="Canais | Alternativos",DISCOVERY SCIENCE HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50708
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",Discovery Theater
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51007
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER HD [Alternativo]" tvg-logo="http://i.imgur.com/VZH1x36.png" group-title="Canais | Alternativos",DISCOVERY THEATER HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50709
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO HD [Alternativo]" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Alternativos",DISCOVERY TURBO HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50710
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO SD [Alternativo]" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Alternativos",DISCOVERY TURBO SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50711
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD [Alternativo]" tvg-logo="https://i.imgur.com/hGhgbMQ.png" group-title="Canais | Alternativos",DISCOVERY WORLD HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50712
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD [Alternativo]" tvg-logo="https://i.imgur.com/sQSxcnd.png" group-title="Canais | Alternativos",DISNEY CHANNEL HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50713
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL SD [Alternativo]" tvg-logo="https://i.imgur.com/sQSxcnd.png" group-title="Canais | Alternativos",DISNEY CHANNEL SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50714
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR HD [Alternativo]" tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-disney-junior-hd.png" group-title="Canais | Alternativos",DISNEY JR HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50715
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR SD [Alternativo]" tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-disney-junior-hd.png" group-title="Canais | Alternativos",DISNEY JR SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50716
-#EXTINF:-1 tvg-id="Disney XD HD" tvg-name="Disney XD H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",Disney XD H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51050
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD HD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Canais | Infantil",DISNEY XD HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50717
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD SD [Alternativo]" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Canais | Alternativos",DISNEY XD SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50718
-#EXTINF:-1 tvg-id="" tvg-name="Doug 24h" tvg-logo="" group-title="Canais | 24 Horas",Doug 24h
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51003
-#EXTINF:-1 tvg-id="" tvg-name="E! HD [Alternativo]" tvg-logo="https://goo.gl/V6G6Hy" group-title="Canais | Alternativos",E! HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50719
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2  HD [Alternativo]" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Alternativos",ESPN 2  HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50734
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",ESPN 2 - H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50541
-#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL HD [Alternativo]" tvg-logo="https://i.imgur.com/u11qaVb.png" group-title="Canais | Alternativos",ESPN BRASIL HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50736
-#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL SD [Alternativo]" tvg-logo="https://i.imgur.com/u11qaVb.png" group-title="Canais | Alternativos",ESPN BRASIL SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50737
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD [Alternativo]" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056" group-title="Canais | Alternativos",ESPN HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50739
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SD [Alternativo]" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056" group-title="Canais | Alternativos",ESPN SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50740
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",FOOD NETWORK - H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50543
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD [Alternativo]" tvg-logo="https://media.cdnandroid.com/b8/d5/6e/20/imagen-food-network-brasil-0thumb.jpg" group-title="Canais | Alternativos",FOOD NETWORK HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50742
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK SD [Alternativo]" tvg-logo="https://media.cdnandroid.com/b8/d5/6e/20/imagen-food-network-brasil-0thumb.jpg" group-title="Canais | Alternativos",FOOD NETWORK SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50745
-#EXTINF:-1 tvg-id="" tvg-name="FOX - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",FOX - H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50544
-#EXTINF:-1 tvg-id="" tvg-name="FOX HD [Alternativo]" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Alternativos",FOX HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50747
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD [Alternativo]" tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Canais | Alternativos",FOX LIFE HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50748
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE SD [Alternativo]" tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Canais | Alternativos",FOX LIFE SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50749
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1 HD [Alternativo]" tvg-logo="https://i.imgur.com/ANiatwo.png" group-title="Canais | Alternativos",FOX PREMIUM 1 HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50750
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2 HD  [Alternativo]" tvg-logo="https://i.imgur.com/WgobCjU.png" group-title="Canais | Alternativos",FOX PREMIUM 2 HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50751
-#EXTINF:-1 tvg-id="" tvg-name="FOX SD [Alternativo]" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Alternativos",FOX SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50752
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",FOX SPORTS 2 - H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50545
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 SD [Alternativo]" tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Alternativos",FOX SPORTS 2 SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50754
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD [Alternativo]" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Alternativos",FOX SPORTS HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50755
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS SD [Alternativo]" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Alternativos",FOX SPORTS SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50756
-#EXTINF:-1 tvg-id="" tvg-name="FX HD [Alternativo]" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Alternativos",FX HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50770
-#EXTINF:-1 tvg-id="" tvg-name="FX SD [Alternativo]" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Alternativos",FX SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50771
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA HD  [Alternativo]" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Alternativos",GLOBO BRASILIA HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51146
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA SD  [Alternativo]" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Alternativos",GLOBO BRASILIA SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51152
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SAO CARLOS SD  [Alternativo]" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Alternativos",GLOBO EPTV SAO CARLOS SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51145
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTERTV CABUGI  [Alternativo]" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Alternativos",GLOBO INTERTV CABUGI  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51153
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD  [Alternativo]" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Alternativos",GLOBO MINAS HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51147
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS SD*  [Alternativo]" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Alternativos",GLOBO MINAS SD*  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51154
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE HD  [Alternativo]" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Alternativos",GLOBO NORDESTE HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51148
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD  [Alternativo]" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Alternativos",GLOBO RJ HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51149
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD  [Alternativo]" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Alternativos",GLOBO SP HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51150
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TRIBUNA SANTOS  [Alternativo]" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Alternativos",GLOBO TV TRIBUNA SANTOS  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51155
-#EXTINF:-1 tvg-id="" tvg-name="GLOOB HD [Alternativo]" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Alternativos",GLOOB HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50773
-#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO SD [Alternativo]" tvg-logo="https://i.imgur.com/KC9T8wA.png" group-title="Canais | Alternativos",GLOOBINHO SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50774
-#EXTINF:-1 tvg-id="" tvg-name="GNT HD [Alternativo]" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Canais | Alternativos",GNT HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50775
-#EXTINF:-1 tvg-id="" tvg-name="GNT SD [Alternativo]" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Canais | Alternativos",GNT SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50781
-#EXTINF:-1 tvg-id="" tvg-name="H2 HD [Alternativo]" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Alternativos",H2 HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50786
-#EXTINF:-1 tvg-id="" tvg-name="H2 SD [Alternativo]" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Alternativos",H2 SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50787
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD [Alternativo]" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Canais | Alternativos",HBO 2 HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50788
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 SD [Alternativo]" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Canais | Alternativos",HBO 2 SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50789
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD [Alternativo]" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais | Alternativos",HBO FAMILY HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50790
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY SD [Alternativo]" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais | Alternativos",HBO FAMILY SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50791
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD [Alternativo]" tvg-logo="http://t.likeiptv.com/hbohd.png" group-title="Canais | Alternativos",HBO HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50792
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS *E [Alternativo]" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Alternativos",HBO PLUS *E [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50793
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD  [Alternativo]" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Alternativos",HBO PLUS HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51151
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS SD  [Alternativo]" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Alternativos",HBO PLUS SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50794
-#EXTINF:-1 tvg-id="" tvg-name="HBO SD [Alternativo]" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Canais | Alternativos",HBO SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50795
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD [Alternativo]" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Alternativos",HBO SIGNATURE HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50796
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE SD [Alternativo]" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Alternativos",HBO SIGNATURE SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50797
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL HD [Alternativo]" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Alternativos",HISTORY CHANNEL HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50798
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL SD [Alternativo]" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Alternativos",HISTORY CHANNEL SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50799
-#EXTINF:-1 tvg-id="" tvg-name="INVESTIGACAO DISCOVERY HD [Alternativo]" tvg-logo="https://i.imgur.com/7wEq3VK.png" group-title="Canais | Alternativos",INVESTIGACAO DISCOVERY HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50803
-#EXTINF:-1 tvg-id="" tvg-name="INVESTIGACAO DISCOVERY SD [Alternativo]" tvg-logo="https://i.imgur.com/7wEq3VK.png" group-title="Canais | Alternativos",INVESTIGACAO DISCOVERY SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50817
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME HD [Alternativo]" tvg-logo="http://i.imgur.com/tsFolbI.png" group-title="Canais | Alternativos",LIFETIME HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50829
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME SD [Alternativo]" tvg-logo="http://i.imgur.com/tsFolbI.png" group-title="Canais | Alternativos",LIFETIME SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50834
-#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT HD [Alternativo]" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Alternativos",MAIS GLOBOSAT HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50836
-#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT SD [Alternativo]" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Alternativos",MAIS GLOBOSAT SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50838
-#EXTINF:-1 tvg-id="" tvg-name="MAX HD [Alternativo]" tvg-logo="http://urlcurta.ml/KRVHG" group-title="Canais | Alternativos",MAX HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50842
-#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME SD [Alternativo]" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais | Alternativos",MAX PRIME SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50845
-#EXTINF:-1 tvg-id="" tvg-name="MAX SD [Alternativo]" tvg-logo="http://urlcurta.ml/KRVHG" group-title="Canais | Alternativos",MAX SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50849
-#EXTINF:-1 tvg-id="" tvg-name="MAX UP HD [Alternativo]" tvg-logo="http://i.imgur.com/tcr0CGl.png" group-title="Canais | Alternativos",MAX UP HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50851
-#EXTINF:-1 tvg-id="" tvg-name="MAX UP SD [Alternativo]" tvg-logo="http://i.imgur.com/tcr0CGl.png" group-title="Canais | Alternativos",MAX UP SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50852
-#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX HD [Alternativo]" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Alternativos",MEGAPIX HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50853
-#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX SD [Alternativo]" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Alternativos",MEGAPIX SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50854
-#EXTINF:-1 tvg-id="" tvg-name="MTV HD [Alternativo]" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Canais | Alternativos",MTV HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50855
-#EXTINF:-1 tvg-id="" tvg-name="MTV SD [Alternativo]" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Canais | Alternativos",MTV SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50856
-#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW HD [Alternativo]" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Alternativos",MULTISHOW HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50857
-#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW SD [Alternativo]" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Alternativos",MULTISHOW SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50858
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRASIL SD [Alternativo]" tvg-logo="http://i.imgur.com/ubp029X.png" group-title="Canais | Alternativos",MUSIC BOX BRASIL SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50859
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO HD [Alternativo]" tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | Alternativos",NATGEO HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50902
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS HD [Alternativo]" tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Alternativos",NATGEO KIDS HD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50903
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS SD [Alternativo]" tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Alternativos",NATGEO KIDS SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50904
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO SD [Alternativo]" tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | Alternativos",NATGEO SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50905
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD HD[ Alternativo]" tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Alternativos",NATGEO WILD HD[ Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50920
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD SD [Alternativo]" tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Alternativos",NATGEO WILD SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50925
-#EXTINF:-1 tvg-id="" tvg-name="NBR SD [Alternativo]" tvg-logo="https://i.imgur.com/gb8AAKf.png" group-title="Canais | Alternativos",NBR SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50929
-#EXTINF:-1 tvg-id="" tvg-name="NHK SD [Alternativo]" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b885dddf8d0e990d24c4a3fae05c4194.png" group-title="Canais | Alternativos",NHK SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50931
-#EXTINF:-1 tvg-id="" tvg-name="NICK HD  [Alternativo]" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Alternativos",NICK HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50932
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR HD  [Alternativo]" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Canais | Alternativos",NICK JR HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50933
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR SD  [Alternativo]" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Canais | Alternativos",NICK JR SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50934
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON SD  [Alternativo]" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Alternativos",NICKELODEON SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50935
-#EXTINF:-1 tvg-id="" tvg-name="NOVO TEMPO   [Alternativo]" tvg-logo="https://i.imgur.com/Y2ncDiz.png" group-title="Canais | Alternativos",NOVO TEMPO   [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50936
-#EXTINF:-1 tvg-id="" tvg-name="OFF HD  [Alternativo]" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Canais | Alternativos",OFF HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50937
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE SD [Alternativo]" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Alternativos",COMBATE SD [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50673
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL HD  [Alternativo]" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais | Alternativos",PARAMOUNT CHANNEL HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50938
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL SD  [Alternativo]" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais | Alternativos",PARAMOUNT CHANNEL SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50945
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 HD  [Alternativo]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 2 HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50953
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 SD  [Alternativo]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 2 SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50954
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 HD  [Alternativo]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 3 HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50966
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 SD  [Alternativo]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 3 SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50973
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 HD  [Alternativo]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 4 HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50976
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 SD  [Alternativo]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 4 SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50977
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 HD  [Alternativo]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 5 HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50983
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 SD  [Alternativo]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 5 SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50984
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 HD  [Alternativo]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 6 HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50985
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 SD  [Alternativo]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 6 SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50986
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 HD  [Alternativo]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 7 HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50987
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 SD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 7 SD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50988
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 8 SD  [Alternativo]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 8 SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50989
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD  [Alternativo]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE CLUBES HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51000
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES SD  [Alternativo]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE CLUBES SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51001
-#EXTINF:-1 tvg-id="" tvg-name="PRIMEBOX BRASIL SD  [Alternativo]" tvg-logo="http://i.imgur.com/tjEoZDA.png" group-title="Canais | Alternativos",PRIMEBOX BRASIL SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51004
-#EXTINF:-1 tvg-id="" tvg-name="RECORD HD  [Alternativo]" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Alternativos",RECORD HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51006
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS HD  [Alternativo]" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Alternativos",RECORD NEWS HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51008
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS SD  [Alternativo]" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Alternativos",RECORD NEWS SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51009
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SD  [Alternativo]" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Alternativos",RECORD SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51012
-#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL SD  [Alternativo]" tvg-logo="https://i.imgur.com/nDzoCw3.png" group-title="Canais | Alternativos",REDE BRASIL SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51013
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD  [Alternativo]" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Alternativos",REDE TV HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51014
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV SD  [Alternativo]" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Alternativos",REDE TV SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51024
-#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA SD  [Alternativo]" tvg-logo="https://i.imgur.com/yuEWxEV.png" group-title="Canais | Alternativos",REDE VIDA SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51032
-#EXTINF:-1 tvg-id="" tvg-name="SBT HD  [Alternativo]" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Alternativos",SBT HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51039
-#EXTINF:-1 tvg-id="" tvg-name="SBT PE HD  [Alternativo]" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Alternativos",SBT PE HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51041
-#EXTINF:-1 tvg-id="" tvg-name="SBT SD  [Alternativo]" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Alternativos",SBT SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51044
-#EXTINF:-1 tvg-id="" tvg-name="SONY FULL HD H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",SONY FULL HD H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50533
-#EXTINF:-1 tvg-id="" tvg-name="SPACE  HD  [Alternativo]" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais | Alternativos",SPACE  HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51047
-#EXTINF:-1 tvg-id="" tvg-name="SPACE SD  [Alternativo]" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais | Alternativos",SPACE SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51048
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2  [Alternativo]" tvg-logo="https://i.imgur.com/dnjAv2m.png" group-title="Canais | Alternativos",SPORTV 2  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51049
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 HD  [Alternativo]" tvg-logo="https://i.imgur.com/dnjAv2m.png" group-title="Canais | Alternativos",SPORTV 2 HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51051
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 SD  [Alternativo]" tvg-logo="https://i.imgur.com/dnjAv2m.png" group-title="Canais | Alternativos",SPORTV 2 SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51052
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 HD  [Alternativo]" tvg-logo="https://i.imgur.com/SAxzLi9.png" group-title="Canais | Alternativos",SPORTV 3 HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51053
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 SD  [Alternativo]" tvg-logo="https://i.imgur.com/SAxzLi9.png" group-title="Canais | Alternativos",SPORTV 3 SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51054
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV HD  [Alternativo]" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Alternativos",SPORTV HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51055
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV SD  [Alternativo]" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Alternativos",SPORTV SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51056
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL HD  [Alternativo]" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Canais | Alternativos",STUDIO UNIVERSAL HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51077
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL SD  [Alternativo]" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Canais | Alternativos",STUDIO UNIVERSAL SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51081
-#EXTINF:-1 tvg-id="" tvg-name="Syfy FHD H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",Syfy FHD H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50532
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION HD  [Alternativo]" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE ACTION HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51083
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION SD  [Alternativo]" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE ACTION SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51084
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT HD  [Alternativo]" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE CULT HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51085
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN HD  [Alternativo]" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE FUN HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51087
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN SD  [Alternativo]" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE FUN SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51088
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA HD  [Alternativo]" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE PIPOCA HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51089
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA SD  [Alternativo]" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE PIPOCA SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51090
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM HD  [Alternativo]" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE PREMIUM HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51104
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM SD  [Alternativo]" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE PREMIUM SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51109
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH HD  [Alternativo]" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE TOUCH HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51113
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH SD  [Alternativo]" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE TOUCH SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51115
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD  [Alternativo]" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Alternativos",TNT HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51119
-#EXTINF:-1 tvg-id="" tvg-name="TNT SD  [Alternativo]" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Alternativos",TNT SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51120
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD  [Alternativo]" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Alternativos",TNT SERIES HD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51121
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES SD  [Alternativo]" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Alternativos",TNT SERIES SD  [Alternativo]
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51122
-#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 1" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 1
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52276
-#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 10" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 10
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52285
-#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 2" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 2
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52277
-#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 3" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 3
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52278
-#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 4" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 4
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52279
-#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 5" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 5
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52280
-#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 6" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 6
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52281
-#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 7" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 7
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52282
-#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 8" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 8
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52283
-#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 9" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 9
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52284
-#EXTINF:-1 tvg-id="" tvg-name="Xuxa só para Baixinhos 24h" tvg-logo="" group-title="Canais | 24 Horas",Xuxa só para Baixinhos 24h
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/50956
-#EXTINF:-1 tvg-id="" tvg-name="[XX] Visit-X HD" tvg-logo="http://urlcurta.ml/gbkuw" group-title="Canais | Adultos",[XX] Visit-X HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/40151
-#EXTINF:-1 tvg-id="Woohoo" tvg-name="Woohoo HD" tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="Canais | Variedades",Woohoo HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/36899
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV ALTO LITORAL FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO INTER TV ALTO LITORAL FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52593
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV ALTO LITORAL HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO INTER TV ALTO LITORAL HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52592
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV DOS VALES" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO INTER TV DOS VALES
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52578
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV DOS VALES FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO INTER TV DOS VALES FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52590
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV DOS VALES HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO INTER TV DOS VALES HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52587
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV GRANDE MINAS" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO INTER TV GRANDE MINAS
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52575
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV GRANDE MINAS FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO INTER TV GRANDE MINAS FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52577
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV GRANDE MINAS HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO INTER TV GRANDE MINAS HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52576
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV SERRA MAR" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO INTER TV SERRA MAR
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52572
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV SERRA MAR FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO INTER TV SERRA MAR FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52574
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV SERRA MAR HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO INTER TV SERRA MAR HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52573
-#EXTINF:-1 tvg-id="NSC TV Blumenau" tvg-name="NSC TV Blumenau" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",NSC TV Blumenau
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52571
-#EXTINF:-1 tvg-id="NSC TV Blumenau FHD" tvg-name="NSC TV Blumenau FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",NSC TV Blumenau FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52569
-#EXTINF:-1 tvg-id="NSC TV Blumenau HD" tvg-name="NSC TV Blumenau HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",NSC TV Blumenau HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52570
-#EXTINF:-1 tvg-id="NSC TV Joinville" tvg-name="NSC TV Joinville" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",NSC TV Joinville
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52540
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV JOINVILLE FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",GLOBO NSC TV JOINVILLE FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52538
-#EXTINF:-1 tvg-id="NSC TV Joinville HD" tvg-name="NSC TV Joinville HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",NSC TV Joinville HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52539
-#EXTINF:-1 tvg-id="RBS TV Caxias" tvg-name="RBS TV Caxias" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",RBS TV Caxias
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52568
-#EXTINF:-1 tvg-id="RBS TV Caxias FHD" tvg-name="RBS TV Caxias FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",RBS TV Caxias FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52566
-#EXTINF:-1 tvg-id="RBS TV Caxias HD" tvg-name="RBS TV Caxias HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",RBS TV Caxias HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52567
-#EXTINF:-1 tvg-id="RBS TV Pelotas" tvg-name="RBS TV Pelotas" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",RBS TV Pelotas
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52543
-#EXTINF:-1 tvg-id="RBS TV Pelotas FHD" tvg-name="RBS TV Pelotas FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",RBS TV Pelotas FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52541
-#EXTINF:-1 tvg-id="RBS TV Pelotas HD" tvg-name="RBS TV Pelotas HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",RBS TV Pelotas HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52542
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CABO BRANCO" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO TV CABO BRANCO
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52546
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CABO BRANCO FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",GLOBO TV CABO BRANCO FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52544
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CABO BRANCO HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO TV CABO BRANCO HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52545
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO TV RIO SUL
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52549
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",GLOBO TV RIO SUL FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52547
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO TV RIO SUL HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52548
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SANTA CRUZ" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO TV SANTA CRUZ
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52565
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SANTA CRUZ FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",GLOBO TV SANTA CRUZ FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52563
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SANTA CRUZ HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO TV SANTA CRUZ HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/52564
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",FOX SPORTS - H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51241
-#EXTINF:-1 tvg-id="" tvg-name="FX-H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",FX-H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51242
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO AMAZONAS HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO AMAZONAS HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51310
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",GLOBO NEWS - H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51243
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO PARANA  HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO PARANA  HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51309
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RN HD " tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais| Regionais MANUTENÇÃO",GLOBO RN HD 
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51312
-#EXTINF:-1 tvg-id="" tvg-name="Gloob - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",Gloob - H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51244
-#EXTINF:-1 tvg-id="" tvg-name="H2 H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",H2 H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51245
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS- H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",HBO PLUS- H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51246
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",HBO SIGNATURE - H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51247
-#EXTINF:-1 tvg-id="" tvg-name="HBO2 H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",HBO2 H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51248
-#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY  H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",INVESTIGATION DISCOVERY  H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51250
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",LIFETIME - H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51251
-#EXTINF:-1 tvg-id="" tvg-name="MTV - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",MTV - H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51252
-#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",MULTISHOW H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51253
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",NAT GEO KIDS H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51255
-#EXTINF:-1 tvg-id="" tvg-name="OFF - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",OFF - H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51257
-#EXTINF:-1 tvg-id="" tvg-name="[XX] PLAYBOY H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | Adultos",[XX] PLAYBOY H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51258
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",PREMIERE 2 H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51259
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",PREMIERE 3 H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51260
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",PREMIERE 4 H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51261
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",PREMIERE 5 H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51262
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6  H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",PREMIERE 6  H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51263
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",PREMIERE 7 H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51264
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",PREMIERE CLUBES H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51265
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre FHD" tvg-name="RBS TV Porto Alegre FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",RBS TV Porto Alegre FHD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51215
-#EXTINF:-1 tvg-id="" tvg-name="SPACE - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",SPACE - H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51267
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",SPORTV 2 - H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51268
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3  H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",SPORTV 3  H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51269
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV - H265 " tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",SPORTV - H265 
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51270
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",STUDIO UNIVERSAL - H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51284
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",TELECINE ACTION H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51286
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",TELECINE CULT H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51287
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",TELECINE FUN H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51301
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",TELECINE PIPOCA H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51302
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",TELECINE PREMIUM H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51303
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",TELECINE TOUCH H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51304
-#EXTINF:-1 tvg-id="" tvg-name="TNT - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",TNT - H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51305
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",TNT SERIES - H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51306
-#EXTINF:-1 tvg-id="" tvg-name="TV LIBERAL BELEM SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="Canais | Abertos",TV LIBERAL BELEM SD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51313
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",UNIVERSAL CHANNEL H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51307
-#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265 [02]",WARNER CHANNEL H265
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/51308
-
-#EXTINF:-1 tvg-id="" tvg-name="EI PLUS HD" tvg-logo="https://i.imgur.com/ledljQn.jpg" group-title="Canais | Esportes",EI PLUS HD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/54705
-#EXTINF:-1 tvg-id="" tvg-name="EI PLUS SD" tvg-logo="https://i.imgur.com/ledljQn.jpg" group-title="Canais | Esportes",EI PLUS SD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/54703
-#EXTINF:-1 tvg-id="" tvg-name="Tempo Fm" tvg-logo="https://i.imgur.com/SbOzsYZ.jpg" group-title="Radios",Tempo Fm
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56362
-#EXTINF:-1 tvg-id="" tvg-name="TV JUSTICA SD" tvg-logo="http://urlcurta.ml/jpgwq" group-title="Canais | Variedades",TV JUSTICA SD
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56402
-#EXTINF:-1 tvg-id="" tvg-name="Jasmin HD XX" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",Jasmin HD XX
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56409
-#EXTINF:-1 tvg-id="" tvg-name="Miami TV Latina XX" tvg-logo="http://urlcurta.ml/WwbGE" group-title="Canais | Adultos",Miami TV Latina XX
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56406
-#EXTINF:-1 tvg-id="" tvg-name="Visit-X" tvg-logo="http://urlcurta.ml/gbkuw" group-title="Canais | Adultos",Visit-X
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56407
-#EXTINF:-1 tvg-id="" tvg-name="NARUTO 24HS" tvg-logo="https://is.gd/9CYvO4" group-title="Canais | 24 Horas",NARUTO 24HS
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56465
-#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuuden 24hs" tvg-logo="https://is.gd/JLit5c" group-title="Canais | 24 Horas",Naruto Shippuuden 24hs
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56466
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD LEG" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Legendados MANUTENÇÃO",AXN HD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56840
-#EXTINF:-1 tvg-id="" tvg-name="AXN SD LEG" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Legendados MANUTENÇÃO",AXN SD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56841
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY HD LEG" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Canais | Legendados MANUTENÇÃO",CANAL SONY HD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56894
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY SD LEG" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Canais | Legendados MANUTENÇÃO",CANAL SONY SD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56895
-#EXTINF:-1 tvg-id="" tvg-name="FOX HD LEG" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Legendados MANUTENÇÃO",FOX HD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56842
-#EXTINF:-1 tvg-id="" tvg-name="FOX SD LEG" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Legendados MANUTENÇÃO",FOX SD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56843
-#EXTINF:-1 tvg-id="" tvg-name="FX HD LEG" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Legendados MANUTENÇÃO",FX HD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56882
-#EXTINF:-1 tvg-id="" tvg-name="FX SD LEG" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Legendados MANUTENÇÃO",FX SD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56883
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD LEG" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Legendados MANUTENÇÃO",HBO HD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56844
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD LEG" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Legendados MANUTENÇÃO",HBO PLUS HD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56846
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS SD LEG" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Legendados MANUTENÇÃO",HBO PLUS SD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56847
-#EXTINF:-1 tvg-id="" tvg-name="HBO SD LEG" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Legendados MANUTENÇÃO",HBO SD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56845
-#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME SD LEG" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais | Legendados MANUTENÇÃO",MAX PRIME SD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56848
-#EXTINF:-1 tvg-id="" tvg-name="MAX SD LEG" tvg-logo="http://urlcurta.ml/KRVHG" group-title="Canais | Legendados MANUTENÇÃO",MAX SD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56849
-#EXTINF:-1 tvg-id="" tvg-name="MAX UP HD LEG" tvg-logo="http://i.imgur.com/tcr0CGl.png" group-title="Canais | Legendados MANUTENÇÃO",MAX UP HD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56884
-#EXTINF:-1 tvg-id="" tvg-name="MAX UP SD LEG" tvg-logo="http://i.imgur.com/tcr0CGl.png" group-title="Canais | Legendados MANUTENÇÃO",MAX UP SD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56885
-#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX HD LEG" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Legendados MANUTENÇÃO",MEGAPIX HD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56886
-#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX SD LEG" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Legendados MANUTENÇÃO",MEGAPIX SD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56887
-#EXTINF:-1 tvg-id="" tvg-name="SPACE HD LEG" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais | Legendados MANUTENÇÃO",SPACE HD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56888
-#EXTINF:-1 tvg-id="" tvg-name="SPACE SD LEG" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais | Legendados MANUTENÇÃO",SPACE SD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56889
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION HD LEG" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Legendados MANUTENÇÃO",TELECINE ACTION HD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56850
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION SD LEG" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Legendados MANUTENÇÃO",TELECINE ACTION SD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56851
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN HD LEG" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Legendados MANUTENÇÃO",TELECINE FUN HD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56852
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN SD LEG" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Legendados MANUTENÇÃO",TELECINE FUN SD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56854
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA HD LEG" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Alternativos",TELECINE PIPOCA HD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56859
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA SD LEG" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Legendados MANUTENÇÃO",TELECINE PIPOCA SD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56863
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM HD LEG" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Legendados MANUTENÇÃO",TELECINE PREMIUM HD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56867
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM SD LEG" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Legendados MANUTENÇÃO",TELECINE PREMIUM SD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56873
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH HD LEG" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Legendados MANUTENÇÃO",TELECINE TOUCH HD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56877
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH SD LEG" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Legendados MANUTENÇÃO",TELECINE TOUCH SD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56879
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD LEG" tvg-logo="http://t.likeiptv.com/tnthd1.png" group-title="Canais | Legendados MANUTENÇÃO",TNT HD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56880
-#EXTINF:-1 tvg-id="" tvg-name="TNT SD LEG" tvg-logo="http://t.likeiptv.com/tnthd1.png" group-title="Canais | Legendados MANUTENÇÃO",TNT SD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56881
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD LEG" tvg-logo="http://t.likeiptv.com/tnthd1.png" group-title="Canais | Legendados MANUTENÇÃO",TNT SERIES HD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56890
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES SD LEG" tvg-logo="http://t.likeiptv.com/tnthd1.png" group-title="Canais | Legendados MANUTENÇÃO",TNT SERIES SD LEG
-http://tv.factoryiptv.com:80/e5jp0P/phantomiptv/56891
-#EXTINF:-1 tvg-id="" tvg-name="WARNER HD LEG" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="Canais | Legendados MANUTENÇÃO",WARNER HD LEG
+#EXTINF:-1,A&E FHD (R1)
+http://assistaiptvplay.com:80/878787/878787/43409
+#EXTINF:-1,A&E HD (R1)
+http://assistaiptvplay.com:80/878787/878787/43308
+#EXTINF:-1,A&E SD (R1)
+http://assistaiptvplay.com:80/878787/878787/43309
+#EXTINF:-1,A&E SD [R2]
+http://assistaiptvplay.com:80/878787/878787/54235
+#EXTINF:-1,AGRO CANAL SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54034
+#EXTINF:-1,AMC SD [R2]
+http://assistaiptvplay.com:80/878787/878787/54234
+#EXTINF:-1,ANIMAL PLANET FHD (R1)
+http://assistaiptvplay.com:80/878787/878787/43407
+#EXTINF:-1,ANIMAL PLANET HD
+http://assistaiptvplay.com:80/878787/878787/43304
+#EXTINF:-1,ANIMAL PLANET SD (R1)
+http://assistaiptvplay.com:80/878787/878787/43305
+#EXTINF:-1,ANIMAL PLANET SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54233
+#EXTINF:-1,ARTE1 SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54232
+#EXTINF:-1,AXN FHD
+http://assistaiptvplay.com:80/878787/878787/43405
+#EXTINF:-1,AXN HD
+http://assistaiptvplay.com:80/878787/878787/43300
+#EXTINF:-1,AXN SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54231
+#EXTINF:-1,BABY TV SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54124
+#EXTINF:-1,BAND NEWS FHD (R1)
+http://assistaiptvplay.com:80/878787/878787/43404
+#EXTINF:-1,BAND NEWS HD (R1)
+http://assistaiptvplay.com:80/878787/878787/43295
+#EXTINF:-1,BAND NEWS SD (R1)
+http://assistaiptvplay.com:80/878787/878787/43296
+#EXTINF:-1,BAND NEWS SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54230
+#EXTINF:-1,BAND SP FHD (R2)
+http://assistaiptvplay.com:80/878787/878787/54062
+#EXTINF:-1,BAND SP FHD (R1)
+http://assistaiptvplay.com:80/878787/878787/43340
+#EXTINF:-1,BAND SP HD (R1)
+http://assistaiptvplay.com:80/878787/878787/43297
+#EXTINF:-1,BAND SP HD (R2)
+http://assistaiptvplay.com:80/878787/878787/54061
+#EXTINF:-1,BAND SP SD (R1)
+http://assistaiptvplay.com:80/878787/878787/43298
+#EXTINF:-1,BAND SP SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54060
+#EXTINF:-1,BIS FHD (R1)
+http://assistaiptvplay.com:80/878787/878787/43339
+#EXTINF:-1,BIS HD
+http://assistaiptvplay.com:80/878787/878787/43293
+#EXTINF:-1,BIS HD [R2]
+http://assistaiptvplay.com:80/878787/878787/54229
+#EXTINF:-1,BIS SD (R1)
+http://assistaiptvplay.com:80/878787/878787/43294
+#EXTINF:-1,BIS SD  [R2]
+http://assistaiptvplay.com:80/878787/878787/54228
+#EXTINF:-1,CANAL OFF (R2)
+http://assistaiptvplay.com:80/878787/878787/54070
+#EXTINF:-1,CANAL OFF SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54071
+#EXTINF:-1,CANAL SONY FHD
+http://assistaiptvplay.com:80/878787/878787/43402
+#EXTINF:-1,CANAL SONY HD
+http://assistaiptvplay.com:80/878787/878787/43286
+#EXTINF:-1,CANAL SONY SD (R1)
+http://assistaiptvplay.com:80/878787/878787/43287
+#EXTINF:-1,CARTOON NETWORK FHD
+http://assistaiptvplay.com:80/878787/878787/43401
+#EXTINF:-1,CARTOON NETWORK FHD *
+http://assistaiptvplay.com:80/878787/878787/54122
+#EXTINF:-1,CARTOON NETWORK HD
+http://assistaiptvplay.com:80/878787/878787/43283
+#EXTINF:-1,CINEMAX FHD (R1)
+http://assistaiptvplay.com:80/878787/878787/43400
+#EXTINF:-1,CINEMAX HD
+http://assistaiptvplay.com:80/878787/878787/43281
+#EXTINF:-1,CINEMAX SD
+http://assistaiptvplay.com:80/878787/878787/43282
+#EXTINF:-1,CINEMAX SD [R2]
+http://assistaiptvplay.com:80/878787/878787/54224
+#EXTINF:-1,CNN ESPANHOL SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54064
+#EXTINF:-1,CNN INTERNACIONAL SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54005
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://assistaiptvplay.com:80/878787/878787/43399
+#EXTINF:-1,COMEDY CENTRAL HD
+http://assistaiptvplay.com:80/878787/878787/43279
+#EXTINF:-1,COMEDY CENTRAL SD (R1)
+http://assistaiptvplay.com:80/878787/878787/43280
+#EXTINF:-1,COMEDY CENTRAL SD [R2]
+http://assistaiptvplay.com:80/878787/878787/54217
+#EXTINF:-1,CURTA! SD [R2]
+http://assistaiptvplay.com:80/878787/878787/54216
+#EXTINF:-1,DISCOVERY CHANNEL FHD [R2]
+http://assistaiptvplay.com:80/878787/878787/54214
+#EXTINF:-1,DISCOVERY CHANNEL FULLHD
+http://assistaiptvplay.com:80/878787/878787/43338
+#EXTINF:-1,DISCOVERY CHANNEL HD (R1)
+http://assistaiptvplay.com:80/878787/878787/43275
+#EXTINF:-1,DISCOVERY CHANNEL SD
+http://assistaiptvplay.com:80/878787/878787/43276
+#EXTINF:-1,DISCOVERY CHANNEL SD [R2]
+http://assistaiptvplay.com:80/878787/878787/54213
+#EXTINF:-1,DISCOVERY HOME & HEALTH SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54212
+#EXTINF:-1,DISCOVERY HOME & HEALTH FHD (R1)
+http://assistaiptvplay.com:80/878787/878787/43396
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD (R1)
+http://assistaiptvplay.com:80/878787/878787/43271
+#EXTINF:-1,DISCOVERY HOME & HEALTH SD (R1)
+http://assistaiptvplay.com:80/878787/878787/43272
+#EXTINF:-1,DISCOVERY KIDS FHD
+http://assistaiptvplay.com:80/878787/878787/43395
+#EXTINF:-1,DISCOVERY KIDS HD
+http://assistaiptvplay.com:80/878787/878787/43269
+#EXTINF:-1,DISCOVERY KIDS SD *
+http://assistaiptvplay.com:80/878787/878787/54121
+#EXTINF:-1,DISCOVERY SCIENCE SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54209
+#EXTINF:-1,DISCOVERY THEATER FHD
+http://assistaiptvplay.com:80/878787/878787/43393
+#EXTINF:-1,DISCOVERY THEATER HD
+http://assistaiptvplay.com:80/878787/878787/43265
+#EXTINF:-1,DISCOVERY THEATER SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54208
+#EXTINF:-1,DISCOVERY TURBO FHD
+http://assistaiptvplay.com:80/878787/878787/43392
+#EXTINF:-1,DISCOVERY TURBO FHD (R2)
+http://assistaiptvplay.com:80/878787/878787/54211
+#EXTINF:-1,DISCOVERY TURBO HD (R1)
+http://assistaiptvplay.com:80/878787/878787/43263
+#EXTINF:-1,DISCOVERY WORLD FHD (R1)
+http://assistaiptvplay.com:80/878787/878787/43391
+#EXTINF:-1,DISCOVERY WORLD  HD
+http://assistaiptvplay.com:80/878787/878787/43261
+#EXTINF:-1,DISCOVERY WORLD SD
+http://assistaiptvplay.com:80/878787/878787/43262
+#EXTINF:-1,DISCOVERY WORLD SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54207
+#EXTINF:-1,DISNEY CHANNEL HD *
+http://assistaiptvplay.com:80/878787/878787/54119
+#EXTINF:-1,DISNEY CHANNEL HD **
+http://assistaiptvplay.com:80/878787/878787/54120
+#EXTINF:-1,DISNEY JUNIOR HD *
+http://assistaiptvplay.com:80/878787/878787/54116
+#EXTINF:-1,DISNEY JUNIOR HD **
+http://assistaiptvplay.com:80/878787/878787/54117
+#EXTINF:-1,DISNEY JUNIOR SD *
+http://assistaiptvplay.com:80/878787/878787/54115
+#EXTINF:-1,DISNEY XD HD *
+http://assistaiptvplay.com:80/878787/878787/54113
+#EXTINF:-1,DISNEY XD HD **
+http://assistaiptvplay.com:80/878787/878787/54114
+#EXTINF:-1,DISNEY XD SD
+http://assistaiptvplay.com:80/878787/878787/43257
+#EXTINF:-1,DISNEY XD SD *
+http://assistaiptvplay.com:80/878787/878787/54112
+#EXTINF:-1,DW DEUTSCHE WELLE (R2)
+http://assistaiptvplay.com:80/878787/878787/53994
+#EXTINF:-1,DW ESPANHOL (R2)
+http://assistaiptvplay.com:80/878787/878787/53993
+#EXTINF:-1,E! FHD
+http://assistaiptvplay.com:80/878787/878787/43390
+#EXTINF:-1,E! HD
+http://assistaiptvplay.com:80/878787/878787/43255
+#EXTINF:-1,E! SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54206
+#EXTINF:-1,ESTÚDIO FM O DIA
+http://assistaiptvplay.com:80/878787/878787/68082
+#EXTINF:-1,FILM & ARTS FHD (R2)
+http://assistaiptvplay.com:80/878787/878787/54204
+#EXTINF:-1,FILM & ARTS SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54205
+#EXTINF:-1,FISH TV SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54075
+#EXTINF:-1,FOOD NETWORK FHD
+http://assistaiptvplay.com:80/878787/878787/43388
+#EXTINF:-1,FOOD NETWORK HD
+http://assistaiptvplay.com:80/878787/878787/43253
+#EXTINF:-1,FOOD NETWORK SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54203
+#EXTINF:-1,FOX FHD [R2]
+http://assistaiptvplay.com:80/878787/878787/54201
+#EXTINF:-1,FOX FULLHD
+http://assistaiptvplay.com:80/878787/878787/43336
+#EXTINF:-1,FOX HD
+http://assistaiptvplay.com:80/878787/878787/43251
+#EXTINF:-1,FOX LIFE FHD
+http://assistaiptvplay.com:80/878787/878787/43387
+#EXTINF:-1,FOX LIFE HD (R1)
+http://assistaiptvplay.com:80/878787/878787/43249
+#EXTINF:-1,FOX LIFE SD [R2]
+http://assistaiptvplay.com:80/878787/878787/54200
+#EXTINF:-1,FOX PREMIUM 1 FHD [R2]
+http://assistaiptvplay.com:80/878787/878787/54165
+#EXTINF:-1,FOX PREMIUM 1 HD (R2)
+http://assistaiptvplay.com:80/878787/878787/54199
+#EXTINF:-1,FOX PREMIUM 1 SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54198
+#EXTINF:-1,FOX PREMIUM 2 HD (R2)
+http://assistaiptvplay.com:80/878787/878787/54197
+#EXTINF:-1,FOX PREMIUM 2 SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54196
+#EXTINF:-1,FOX SD [R2]
+http://assistaiptvplay.com:80/878787/878787/54202
+#EXTINF:-1,FUTURA HD *
+http://assistaiptvplay.com:80/878787/878787/54057
+#EXTINF:-1,FUTURA SD *
+http://assistaiptvplay.com:80/878787/878787/54063
+#EXTINF:-1,FX FHD
+http://assistaiptvplay.com:80/878787/878787/43383
+#EXTINF:-1,FX HD
+http://assistaiptvplay.com:80/878787/878787/43241
+#EXTINF:-1,FX SD (R2)
+#EXTINF:-1,GLOOB FHD (R1)
+http://assistaiptvplay.com:80/878787/878787/43334
+#EXTINF:-1,GLOOB HD (R1)
+http://assistaiptvplay.com:80/878787/878787/43237
+#EXTINF:-1,GLOOB SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54111
+#EXTINF:-1,GLOOB HD (R2)
+http://assistaiptvplay.com:80/878787/878787/43238
+#EXTINF:-1,GLOOB SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54110
+#EXTINF:-1,GLOOBINHO FHD (R1)
+http://assistaiptvplay.com:80/878787/878787/43382
+#EXTINF:-1,GLOOBINHO HD (R1)
+http://assistaiptvplay.com:80/878787/878787/43236
+#EXTINF:-1,GLOOBINHO HD (R2)
+http://assistaiptvplay.com:80/878787/878787/54109
+#EXTINF:-1,GLOOBINHO FHD (R2)
+http://assistaiptvplay.com:80/878787/878787/43235
+#EXTINF:-1,GLOOBINHO SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54108
+#EXTINF:-1,GNT HD
+http://assistaiptvplay.com:80/878787/878787/43233
+#EXTINF:-1,GNT HD (R2)
+http://assistaiptvplay.com:80/878787/878787/54194
+#EXTINF:-1,GNT SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54193
+#EXTINF:-1,H2 FHD
+http://assistaiptvplay.com:80/878787/878787/43380
+#EXTINF:-1,H2 HD
+http://assistaiptvplay.com:80/878787/878787/43231
+#EXTINF:-1,H2 SD [R2]
+http://assistaiptvplay.com:80/878787/878787/54182
+#EXTINF:-1,HBO 2 FULLHD
+http://assistaiptvplay.com:80/878787/878787/43333
+#EXTINF:-1,HBO 2 HD
+http://assistaiptvplay.com:80/878787/878787/43228
+#EXTINF:-1,HBO 2 HD (R2)
+http://assistaiptvplay.com:80/878787/878787/54190
+#EXTINF:-1,HBO 2 SD (R1)
+http://assistaiptvplay.com:80/878787/878787/43229
+#EXTINF:-1,HBO 2 SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54189
+#EXTINF:-1,HBO FAMILY HD  (R2)
+http://assistaiptvplay.com:80/878787/878787/54188
+#EXTINF:-1,HBO FAMILY SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54187
+#EXTINF:-1,HBO FULLHD
+http://assistaiptvplay.com:80/878787/878787/43332
+#EXTINF:-1,HBO HD
+http://assistaiptvplay.com:80/878787/878787/43225
+#EXTINF:-1,HBO HD (R2)
+http://assistaiptvplay.com:80/878787/878787/54192
+#EXTINF:-1,HBO PLUS HD (R2)
+http://assistaiptvplay.com:80/878787/878787/54186
+#EXTINF:-1,HBO PLUS SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54185
+#EXTINF:-1,HBO SD (R1)
+http://assistaiptvplay.com:80/878787/878787/43230
+#EXTINF:-1,HBO SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54191
+#EXTINF:-1,HBO SIGNATURE HD (R2)
+http://assistaiptvplay.com:80/878787/878787/54184
+#EXTINF:-1,HBO SIGNATURE SD [R2]
+http://assistaiptvplay.com:80/878787/878787/54183
+#EXTINF:-1,HISTORY FHD
+http://assistaiptvplay.com:80/878787/878787/43376
+#EXTINF:-1,HISTORY HD
+http://assistaiptvplay.com:80/878787/878787/43219
+#EXTINF:-1,HISTORY SD
+http://assistaiptvplay.com:80/878787/878787/43220
+#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY SD [R2]
+http://assistaiptvplay.com:80/878787/878787/54181
+#EXTINF:-1,IMPD TV (R4)
+http://assistaiptvplay.com:80/878787/878787/72688
+#EXTINF:-1,INTERNATIONAL CHAMPIONS CUP (R2)
+http://assistaiptvplay.com:80/878787/878787/54065
+#EXTINF:-1,INVESTIGATION DISCOVERY FHD
+http://assistaiptvplay.com:80/878787/878787/43375
+#EXTINF:-1,INVESTIGATION DISCOVERY HD
+http://assistaiptvplay.com:80/878787/878787/43217
+#EXTINF:-1,LIFETIME SD [R2]
+http://assistaiptvplay.com:80/878787/878787/54180
+#EXTINF:-1,MAIS GLOBOSAT FHD
+http://assistaiptvplay.com:80/878787/878787/43323
+#EXTINF:-1,MAIS GLOBOSAT HD
+http://assistaiptvplay.com:80/878787/878787/43213
+#EXTINF:-1,MAIS GLOBOSAT HD [R2]
+http://assistaiptvplay.com:80/878787/878787/54179
+#EXTINF:-1,MAIS GLOBOSAT SD [R2]
+http://assistaiptvplay.com:80/878787/878787/54178
+#EXTINF:-1,MAX FHD (R1)
+http://assistaiptvplay.com:80/878787/878787/43373
+#EXTINF:-1,MAX HD (R1)
+http://assistaiptvplay.com:80/878787/878787/43211
+#EXTINF:-1,MAX PRIME SD LEG
+http://assistaiptvplay.com:80/878787/878787/43081
+#EXTINF:-1,MAX PRIME SD [R2]
+http://assistaiptvplay.com:80/878787/878787/54177
+#EXTINF:-1,MAX SD (R1)
+http://assistaiptvplay.com:80/878787/878787/43212
+#EXTINF:-1,MAX SD LEG
+http://assistaiptvplay.com:80/878787/878787/43080
+#EXTINF:-1,MAX SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54176
+#EXTINF:-1,MAX UP SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54175
+#EXTINF:-1,MEGAPIX HD (R2)
+http://assistaiptvplay.com:80/878787/878787/43205
+#EXTINF:-1,MEGAPIX SD (R2)
+http://assistaiptvplay.com:80/878787/878787/43206
+#EXTINF:-1,MEGAPIX SD [R2]
+http://assistaiptvplay.com:80/878787/878787/54174
+#EXTINF:-1,MTV FHD
+http://assistaiptvplay.com:80/878787/878787/43369
+#EXTINF:-1,MTV HD
+http://assistaiptvplay.com:80/878787/878787/43203
+#EXTINF:-1,MTV SD (R1)
+http://assistaiptvplay.com:80/878787/878787/43204
+#EXTINF:-1,MTV SD [R2]
+http://assistaiptvplay.com:80/878787/878787/54173
+#EXTINF:-1,MULTISHOW FHD
+http://assistaiptvplay.com:80/878787/878787/43367
+#EXTINF:-1,MULTISHOW HD
+http://assistaiptvplay.com:80/878787/878787/43201
+#EXTINF:-1,MULTISHOW HD [R2]
+http://assistaiptvplay.com:80/878787/878787/54172
+#EXTINF:-1,MULTISHOW SD [R2]
+http://assistaiptvplay.com:80/878787/878787/54171
+#EXTINF:-1,MUSIC BOX BRAZIL SD  [R2]
+http://assistaiptvplay.com:80/878787/878787/54170
+#EXTINF:-1,NAT GEO FHD
+http://assistaiptvplay.com:80/878787/878787/43365
+#EXTINF:-1,NAT GEO HD
+http://assistaiptvplay.com:80/878787/878787/43197
+#EXTINF:-1,NAT GEO KIDS SD *
+http://assistaiptvplay.com:80/878787/878787/54107
+#EXTINF:-1,NAT GEO WILD SD (R1)
+http://assistaiptvplay.com:80/878787/878787/43193
+#EXTINF:-1,NATGEO WILD SD [R2]
+http://assistaiptvplay.com:80/878787/878787/54169
+#EXTINF:-1,NATIONAL GEOGRAPHIC SD [R2]
+http://assistaiptvplay.com:80/878787/878787/54168
+#EXTINF:-1,NBR
+http://assistaiptvplay.com:80/878787/878787/43192
+#EXTINF:-1,NHK WORLD HD *
+http://assistaiptvplay.com:80/878787/878787/54035
+#EXTINF:-1,NICK JR FHD
+http://assistaiptvplay.com:80/878787/878787/43362
+#EXTINF:-1,NICK JR HD
+http://assistaiptvplay.com:80/878787/878787/43190
+#EXTINF:-1,NICK JR SD*
+http://assistaiptvplay.com:80/878787/878787/54106
+#EXTINF:-1,NICKELODEON SD *
+http://assistaiptvplay.com:80/878787/878787/54105
+#EXTINF:-1,PARAMOUNT CHANNEL SD *
+http://assistaiptvplay.com:80/878787/878787/54167
+#EXTINF:-1,PLAYKIDS FHD
+http://assistaiptvplay.com:80/878787/878787/43316
+#EXTINF:-1,PLAYKIDS HD
+http://assistaiptvplay.com:80/878787/878787/43109
+#EXTINF:-1,PLAYKIDS SD
+http://assistaiptvplay.com:80/878787/878787/43108
+#EXTINF:-1,PLAYKIDS SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54104
+#EXTINF:-1,PLAYTV SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54166
+#EXTINF:-1,SONY SD [R2]
+http://assistaiptvplay.com:80/878787/878787/54225
+#EXTINF:-1,SPACE FHD
+http://assistaiptvplay.com:80/878787/878787/43356
+#EXTINF:-1,SPACE HD
+http://assistaiptvplay.com:80/878787/878787/43167
+#EXTINF:-1,SPACE HD LEG
+http://assistaiptvplay.com:80/878787/878787/43061
+#EXTINF:-1,SPACE SD LEG
+http://assistaiptvplay.com:80/878787/878787/43060
+#EXTINF:-1,SPACE SD [R2]
+http://assistaiptvplay.com:80/878787/878787/54163
+#EXTINF:-1,STUDIO UNIVERSAL FHD
+http://assistaiptvplay.com:80/878787/878787/43355
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://assistaiptvplay.com:80/878787/878787/43165
+#EXTINF:-1,STUDIO UNIVERSAL SD (R1)
+http://assistaiptvplay.com:80/878787/878787/43166
+#EXTINF:-1,STUDIO UNIVERSAL SD [R2]
+http://assistaiptvplay.com:80/878787/878787/54162
+#EXTINF:-1,SYFY FHD
+http://assistaiptvplay.com:80/878787/878787/43354
+#EXTINF:-1,SYFY HD
+http://assistaiptvplay.com:80/878787/878787/43169
+#EXTINF:-1,SYFY SD [R2]
+http://assistaiptvplay.com:80/878787/878787/54161
+#EXTINF:-1,TBS HD
+http://assistaiptvplay.com:80/878787/878787/43163
+#EXTINF:-1,TBS SD  [R2]
+http://assistaiptvplay.com:80/878787/878787/54159
+#EXTINF:-1,TCM SD [R2]
+http://assistaiptvplay.com:80/878787/878787/54158
+#EXTINF:-1,TELECINE ACTION FHD (R1)
+http://assistaiptvplay.com:80/878787/878787/43329
+#EXTINF:-1,TELECINE ACTION HD (R1)
+http://assistaiptvplay.com:80/878787/878787/43160
+#EXTINF:-1,TELECINE ACTION HD (R2)
+http://assistaiptvplay.com:80/878787/878787/54157
+#EXTINF:-1,TELECINE ACTION SD (R1)
+http://assistaiptvplay.com:80/878787/878787/43161
+#EXTINF:-1,TELECINE ACTION SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54156
+#EXTINF:-1,TELECINE CULT HD (R2)
+http://assistaiptvplay.com:80/878787/878787/54155
+#EXTINF:-1,TELECINE CULT SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54154
+#EXTINF:-1,TELECINE FUN FHD (R1)
+http://assistaiptvplay.com:80/878787/878787/43328
+#EXTINF:-1,TELECINE FUN HD (R1)
+http://assistaiptvplay.com:80/878787/878787/43156
+#EXTINF:-1,TELECINE FUN HD (R2)
+http://assistaiptvplay.com:80/878787/878787/54153
+#EXTINF:-1,TELECINE FUN SD (R1)
+http://assistaiptvplay.com:80/878787/878787/43157
+#EXTINF:-1,TELECINE FUN SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54152
+#EXTINF:-1,TELECINE PIPOCA FHD (R1)
+http://assistaiptvplay.com:80/878787/878787/43327
+#EXTINF:-1,TELECINE PIPOCA HD (R1)
+http://assistaiptvplay.com:80/878787/878787/43154
+#EXTINF:-1,TELECINE PIPOCA HD (R2)
+http://assistaiptvplay.com:80/878787/878787/54151
+#EXTINF:-1,TELECINE PIPOCA SD (R1)
+http://assistaiptvplay.com:80/878787/878787/43155
+#EXTINF:-1,TELECINE PIPOCA SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54150
+#EXTINF:-1,TELECINE PREMIUM FHD (R1)
+http://assistaiptvplay.com:80/878787/878787/43326
+#EXTINF:-1,TELECINE PREMIUM HD (R1)
+http://assistaiptvplay.com:80/878787/878787/43152
+#EXTINF:-1,TELECINE PREMIUM HD (R2)
+http://assistaiptvplay.com:80/878787/878787/54149
+#EXTINF:-1,TELECINE PREMIUM SD (R1)
+http://assistaiptvplay.com:80/878787/878787/43153
+#EXTINF:-1,TELECINE PREMIUM SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54148
+#EXTINF:-1,TELECINE TOUCH HD (R2)
+http://assistaiptvplay.com:80/878787/878787/54147
+#EXTINF:-1,TELECINE TOUCH SD (R2)
+http://assistaiptvplay.com:80/878787/878787/54146
+#EXTINF:-1,TLC FHD
+http://assistaiptvplay.com:80/878787/878787/43351
+#EXTINF:-1,TLC HD
+http://assistaiptvplay.com:80/878787/878787/43147
+#EXTINF:-1,TLC SD [R2]
+http://assistaiptvplay.com:80/878787/878787/54144
+#EXTINF:-1,TNT FHD
+http://assistaiptvplay.com:80/878787/878787/43350
+#EXTINF:-1,TNT HD
+http://assistaiptvplay.com:80/878787/878787/43145
+#EXTINF:-1,TNT SD*
+http://assistaiptvplay.com:80/878787/878787/54143
+#EXTINF:-1,TNT SERIES FHD *
+http://assistaiptvplay.com:80/878787/878787/54142
+#EXTINF:-1,TOONCAST SD *
+http://assistaiptvplay.com:80/878787/878787/54103
+#EXTINF:-1,TRUTV SD (R1)
+http://assistaiptvplay.com:80/878787/878787/43348
+#EXTINF:-1,TRUTV  [R2]
+#EXTINF:-1,UNIVERSAL CHANNEL FHD
+http://assistaiptvplay.com:80/878787/878787/43346
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://assistaiptvplay.com:80/878787/878787/43129
+#EXTINF:-1,UNIVERSAL CHANNEL SD (R1)
+http://assistaiptvplay.com:80/878787/878787/43130
+#EXTINF:-1,UNIVERSAL TV FHD  [R2]
+http://assistaiptvplay.com:80/878787/878787/54137
+#EXTINF:-1,UNIVERSAL TV SD [R2]
+http://assistaiptvplay.com:80/878787/878787/54136
+#EXTINF:-1,VIVA FULLHD
+http://assistaiptvplay.com:80/878787/878787/43324
+#EXTINF:-1,VIVA HD
+http://assistaiptvplay.com:80/878787/878787/43124
+#EXTINF:-1,VIVA SD (R1)
+http://assistaiptvplay.com:80/878787/878787/43125
+#EXTINF:-1,VIVA SD  [R2]
+http://assistaiptvplay.com:80/878787/878787/54133
+#EXTINF:-1,WARNER CHANNEL FHD [R2]
+http://assistaiptvplay.com:80/878787/878787/54132
+#EXTINF:-1,WARNER CHANNEL HD
+http://assistaiptvplay.com:80/878787/878787/43122
+#EXTINF:-1,WARNER CHANNEL SD
+http://assistaiptvplay.com:80/878787/878787/43123
+#EXTINF:-1,WARNER FHD
+http://assistaiptvplay.com:80/878787/878787/43344
+#EXTINF:-1,WOOHOO SD [R2]
+http://assistaiptvplay.com:80/878787/878787/54130
+#EXTINF:-1,ZOOMOO SD *
+http://assistaiptvplay.com:80/878787/878787/54125
