@@ -1,514 +1,1001 @@
-#EXTINF:-1,A&E FHD (R1)
-http://assistaiptvplay.com:80/878787/878787/43409
-#EXTINF:-1,A&E HD (R1)
-http://assistaiptvplay.com:80/878787/878787/43308
-#EXTINF:-1,A&E SD (R1)
-http://assistaiptvplay.com:80/878787/878787/43309
-#EXTINF:-1,A&E SD [R2]
-http://assistaiptvplay.com:80/878787/878787/54235
-#EXTINF:-1,AGRO CANAL SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54034
-#EXTINF:-1,AMC SD [R2]
-http://assistaiptvplay.com:80/878787/878787/54234
-#EXTINF:-1,ANIMAL PLANET FHD (R1)
-http://assistaiptvplay.com:80/878787/878787/43407
+#EXTM3U
+#EXTINF:-1,A FAZENDA HD
+http://painel.ebanonet.com.br:25461/Renato/123456/33563
+#EXTINF:-1,A FAZENDA HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/33641
+#EXTINF:-1,A FAZENDA SD
+http://painel.ebanonet.com.br:25461/Renato/123456/33564
+#EXTINF:-1,A&E HD
+http://painel.ebanonet.com.br:25461/Renato/123456/8139
+#EXTINF:-1,A&E HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11314
+#EXTINF:-1,A&E HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20892
+#EXTINF:-1,A&E SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4404
+#EXTINF:-1,A&E SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11316
+#EXTINF:-1,A&E SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20893
+#EXTINF:-1,AGRO CANAL SD
+http://painel.ebanonet.com.br:25461/Renato/123456/5983
+#EXTINF:-1,AMC SD
+http://painel.ebanonet.com.br:25461/Renato/123456/7448
+#EXTINF:-1,AMC SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11312
+#EXTINF:-1,AMC SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20891
 #EXTINF:-1,ANIMAL PLANET HD
-http://assistaiptvplay.com:80/878787/878787/43304
-#EXTINF:-1,ANIMAL PLANET SD (R1)
-http://assistaiptvplay.com:80/878787/878787/43305
-#EXTINF:-1,ANIMAL PLANET SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54233
-#EXTINF:-1,ARTE1 SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54232
-#EXTINF:-1,AXN FHD
-http://assistaiptvplay.com:80/878787/878787/43405
+http://painel.ebanonet.com.br:25461/Renato/123456/6142
+#EXTINF:-1,Animal Planet HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11079
+#EXTINF:-1,ANIMAL PLANET HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/24628
+#EXTINF:-1,ANIMAL PLANET SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4403
+#EXTINF:-1,ANIMAL PLANET SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11310
+#EXTINF:-1,ANIMAL PLANET SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20887
+#EXTINF:-1,ARTE 1 HD
+http://painel.ebanonet.com.br:25461/Renato/123456/10235
+#EXTINF:-1,TruTV SD
+http://painel.ebanonet.com.br:25461/Renato/123456/7904
+#EXTINF:-1,ARTE 1 SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20880
+#EXTINF:-1,As Meninas Superpoderosas 24HS
+http://painel.ebanonet.com.br:25461/Renato/123456/33711
 #EXTINF:-1,AXN HD
-http://assistaiptvplay.com:80/878787/878787/43300
-#EXTINF:-1,AXN SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54231
-#EXTINF:-1,BABY TV SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54124
-#EXTINF:-1,BAND NEWS FHD (R1)
-http://assistaiptvplay.com:80/878787/878787/43404
-#EXTINF:-1,BAND NEWS HD (R1)
-http://assistaiptvplay.com:80/878787/878787/43295
-#EXTINF:-1,BAND NEWS SD (R1)
-http://assistaiptvplay.com:80/878787/878787/43296
-#EXTINF:-1,BAND NEWS SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54230
-#EXTINF:-1,BAND SP FHD (R2)
-http://assistaiptvplay.com:80/878787/878787/54062
-#EXTINF:-1,BAND SP FHD (R1)
-http://assistaiptvplay.com:80/878787/878787/43340
-#EXTINF:-1,BAND SP HD (R1)
-http://assistaiptvplay.com:80/878787/878787/43297
-#EXTINF:-1,BAND SP HD (R2)
-http://assistaiptvplay.com:80/878787/878787/54061
-#EXTINF:-1,BAND SP SD (R1)
-http://assistaiptvplay.com:80/878787/878787/43298
-#EXTINF:-1,BAND SP SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54060
-#EXTINF:-1,BIS FHD (R1)
-http://assistaiptvplay.com:80/878787/878787/43339
+http://painel.ebanonet.com.br:25461/Renato/123456/6140
+#EXTINF:-1,AXN HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11078
+#EXTINF:-1,AXN HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20882
+#EXTINF:-1,AXN SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4402
+#EXTINF:-1,AXN SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11306
+#EXTINF:-1,AXN SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20884
+#EXTINF:-1,BABY TV SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4401
+#EXTINF:-1,BABY TV SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20871
+#EXTINF:-1,BAND NEWS HD
+http://painel.ebanonet.com.br:25461/Renato/123456/10296
+#EXTINF:-1,BAND NEWS SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4399
+#EXTINF:-1,BAND NEWS SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11301
+#EXTINF:-1,BAND SPORTS HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6138
+#EXTINF:-1,BAND SPORTS HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11294
+#EXTINF:-1,BAND SPORTS HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20863
+#EXTINF:-1,BAND SPORTS SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4398
+#EXTINF:-1,BAND SPORTS SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11297
+#EXTINF:-1,BAND SPORTS SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20864
 #EXTINF:-1,BIS HD
-http://assistaiptvplay.com:80/878787/878787/43293
-#EXTINF:-1,BIS HD [R2]
-http://assistaiptvplay.com:80/878787/878787/54229
-#EXTINF:-1,BIS SD (R1)
-http://assistaiptvplay.com:80/878787/878787/43294
-#EXTINF:-1,BIS SD  [R2]
-http://assistaiptvplay.com:80/878787/878787/54228
-#EXTINF:-1,CANAL OFF (R2)
-http://assistaiptvplay.com:80/878787/878787/54070
-#EXTINF:-1,CANAL OFF SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54071
-#EXTINF:-1,CANAL SONY FHD
-http://assistaiptvplay.com:80/878787/878787/43402
+http://painel.ebanonet.com.br:25461/Renato/123456/6881
+#EXTINF:-1,BIS HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11291
+#EXTINF:-1,BIS HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20866
+#EXTINF:-1,BIS SD
+http://painel.ebanonet.com.br:25461/Renato/123456/6964
+#EXTINF:-1,BIS SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11293
+#EXTINF:-1,BIS SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20868
+#EXTINF:-1,BLOOMBERG TV SD
+http://painel.ebanonet.com.br:25461/Renato/123456/7424
+#EXTINF:-1,BOOMERANG HD
+http://painel.ebanonet.com.br:25461/Renato/123456/10294
+#EXTINF:-1,Boomerang HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11076
+#EXTINF:-1,BOOMERANG SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4396
+#EXTINF:-1,BOOMERANG SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11289
+#EXTINF:-1,BOOMERANG SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20857
 #EXTINF:-1,CANAL SONY HD
-http://assistaiptvplay.com:80/878787/878787/43286
-#EXTINF:-1,CANAL SONY SD (R1)
-http://assistaiptvplay.com:80/878787/878787/43287
-#EXTINF:-1,CARTOON NETWORK FHD
-http://assistaiptvplay.com:80/878787/878787/43401
-#EXTINF:-1,CARTOON NETWORK FHD *
-http://assistaiptvplay.com:80/878787/878787/54122
+http://painel.ebanonet.com.br:25461/Renato/123456/6961
+#EXTINF:-1,Canal Sony HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11075
+#EXTINF:-1,CANAL SONY HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20527
+#EXTINF:-1,CANAL SONY SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4395
+#EXTINF:-1,CANAL SONY SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11283
 #EXTINF:-1,CARTOON NETWORK HD
-http://assistaiptvplay.com:80/878787/878787/43283
-#EXTINF:-1,CINEMAX FHD (R1)
-http://assistaiptvplay.com:80/878787/878787/43400
+http://painel.ebanonet.com.br:25461/Renato/123456/7817
+#EXTINF:-1,Cartoon Network HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11074
+#EXTINF:-1,CARTOON NETWORK HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20844
+#EXTINF:-1,CARTOON NETWORK SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4394
+#EXTINF:-1,CARTOON NETWORK SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20845
 #EXTINF:-1,CINEMAX HD
-http://assistaiptvplay.com:80/878787/878787/43281
+http://painel.ebanonet.com.br:25461/Renato/123456/7802
+#EXTINF:-1,Cinemax HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11073
+#EXTINF:-1,CINEMAX HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20834
 #EXTINF:-1,CINEMAX SD
-http://assistaiptvplay.com:80/878787/878787/43282
-#EXTINF:-1,CINEMAX SD [R2]
-http://assistaiptvplay.com:80/878787/878787/54224
-#EXTINF:-1,CNN ESPANHOL SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54064
-#EXTINF:-1,CNN INTERNACIONAL SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54005
-#EXTINF:-1,COMEDY CENTRAL FHD
-http://assistaiptvplay.com:80/878787/878787/43399
+http://painel.ebanonet.com.br:25461/Renato/123456/4393
+#EXTINF:-1,CINEMAX SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11280
+#EXTINF:-1,CINEMAX SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/24630
+#EXTINF:-1,COMBATE HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6172
+#EXTINF:-1,Combate HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11072
+#EXTINF:-1,COMBATE HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20831
+#EXTINF:-1,COMBATE SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4392
+#EXTINF:-1,COMBATE SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11277
+#EXTINF:-1,COMBATE SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20832
 #EXTINF:-1,COMEDY CENTRAL HD
-http://assistaiptvplay.com:80/878787/878787/43279
-#EXTINF:-1,COMEDY CENTRAL SD (R1)
-http://assistaiptvplay.com:80/878787/878787/43280
-#EXTINF:-1,COMEDY CENTRAL SD [R2]
-http://assistaiptvplay.com:80/878787/878787/54217
-#EXTINF:-1,CURTA! SD [R2]
-http://assistaiptvplay.com:80/878787/878787/54216
-#EXTINF:-1,DISCOVERY CHANNEL FHD [R2]
-http://assistaiptvplay.com:80/878787/878787/54214
-#EXTINF:-1,DISCOVERY CHANNEL FULLHD
-http://assistaiptvplay.com:80/878787/878787/43338
-#EXTINF:-1,DISCOVERY CHANNEL HD (R1)
-http://assistaiptvplay.com:80/878787/878787/43275
+http://painel.ebanonet.com.br:25461/Renato/123456/10292
+#EXTINF:-1,Comedy Central HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11071
+#EXTINF:-1,COMEDY CENTRAL HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20827
+#EXTINF:-1,COMEDY CENTRAL SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4391
+#EXTINF:-1,COMEDY CENTRAL SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11275
+#EXTINF:-1,DAZN HD
+http://painel.ebanonet.com.br:25461/Renato/123456/30422
+#EXTINF:-1,DAZN HD 2
+http://painel.ebanonet.com.br:25461/Renato/123456/33638
+#EXTINF:-1,DAZN HD 3
+http://painel.ebanonet.com.br:25461/Renato/123456/33639
+#EXTINF:-1,DAZN HD 4
+http://painel.ebanonet.com.br:25461/Renato/123456/33640
+#EXTINF:-1,DAZN HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/31005
+http://painel.ebanonet.com.br:25461/Renato/123456/11548
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6132
+#EXTINF:-1,Discovery Channel HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11070
+#EXTINF:-1,DISCOVERY CHANNEL HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20824
 #EXTINF:-1,DISCOVERY CHANNEL SD
-http://assistaiptvplay.com:80/878787/878787/43276
-#EXTINF:-1,DISCOVERY CHANNEL SD [R2]
-http://assistaiptvplay.com:80/878787/878787/54213
-#EXTINF:-1,DISCOVERY HOME & HEALTH SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54212
-#EXTINF:-1,DISCOVERY HOME & HEALTH FHD (R1)
-http://assistaiptvplay.com:80/878787/878787/43396
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD (R1)
-http://assistaiptvplay.com:80/878787/878787/43271
-#EXTINF:-1,DISCOVERY HOME & HEALTH SD (R1)
-http://assistaiptvplay.com:80/878787/878787/43272
-#EXTINF:-1,DISCOVERY KIDS FHD
-http://assistaiptvplay.com:80/878787/878787/43395
+http://painel.ebanonet.com.br:25461/Renato/123456/4390
+#EXTINF:-1,DISCOVERY CHANNEL SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11273
+#EXTINF:-1,DISCOVERY CHANNEL SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20825
+#EXTINF:-1,Discovery Civilization  SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11271
+#EXTINF:-1,DISCOVERY CIVILIZATION HD
+http://painel.ebanonet.com.br:25461/Renato/123456/7862
+#EXTINF:-1,Discovery Civilization HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11069
+#EXTINF:-1,DISCOVERY CIVILIZATION HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20820
+#EXTINF:-1,DISCOVERY CIVILIZATION SD
+http://painel.ebanonet.com.br:25461/Renato/123456/10236
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6131
+#EXTINF:-1,Discovery Home & Health HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11068
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20813
+#EXTINF:-1,DISCOVERY HOME & HEALTH SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4389
+#EXTINF:-1,Discovery Home & Health SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11270
+#EXTINF:-1,DISCOVERY HOME & HELTH SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20814
 #EXTINF:-1,DISCOVERY KIDS HD
-http://assistaiptvplay.com:80/878787/878787/43269
-#EXTINF:-1,DISCOVERY KIDS SD *
-http://assistaiptvplay.com:80/878787/878787/54121
-#EXTINF:-1,DISCOVERY SCIENCE SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54209
-#EXTINF:-1,DISCOVERY THEATER FHD
-http://assistaiptvplay.com:80/878787/878787/43393
+http://painel.ebanonet.com.br:25461/Renato/123456/7538
+#EXTINF:-1,Discovery Kids HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11067
+#EXTINF:-1,DISCOVERY KIDS HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20816
+#EXTINF:-1,DISCOVERY KIDS SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4388
+#EXTINF:-1,DISCOVERY KIDS SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11269
+#EXTINF:-1,DISCOVERY KIDS SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20818
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://painel.ebanonet.com.br:25461/Renato/123456/7861
+#EXTINF:-1,Discovery Science HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11066
+#EXTINF:-1,DISCOVERY SCIENCE HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20811
+#EXTINF:-1,DISCOVERY SCIENCE SD
+http://painel.ebanonet.com.br:25461/Renato/123456/10237
+#EXTINF:-1,DISCOVERY SCIENCE SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11272
 #EXTINF:-1,DISCOVERY THEATER HD
-http://assistaiptvplay.com:80/878787/878787/43265
-#EXTINF:-1,DISCOVERY THEATER SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54208
-#EXTINF:-1,DISCOVERY TURBO FHD
-http://assistaiptvplay.com:80/878787/878787/43392
-#EXTINF:-1,DISCOVERY TURBO FHD (R2)
-http://assistaiptvplay.com:80/878787/878787/54211
-#EXTINF:-1,DISCOVERY TURBO HD (R1)
-http://assistaiptvplay.com:80/878787/878787/43263
-#EXTINF:-1,DISCOVERY WORLD FHD (R1)
-http://assistaiptvplay.com:80/878787/878787/43391
-#EXTINF:-1,DISCOVERY WORLD  HD
-http://assistaiptvplay.com:80/878787/878787/43261
+http://painel.ebanonet.com.br:25461/Renato/123456/6130
+#EXTINF:-1,Discovery Theater HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11065
+#EXTINF:-1,DISCOVERY THEATER HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20806
+#EXTINF:-1,DISCOVERY THEATER SD
+http://painel.ebanonet.com.br:25461/Renato/123456/10289
+#EXTINF:-1,DISCOVERY THEATER SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11268
+#EXTINF:-1,DISCOVERY TURBO HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6877
+#EXTINF:-1,Discovery Turbo HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11064
+#EXTINF:-1,DISCOVERY TURBO HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20808
+#EXTINF:-1,DISCOVERY TURBO SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4386
+#EXTINF:-1,DISCOVERY TURBO SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11267
+#EXTINF:-1,DISCOVERY TURBO SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20809
+#EXTINF:-1,DISCOVERY WORLD HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6128
+#EXTINF:-1,Discovery World HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11063
+#EXTINF:-1,DISCOVERY WORLD HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20801
 #EXTINF:-1,DISCOVERY WORLD SD
-http://assistaiptvplay.com:80/878787/878787/43262
-#EXTINF:-1,DISCOVERY WORLD SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54207
-#EXTINF:-1,DISNEY CHANNEL HD *
-http://assistaiptvplay.com:80/878787/878787/54119
-#EXTINF:-1,DISNEY CHANNEL HD **
-http://assistaiptvplay.com:80/878787/878787/54120
-#EXTINF:-1,DISNEY JUNIOR HD *
-http://assistaiptvplay.com:80/878787/878787/54116
-#EXTINF:-1,DISNEY JUNIOR HD **
-http://assistaiptvplay.com:80/878787/878787/54117
-#EXTINF:-1,DISNEY JUNIOR SD *
-http://assistaiptvplay.com:80/878787/878787/54115
-#EXTINF:-1,DISNEY XD HD *
-http://assistaiptvplay.com:80/878787/878787/54113
-#EXTINF:-1,DISNEY XD HD **
-http://assistaiptvplay.com:80/878787/878787/54114
+http://painel.ebanonet.com.br:25461/Renato/123456/10288
+#EXTINF:-1,DISCOVERY WORLD SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11266
+#EXTINF:-1,DISNEY CHANNEL HD
+http://painel.ebanonet.com.br:25461/Renato/123456/7902
+#EXTINF:-1,Disney Channel HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11062
+#EXTINF:-1,DISNEY CHANNEL HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20797
+#EXTINF:-1,DISNEY CHANNEL SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4385
+#EXTINF:-1,DISNEY CHANNEL SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11265
+#EXTINF:-1,DISNEY CHANNEL SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20799
+#EXTINF:-1,DISNEY JUNIOR FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/Renato/123456/13207
+#EXTINF:-1,DISNEY JUNIOR HD
+http://painel.ebanonet.com.br:25461/Renato/123456/10286
+#EXTINF:-1,Disney Junior HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11061
+#EXTINF:-1,DISNEY JUNIOR HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20794
+#EXTINF:-1,DISNEY JUNIOR SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4384
+#EXTINF:-1,DISNEY JUNIOR SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11264
+#EXTINF:-1,DISNEY JUNIOR SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20795
+#EXTINF:-1,Disney XD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11060
+#EXTINF:-1,DISNEY XD HD
+http://painel.ebanonet.com.br:25461/Renato/123456/20791
 #EXTINF:-1,DISNEY XD SD
-http://assistaiptvplay.com:80/878787/878787/43257
-#EXTINF:-1,DISNEY XD SD *
-http://assistaiptvplay.com:80/878787/878787/54112
-#EXTINF:-1,DW DEUTSCHE WELLE (R2)
-http://assistaiptvplay.com:80/878787/878787/53994
-#EXTINF:-1,DW ESPANHOL (R2)
-http://assistaiptvplay.com:80/878787/878787/53993
-#EXTINF:-1,E! FHD
-http://assistaiptvplay.com:80/878787/878787/43390
-#EXTINF:-1,E! HD
-http://assistaiptvplay.com:80/878787/878787/43255
-#EXTINF:-1,E! SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54206
-#EXTINF:-1,ESTÚDIO FM O DIA
-http://assistaiptvplay.com:80/878787/878787/68082
-#EXTINF:-1,FILM & ARTS FHD (R2)
-http://assistaiptvplay.com:80/878787/878787/54204
-#EXTINF:-1,FILM & ARTS SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54205
-#EXTINF:-1,FISH TV SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54075
-#EXTINF:-1,FOOD NETWORK FHD
-http://assistaiptvplay.com:80/878787/878787/43388
-#EXTINF:-1,FOOD NETWORK HD
-http://assistaiptvplay.com:80/878787/878787/43253
-#EXTINF:-1,FOOD NETWORK SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54203
-#EXTINF:-1,FOX FHD [R2]
-http://assistaiptvplay.com:80/878787/878787/54201
-#EXTINF:-1,FOX FULLHD
-http://assistaiptvplay.com:80/878787/878787/43336
+http://painel.ebanonet.com.br:25461/Renato/123456/4383
+#EXTINF:-1,EI PLUS 1 HD
+http://painel.ebanonet.com.br:25461/Renato/123456/32162
+#EXTINF:-1,EI PLUS 2 HD
+http://painel.ebanonet.com.br:25461/Renato/123456/33613
+#EXTINF:-1,EI PLUS 3 HD
+http://painel.ebanonet.com.br:25461/Renato/123456/32163
+#EXTINF:-1,EI PLUS 4 HD
+http://painel.ebanonet.com.br:25461/Renato/123456/24835
+#EXTINF:-1,ELEVEN SPORT 1  HD (Liga dos Campeões)
+http://painel.ebanonet.com.br:25461/Renato/123456/30761
+#EXTINF:-1,ELEVEN SPORTS 1 (Liga dos Campeões)
+http://painel.ebanonet.com.br:25461/Renato/123456/30760
+#EXTINF:-1,ESPN 2  HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20787
+#EXTINF:-1,ESPN 2 HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6143
+#EXTINF:-1,ESPN 2 SD
+http://painel.ebanonet.com.br:25461/Renato/123456/7988
+#EXTINF:-1,ESPN 4K
+http://painel.ebanonet.com.br:25461/Renato/123456/33766
+#EXTINF:-1,ESPN BRASIL FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/Renato/123456/11557
+#EXTINF:-1,ESPN BRASIL HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6124
+#EXTINF:-1,ESPN Brasil HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11057
+#EXTINF:-1,ESPN BRASIL HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20783
+#EXTINF:-1,ESPN BRASIL SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4380
+#EXTINF:-1,ESPN BRASIL SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11258
+#EXTINF:-1,ESPN BRASIL SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20784
+#EXTINF:-1,ESPN EXTRA HD
+http://painel.ebanonet.com.br:25461/Renato/123456/24788
+#EXTINF:-1,ESPN FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/Renato/123456/11545
+#EXTINF:-1,ESPN HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6127
+#EXTINF:-1,ESPN HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11056
+#EXTINF:-1,ESPN HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20779
+#EXTINF:-1,ESPN SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4381
+#EXTINF:-1,ESPN SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11259
+#EXTINF:-1,ESPN SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20780
 #EXTINF:-1,FOX HD
-http://assistaiptvplay.com:80/878787/878787/43251
-#EXTINF:-1,FOX LIFE FHD
-http://assistaiptvplay.com:80/878787/878787/43387
-#EXTINF:-1,FOX LIFE HD (R1)
-http://assistaiptvplay.com:80/878787/878787/43249
-#EXTINF:-1,FOX LIFE SD [R2]
-http://assistaiptvplay.com:80/878787/878787/54200
-#EXTINF:-1,FOX PREMIUM 1 FHD [R2]
-http://assistaiptvplay.com:80/878787/878787/54165
-#EXTINF:-1,FOX PREMIUM 1 HD (R2)
-http://assistaiptvplay.com:80/878787/878787/54199
-#EXTINF:-1,FOX PREMIUM 1 SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54198
-#EXTINF:-1,FOX PREMIUM 2 HD (R2)
-http://assistaiptvplay.com:80/878787/878787/54197
-#EXTINF:-1,FOX PREMIUM 2 SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54196
-#EXTINF:-1,FOX SD [R2]
-http://assistaiptvplay.com:80/878787/878787/54202
-#EXTINF:-1,FUTURA HD *
-http://assistaiptvplay.com:80/878787/878787/54057
-#EXTINF:-1,FUTURA SD *
-http://assistaiptvplay.com:80/878787/878787/54063
-#EXTINF:-1,FX FHD
-http://assistaiptvplay.com:80/878787/878787/43383
+http://painel.ebanonet.com.br:25461/Renato/123456/6122
+#EXTINF:-1,FOX HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11053
+#EXTINF:-1,FOX HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20759
+#EXTINF:-1,FOX LIFE HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20761
+#EXTINF:-1,FOX LIFE SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4374
+#EXTINF:-1,FOX Life SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11252
+#EXTINF:-1,FOX LIFE SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20762
+#EXTINF:-1,FOX SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4375
+#EXTINF:-1,FOX SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11253
+#EXTINF:-1,FOX SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20760
+#EXTINF:-1,FOX SPORTS 2 4K
+http://painel.ebanonet.com.br:25461/Renato/123456/33763
+#EXTINF:-1,FOX SPORTS 2 HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6117
+#EXTINF:-1,FOX Sports 2 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11049
+#EXTINF:-1,FOX SPORTS 2 HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20767
+#EXTINF:-1,FOX SPORTS 2 SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4372
+#EXTINF:-1,Fox Sports 2 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11248
+#EXTINF:-1,FOX SPORTS 2 SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20768
+#EXTINF:-1,FOX SPORTS 4K
+http://painel.ebanonet.com.br:25461/Renato/123456/33756
+#EXTINF:-1,FOX SPORTS HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6118
+#EXTINF:-1,Fox Sports HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11048
+#EXTINF:-1,FOX SPORTS HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20771
+#EXTINF:-1,FOX SPORTS SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4373
+#EXTINF:-1,Fox Sports SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11249
+#EXTINF:-1,FOX SPORTS SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20772
+#EXTINF:-1,FUTURA SD
+http://painel.ebanonet.com.br:25461/Renato/123456/10277
+#EXTINF:-1,FUTURA SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20753
+#EXTINF:-1,FX FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/Renato/123456/13199
 #EXTINF:-1,FX HD
-http://assistaiptvplay.com:80/878787/878787/43241
-#EXTINF:-1,FX SD (R2)
-#EXTINF:-1,GLOOB FHD (R1)
-http://assistaiptvplay.com:80/878787/878787/43334
-#EXTINF:-1,GLOOB HD (R1)
-http://assistaiptvplay.com:80/878787/878787/43237
-#EXTINF:-1,GLOOB SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54111
-#EXTINF:-1,GLOOB HD (R2)
-http://assistaiptvplay.com:80/878787/878787/43238
-#EXTINF:-1,GLOOB SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54110
-#EXTINF:-1,GLOOBINHO FHD (R1)
-http://assistaiptvplay.com:80/878787/878787/43382
-#EXTINF:-1,GLOOBINHO HD (R1)
-http://assistaiptvplay.com:80/878787/878787/43236
-#EXTINF:-1,GLOOBINHO HD (R2)
-http://assistaiptvplay.com:80/878787/878787/54109
-#EXTINF:-1,GLOOBINHO FHD (R2)
-http://assistaiptvplay.com:80/878787/878787/43235
-#EXTINF:-1,GLOOBINHO SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54108
+http://painel.ebanonet.com.br:25461/Renato/123456/6116
+#EXTINF:-1,FX HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11047
+#EXTINF:-1,FX HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20775
+#EXTINF:-1,FX SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4371
+#EXTINF:-1,FX SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11246
+#EXTINF:-1,FX SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20777
+#EXTINF:-1,GLOOB HD
+http://painel.ebanonet.com.br:25461/Renato/123456/7526
+#EXTINF:-1,Gloob HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11037
+#EXTINF:-1,GLOOB HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20749
+#EXTINF:-1,GLOOB SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4369
+#EXTINF:-1,Gloob SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11232
+#EXTINF:-1,GLOOB SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20750
+#EXTINF:-1,GLOOBINHO SD
+http://painel.ebanonet.com.br:25461/Renato/123456/10270
+#EXTINF:-1,GLOOBINHO SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20701
+#EXTINF:-1,GNT FHD
+http://painel.ebanonet.com.br:25461/Renato/123456/31123
 #EXTINF:-1,GNT HD
-http://assistaiptvplay.com:80/878787/878787/43233
-#EXTINF:-1,GNT HD (R2)
-http://assistaiptvplay.com:80/878787/878787/54194
-#EXTINF:-1,GNT SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54193
-#EXTINF:-1,H2 FHD
-http://assistaiptvplay.com:80/878787/878787/43380
-#EXTINF:-1,H2 HD
-http://assistaiptvplay.com:80/878787/878787/43231
-#EXTINF:-1,H2 SD [R2]
-http://assistaiptvplay.com:80/878787/878787/54182
-#EXTINF:-1,HBO 2 FULLHD
-http://assistaiptvplay.com:80/878787/878787/43333
+http://painel.ebanonet.com.br:25461/Renato/123456/6956
+#EXTINF:-1,GNT HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20752
+#EXTINF:-1,GNT SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4368
+#EXTINF:-1,GNT SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20751
 #EXTINF:-1,HBO 2 HD
-http://assistaiptvplay.com:80/878787/878787/43228
-#EXTINF:-1,HBO 2 HD (R2)
-http://assistaiptvplay.com:80/878787/878787/54190
-#EXTINF:-1,HBO 2 SD (R1)
-http://assistaiptvplay.com:80/878787/878787/43229
-#EXTINF:-1,HBO 2 SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54189
-#EXTINF:-1,HBO FAMILY HD  (R2)
-http://assistaiptvplay.com:80/878787/878787/54188
-#EXTINF:-1,HBO FAMILY SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54187
-#EXTINF:-1,HBO FULLHD
-http://assistaiptvplay.com:80/878787/878787/43332
+http://painel.ebanonet.com.br:25461/Renato/123456/6110
+#EXTINF:-1,HBO 2 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11035
+#EXTINF:-1,HBO 2 HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20690
+#EXTINF:-1,HBO 2 SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4365
+#EXTINF:-1,HBO 2 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11229
+#EXTINF:-1,HBO 2 SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20692
+#EXTINF:-1,HBO FAMILY FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/Renato/123456/11568
+#EXTINF:-1,HBO FAMILY HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6109
+#EXTINF:-1,HBO Family HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11034
+#EXTINF:-1,HBO FAMILY HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20687
+#EXTINF:-1,HBO FAMILY SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4364
+#EXTINF:-1,HBO Family SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11228
+#EXTINF:-1,HBO FAMILY SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20688
 #EXTINF:-1,HBO HD
-http://assistaiptvplay.com:80/878787/878787/43225
-#EXTINF:-1,HBO HD (R2)
-http://assistaiptvplay.com:80/878787/878787/54192
-#EXTINF:-1,HBO PLUS HD (R2)
-http://assistaiptvplay.com:80/878787/878787/54186
-#EXTINF:-1,HBO PLUS SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54185
-#EXTINF:-1,HBO SD (R1)
-http://assistaiptvplay.com:80/878787/878787/43230
-#EXTINF:-1,HBO SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54191
-#EXTINF:-1,HBO SIGNATURE HD (R2)
-http://assistaiptvplay.com:80/878787/878787/54184
-#EXTINF:-1,HBO SIGNATURE SD [R2]
-http://assistaiptvplay.com:80/878787/878787/54183
-#EXTINF:-1,HISTORY FHD
-http://assistaiptvplay.com:80/878787/878787/43376
-#EXTINF:-1,HISTORY HD
-http://assistaiptvplay.com:80/878787/878787/43219
-#EXTINF:-1,HISTORY SD
-http://assistaiptvplay.com:80/878787/878787/43220
-#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY SD [R2]
-http://assistaiptvplay.com:80/878787/878787/54181
-#EXTINF:-1,IMPD TV (R4)
-http://assistaiptvplay.com:80/878787/878787/72688
-#EXTINF:-1,INTERNATIONAL CHAMPIONS CUP (R2)
-http://assistaiptvplay.com:80/878787/878787/54065
-#EXTINF:-1,INVESTIGATION DISCOVERY FHD
-http://assistaiptvplay.com:80/878787/878787/43375
-#EXTINF:-1,INVESTIGATION DISCOVERY HD
-http://assistaiptvplay.com:80/878787/878787/43217
-#EXTINF:-1,LIFETIME SD [R2]
-http://assistaiptvplay.com:80/878787/878787/54180
-#EXTINF:-1,MAIS GLOBOSAT FHD
-http://assistaiptvplay.com:80/878787/878787/43323
+http://painel.ebanonet.com.br:25461/Renato/123456/6108
+#EXTINF:-1,HBO HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11033
+#EXTINF:-1,HBO HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20694
+#EXTINF:-1,HBO PLUS HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6106
+#EXTINF:-1,HBO Plus HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11032
+#EXTINF:-1,HBO PLUS HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20920
+#EXTINF:-1,HBO PLUS SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4363
+#EXTINF:-1,HBO Plus SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11227
+#EXTINF:-1,HBO PLUS SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20684
+#EXTINF:-1,HBO SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4366
+#EXTINF:-1,HBO SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11230
+#EXTINF:-1,HBO SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20696
+#EXTINF:-1,HBO SIGNATURE HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6105
+#EXTINF:-1,HBO SIGNATURE HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20678
+#EXTINF:-1,HBO SIGNATURE SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4361
+#EXTINF:-1,HBO Signature SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11226
+#EXTINF:-1,HBO SIGNATURE SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20679
+#EXTINF:-1,Hércules 24hs
+http://painel.ebanonet.com.br:25461/Renato/123456/33733
+#EXTINF:-1,Historias Disney 24hs
+http://painel.ebanonet.com.br:25461/Renato/123456/33734
+#EXTINF:-1,HISTORY CHANNEL HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6104
+#EXTINF:-1,History Channel HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11030
+#EXTINF:-1,HISTORY CHANNEL HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20468
+#EXTINF:-1,HISTORY CHANNEL SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4314
+#EXTINF:-1,History Channel SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11225
+#EXTINF:-1,HISTORY CHANNEL SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20469
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6869
+#EXTINF:-1,ID - Investigacao Discovery HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11029
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20672
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4360
+#EXTINF:-1,ID - Investigacao Discovery SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11224
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20673
+#EXTINF:-1,IDEAL SD
+http://painel.ebanonet.com.br:25461/Renato/123456/11179
+#EXTINF:-1,IDEAL TV SD
+http://painel.ebanonet.com.br:25461/Renato/123456/20674
+#EXTINF:-1,IMPD TV SD
+http://painel.ebanonet.com.br:25461/Renato/123456/25915
+#EXTINF:-1,LIFETIME HD
+http://painel.ebanonet.com.br:25461/Renato/123456/7525
+#EXTINF:-1,LIFETIME HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20668
+#EXTINF:-1,LIFETIME SD
+http://painel.ebanonet.com.br:25461/Renato/123456/7876
+#EXTINF:-1,LIFETIME SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20670
+#EXTINF:-1,LULUZINHA
+http://painel.ebanonet.com.br:25461/Renato/123456/33697
 #EXTINF:-1,MAIS GLOBOSAT HD
-http://assistaiptvplay.com:80/878787/878787/43213
-#EXTINF:-1,MAIS GLOBOSAT HD [R2]
-http://assistaiptvplay.com:80/878787/878787/54179
-#EXTINF:-1,MAIS GLOBOSAT SD [R2]
-http://assistaiptvplay.com:80/878787/878787/54178
-#EXTINF:-1,MAX FHD (R1)
-http://assistaiptvplay.com:80/878787/878787/43373
-#EXTINF:-1,MAX HD (R1)
-http://assistaiptvplay.com:80/878787/878787/43211
-#EXTINF:-1,MAX PRIME SD LEG
-http://assistaiptvplay.com:80/878787/878787/43081
-#EXTINF:-1,MAX PRIME SD [R2]
-http://assistaiptvplay.com:80/878787/878787/54177
-#EXTINF:-1,MAX SD (R1)
-http://assistaiptvplay.com:80/878787/878787/43212
-#EXTINF:-1,MAX SD LEG
-http://assistaiptvplay.com:80/878787/878787/43080
-#EXTINF:-1,MAX SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54176
-#EXTINF:-1,MAX UP SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54175
-#EXTINF:-1,MEGAPIX HD (R2)
-http://assistaiptvplay.com:80/878787/878787/43205
-#EXTINF:-1,MEGAPIX SD (R2)
-http://assistaiptvplay.com:80/878787/878787/43206
-#EXTINF:-1,MEGAPIX SD [R2]
-http://assistaiptvplay.com:80/878787/878787/54174
-#EXTINF:-1,MTV FHD
-http://assistaiptvplay.com:80/878787/878787/43369
-#EXTINF:-1,MTV HD
-http://assistaiptvplay.com:80/878787/878787/43203
-#EXTINF:-1,MTV SD (R1)
-http://assistaiptvplay.com:80/878787/878787/43204
-#EXTINF:-1,MTV SD [R2]
-http://assistaiptvplay.com:80/878787/878787/54173
-#EXTINF:-1,MULTISHOW FHD
-http://assistaiptvplay.com:80/878787/878787/43367
-#EXTINF:-1,MULTISHOW HD
-http://assistaiptvplay.com:80/878787/878787/43201
-#EXTINF:-1,MULTISHOW HD [R2]
-http://assistaiptvplay.com:80/878787/878787/54172
-#EXTINF:-1,MULTISHOW SD [R2]
-http://assistaiptvplay.com:80/878787/878787/54171
-#EXTINF:-1,MUSIC BOX BRAZIL SD  [R2]
-http://assistaiptvplay.com:80/878787/878787/54170
-#EXTINF:-1,NAT GEO FHD
-http://assistaiptvplay.com:80/878787/878787/43365
-#EXTINF:-1,NAT GEO HD
-http://assistaiptvplay.com:80/878787/878787/43197
-#EXTINF:-1,NAT GEO KIDS SD *
-http://assistaiptvplay.com:80/878787/878787/54107
-#EXTINF:-1,NAT GEO WILD SD (R1)
-http://assistaiptvplay.com:80/878787/878787/43193
-#EXTINF:-1,NATGEO WILD SD [R2]
-http://assistaiptvplay.com:80/878787/878787/54169
-#EXTINF:-1,NATIONAL GEOGRAPHIC SD [R2]
-http://assistaiptvplay.com:80/878787/878787/54168
-#EXTINF:-1,NBR
-http://assistaiptvplay.com:80/878787/878787/43192
-#EXTINF:-1,NHK WORLD HD *
-http://assistaiptvplay.com:80/878787/878787/54035
-#EXTINF:-1,NICK JR FHD
-http://assistaiptvplay.com:80/878787/878787/43362
+http://painel.ebanonet.com.br:25461/Renato/123456/9262
+#EXTINF:-1,Mais Globosat HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11038
+#EXTINF:-1,MAIS GLOBOSAT HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20665
+#EXTINF:-1,MAIS GLOBOSAT SD
+http://painel.ebanonet.com.br:25461/Renato/123456/6953
+#EXTINF:-1,Mais Globosat SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11233
+#EXTINF:-1,MAIS GLOBOSAT SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20666
+#EXTINF:-1,MAX FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/Renato/123456/13189
+#EXTINF:-1,MAX HD
+http://painel.ebanonet.com.br:25461/Renato/123456/10266
+#EXTINF:-1,MAX HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11028
+#EXTINF:-1,MAX HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20662
+#EXTINF:-1,MAX PRIME HD
+http://painel.ebanonet.com.br:25461/Renato/123456/7850
+#EXTINF:-1,MAX Prime HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11027
+#EXTINF:-1,MAX PRIME HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20657
+#EXTINF:-1,MAX PRIME SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4357
+#EXTINF:-1,MAX Prime SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11222
+#EXTINF:-1,MAX PRIME SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20658
+#EXTINF:-1,MAX SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4358
+#EXTINF:-1,MAX SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11223
+#EXTINF:-1,MAX SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20664
+#EXTINF:-1,MAX UP FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/Renato/123456/25015
+#EXTINF:-1,MAX UP HD
+http://painel.ebanonet.com.br:25461/Renato/123456/10265
+#EXTINF:-1,MAX UP HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11026
+#EXTINF:-1,MAX UP HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20659
+#EXTINF:-1,MAX UP SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4355
+#EXTINF:-1,MAX UP SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11220
+#EXTINF:-1,MAX UP SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20660
+EXTINF:-1,MEGAPIX HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6101
+#EXTINF:-1,Megapix HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11025
+#EXTINF:-1,MEGAPIX HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20653
+#EXTINF:-1,MEGAPIX SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4354
+#EXTINF:-1,Megapix SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11219
+#EXTINF:-1,MEGAPIX SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20654
+#EXTINF:-1,MULTISHOW HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20648
+#EXTINF:-1,MULTISHOW SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4352
+#EXTINF:-1,Multishow SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11217
+#EXTINF:-1,MULTISHOW SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20650
+#EXTINF:-1,MUSIC BOX BRASIL SD
+http://painel.ebanonet.com.br:25461/Renato/123456/7848
+#EXTINF:-1,MUSIC BOX BRASIL SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20655
+#EXTINF:-1,NARUTO 24HS
+http://painel.ebanonet.com.br:25461/Renato/123456/30038
+#EXTINF:-1,Naruto Shippuden DUB 24HS
+http://painel.ebanonet.com.br:25461/Renato/123456/33740
+#EXTINF:-1,NATGEO KIDS FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/Renato/123456/13198
+#EXTINF:-1,NATGEO KIDS HD
+http://painel.ebanonet.com.br:25461/Renato/123456/10261
+#EXTINF:-1,NatGeo Kids HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11023
+#EXTINF:-1,NATGEO KIDS HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20632
+#EXTINF:-1,NATGEO KIDS SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4350
+#EXTINF:-1,NatGeo Kids SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11215
+#EXTINF:-1,NATGEO KIDS SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20642
+#EXTINF:-1,NATGEO WILD FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/Renato/123456/11528
+#EXTINF:-1,NATGEO WILD HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6099
+#EXTINF:-1,NatGeo Wild HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11022
+#EXTINF:-1,NATGEO WILD HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20640
+#EXTINF:-1,NATGEO WILD SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4349
+#EXTINF:-1,NatGeo Wild SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11214
+#EXTINF:-1,NATGEO WILD SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20641
+#EXTINF:-1,National Geography  SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11213
+#EXTINF:-1,NATIONAL GEOGRAPHY 4K 
+http://painel.ebanonet.com.br:25461/Renato/123456/33764
+#EXTINF:-1,NATIONAL GEOGRAPHY FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/Renato/123456/13188
+#EXTINF:-1,NATIONAL GEOGRAPHY HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6098
+#EXTINF:-1,National Geography HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11021
+#EXTINF:-1,NATIONAL GEOGRAPHY HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20629
+#EXTINF:-1,NATIONAL GEOGRAPHY SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4348
+#EXTINF:-1,NATIONAL GEOGRAPHY SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20630
+#EXTINF:-1,NBR SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20625
+#EXTINF:-1,NHK HD
+http://painel.ebanonet.com.br:25461/Renato/123456/4347
+#EXTINF:-1,NHK SD
+http://painel.ebanonet.com.br:25461/Renato/123456/6949
 #EXTINF:-1,NICK JR HD
-http://assistaiptvplay.com:80/878787/878787/43190
+http://painel.ebanonet.com.br:25461/Renato/123456/10260
+#EXTINF:-1,Nick Jr HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11020
+#EXTINF:-1,NICK JR HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20631
+#EXTINF:-1,NICK JR SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4346
+#EXTINF:-1,Nick Jr SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11212
 #EXTINF:-1,NICK JR SD*
-http://assistaiptvplay.com:80/878787/878787/54106
-#EXTINF:-1,NICKELODEON SD *
-http://assistaiptvplay.com:80/878787/878787/54105
-#EXTINF:-1,PARAMOUNT CHANNEL SD *
-http://assistaiptvplay.com:80/878787/878787/54167
-#EXTINF:-1,PLAYKIDS FHD
-http://assistaiptvplay.com:80/878787/878787/43316
-#EXTINF:-1,PLAYKIDS HD
-http://assistaiptvplay.com:80/878787/878787/43109
-#EXTINF:-1,PLAYKIDS SD
-http://assistaiptvplay.com:80/878787/878787/43108
-#EXTINF:-1,PLAYKIDS SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54104
-#EXTINF:-1,PLAYTV SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54166
-#EXTINF:-1,SONY SD [R2]
-http://assistaiptvplay.com:80/878787/878787/54225
-#EXTINF:-1,SPACE FHD
-http://assistaiptvplay.com:80/878787/878787/43356
+http://painel.ebanonet.com.br:25461/Renato/123456/20637
+#EXTINF:-1,Nickeloden HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11019
+#EXTINF:-1,NICKELODEON HD
+http://painel.ebanonet.com.br:25461/Renato/123456/7537
+#EXTINF:-1,NICKELODEON HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20635
+#EXTINF:-1,NICKELODEON SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4345
+#EXTINF:-1,Nickelodeon SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11211
+#EXTINF:-1,OFF HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6947
+#EXTINF:-1,OFF HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11210
+#EXTINF:-1,OFF HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20622
+#EXTINF:-1,OFF SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4344
+#EXTINF:-1,PARAMOUNT HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6945
+#EXTINF:-1,Paramount HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11018
+#EXTINF:-1,PARAMOUNT HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20619
+#EXTINF:-1,PARAMOUNT SD
+http://painel.ebanonet.com.br:25461/Renato/123456/6946
+#EXTINF:-1,Paramount SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11208
+#EXTINF:-1,PARAMOUNT SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20621
+#EXTINF:-1,PPV 1
+http://painel.ebanonet.com.br:25461/Renato/123456/20586
+#EXTINF:-1,PPV 2
+http://painel.ebanonet.com.br:25461/Renato/123456/20585
+#EXTINF:-1,PPV 3
+http://painel.ebanonet.com.br:25461/Renato/123456/20584
+#EXTINF:-1,PPV 4
+http://painel.ebanonet.com.br:25461/Renato/123456/20583
+#EXTINF:-1,PPV 5
+http://painel.ebanonet.com.br:25461/Renato/123456/20582
+#EXTINF:-1,PREMIERE CLUBES HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6089
+#EXTINF:-1,PREMIERE CLUBES HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20599
+#EXTINF:-1,PREMIERE CLUBES SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4333
+#EXTINF:-1,Premiere Clubes SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11206
+#EXTINF:-1,PREMIERE CLUBES SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20596
+#EXTINF:-1,PREMIERE CLUBES FHD  (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/Renato/123456/9144
+#EXTINF:-1,Premiere Clubes HD [ ALTERNATIVO ]
+http://painel.ebanonet.com.br:25461/Renato/123456/8191
+#EXTINF:-1,PREMIERE 2 FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/Renato/123456/8149
+#EXTINF:-1,PREMIERE 2 HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6093
+#EXTINF:-1,Premiere 2 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11016
+#EXTINF:-1,PREMIERE 2 HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20615
+#EXTINF:-1,PREMIERE 2 SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4341
+#EXTINF:-1,PREMIERE 3 FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/Renato/123456/9230
+#EXTINF:-1,PREMIERE 3 HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6092
+#EXTINF:-1,Premiere 3 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11015
+#EXTINF:-1,PREMIERE 3 HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20612
+#EXTINF:-1,PREMIERE 3 SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4340
+#EXTINF:-1,PREMIERE 4 FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/Renato/123456/11552
+#EXTINF:-1,PREMIERE 4 HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6091
+#EXTINF:-1,Premiere 4 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11014
+#EXTINF:-1,PREMIERE 4 HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20609
+#EXTINF:-1,PREMIERE 4 SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4339
+#EXTINF:-1,Premiere 4 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11203
+#EXTINF:-1,PREMIERE 4 SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20593
+#EXTINF:-1,PREMIERE 5 FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/Renato/123456/9231
+#EXTINF:-1,PREMIERE 5 HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6090
+#EXTINF:-1,Premiere 5 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11013
+#EXTINF:-1,PREMIERE 5 HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20606
+#EXTINF:-1,PREMIERE 5 SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4338
+#EXTINF:-1,PREMIERE 6 FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/Renato/123456/11550
+#EXTINF:-1,PREMIERE 6 HD
+http://painel.ebanonet.com.br:25461/Renato/123456/10259
+#EXTINF:-1,PREMIERE 6 HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20603
+#EXTINF:-1,PREMIERE 6 SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4337
+#EXTINF:-1,PREMIERE 7 FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/Renato/123456/11549
+#EXTINF:-1,PREMIERE 7 HD
+http://painel.ebanonet.com.br:25461/Renato/123456/10258
+#EXTINF:-1,Premiere 7 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11012
+#EXTINF:-1,PREMIERE 7 HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20601
+#EXTINF:-1,PREMIERE 7 SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4336
+#EXTINF:-1,Premiere 7 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11200
+#EXTINF:-1,PREMIERE 7 SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20590
+#EXTINF:-1,PREMIERE 8 SD
+http://painel.ebanonet.com.br:25461/Renato/123456/20589
+#EXTINF:-1,PREMIERE 9 SD
+http://painel.ebanonet.com.br:25461/Renato/123456/20588
+http://painel.ebanonet.com.br:25461/Renato/123456/13197
 #EXTINF:-1,SPACE HD
-http://assistaiptvplay.com:80/878787/878787/43167
-#EXTINF:-1,SPACE HD LEG
-http://assistaiptvplay.com:80/878787/878787/43061
-#EXTINF:-1,SPACE SD LEG
-http://assistaiptvplay.com:80/878787/878787/43060
-#EXTINF:-1,SPACE SD [R2]
-http://assistaiptvplay.com:80/878787/878787/54163
-#EXTINF:-1,STUDIO UNIVERSAL FHD
-http://assistaiptvplay.com:80/878787/878787/43355
+http://painel.ebanonet.com.br:25461/Renato/123456/6085
+#EXTINF:-1,Space HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11009
+#EXTINF:-1,SPACE HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20532
+#EXTINF:-1,SPACE SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4328
+#EXTINF:-1,Space SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11191
+#EXTINF:-1,SPORT TV
+http://painel.ebanonet.com.br:25461/Renato/123456/30734
+#EXTINF:-1,SPORT TV  HD
+http://painel.ebanonet.com.br:25461/Renato/123456/30733
+#EXTINF:-1,SPORT TV 1
+http://painel.ebanonet.com.br:25461/Renato/123456/30750
+#EXTINF:-1,SPORT TV 1 HD
+http://painel.ebanonet.com.br:25461/Renato/123456/30749
+#EXTINF:-1,SPORT TV 2
+http://painel.ebanonet.com.br:25461/Renato/123456/30747
+#EXTINF:-1,SPORT TV 2 HD
+http://painel.ebanonet.com.br:25461/Renato/123456/30746
+#EXTINF:-1,SPORT TV 3
+http://painel.ebanonet.com.br:25461/Renato/123456/30744
+#EXTINF:-1,SPORT TV 3 HD
+http://painel.ebanonet.com.br:25461/Renato/123456/30743
+#EXTINF:-1,SPORT TV 4
+http://painel.ebanonet.com.br:25461/Renato/123456/30741
+#EXTINF:-1,SPORT TV 4 HD
+http://painel.ebanonet.com.br:25461/Renato/123456/30740
+#EXTINF:-1,SPORT TV 5
+http://painel.ebanonet.com.br:25461/Renato/123456/30738
+#EXTINF:-1,SPORT TV 5 HD
+http://painel.ebanonet.com.br:25461/Renato/123456/30737
+#EXTINF:-1,SPORT TV NBA FHD
+http://painel.ebanonet.com.br:25461/Renato/123456/30735
+#EXTINF:-1,SPORT X ATLETICO/MG BR S17
+http://painel.ebanonet.com.br:25461/Renato/123456/30242
+#EXTINF:-1,SporTV  HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11006
+#EXTINF:-1,SPORTV 1 FULL  HD
+http://painel.ebanonet.com.br:25461/Renato/123456/30748
+#EXTINF:-1,SPORTV 2 FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/Renato/123456/11539
+#EXTINF:-1,SPORTV 2 FULL HD
+http://painel.ebanonet.com.br:25461/Renato/123456/30745
+#EXTINF:-1,SPORTV 2 HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6084
+#EXTINF:-1,SporTV 2 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11008
+#EXTINF:-1,SPORTV 2 HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20540
+#EXTINF:-1,SPORTV 2 SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4326
+#EXTINF:-1,Sportv 2 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11189
+#EXTINF:-1,SPORTV 2 SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20541
+#EXTINF:-1,SPORTV 3 FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/Renato/123456/11538
+#EXTINF:-1,SPORTV 3 FULL HD
+http://painel.ebanonet.com.br:25461/Renato/123456/30742
+#EXTINF:-1,SPORTV 3 HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6083
+#EXTINF:-1,SporTV 3 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11007
+#EXTINF:-1,SPORTV 3 HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20536
+#EXTINF:-1,SPORTV 3 SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4325
+#EXTINF:-1,Sportv 3 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11188
+#EXTINF:-1,SPORTV 3 SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20537
+#EXTINF:-1,SPORTV 4 FULL  HD
+http://painel.ebanonet.com.br:25461/Renato/123456/30739
+#EXTINF:-1,SPORTV 4K
+http://painel.ebanonet.com.br:25461/Renato/123456/33759
+#EXTINF:-1,SPORTV 5 FULL HD
+http://painel.ebanonet.com.br:25461/Renato/123456/30736
+#EXTINF:-1,SPORTV HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6082
+#EXTINF:-1,SPORTV HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20544
+#EXTINF:-1,SPORTV SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4327
+#EXTINF:-1,Sportv SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11190
+#EXTINF:-1,SPORTV SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20545
+#EXTINF:-1,Steve Universe 24Hrs
+http://painel.ebanonet.com.br:25461/Renato/123456/24934
 #EXTINF:-1,STUDIO UNIVERSAL HD
-http://assistaiptvplay.com:80/878787/878787/43165
-#EXTINF:-1,STUDIO UNIVERSAL SD (R1)
-http://assistaiptvplay.com:80/878787/878787/43166
-#EXTINF:-1,STUDIO UNIVERSAL SD [R2]
-http://assistaiptvplay.com:80/878787/878787/54162
-#EXTINF:-1,SYFY FHD
-http://assistaiptvplay.com:80/878787/878787/43354
-#EXTINF:-1,SYFY HD
-http://assistaiptvplay.com:80/878787/878787/43169
-#EXTINF:-1,SYFY SD [R2]
-http://assistaiptvplay.com:80/878787/878787/54161
-#EXTINF:-1,TBS HD
-http://assistaiptvplay.com:80/878787/878787/43163
-#EXTINF:-1,TBS SD  [R2]
-http://assistaiptvplay.com:80/878787/878787/54159
-#EXTINF:-1,TCM SD [R2]
-http://assistaiptvplay.com:80/878787/878787/54158
-#EXTINF:-1,TELECINE ACTION FHD (R1)
-http://assistaiptvplay.com:80/878787/878787/43329
-#EXTINF:-1,TELECINE ACTION HD (R1)
-http://assistaiptvplay.com:80/878787/878787/43160
-#EXTINF:-1,TELECINE ACTION HD (R2)
-http://assistaiptvplay.com:80/878787/878787/54157
-#EXTINF:-1,TELECINE ACTION SD (R1)
-http://assistaiptvplay.com:80/878787/878787/43161
-#EXTINF:-1,TELECINE ACTION SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54156
-#EXTINF:-1,TELECINE CULT HD (R2)
-http://assistaiptvplay.com:80/878787/878787/54155
-#EXTINF:-1,TELECINE CULT SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54154
-#EXTINF:-1,TELECINE FUN FHD (R1)
-http://assistaiptvplay.com:80/878787/878787/43328
-#EXTINF:-1,TELECINE FUN HD (R1)
-http://assistaiptvplay.com:80/878787/878787/43156
-#EXTINF:-1,TELECINE FUN HD (R2)
-http://assistaiptvplay.com:80/878787/878787/54153
-#EXTINF:-1,TELECINE FUN SD (R1)
-http://assistaiptvplay.com:80/878787/878787/43157
-#EXTINF:-1,TELECINE FUN SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54152
-#EXTINF:-1,TELECINE PIPOCA FHD (R1)
-http://assistaiptvplay.com:80/878787/878787/43327
-#EXTINF:-1,TELECINE PIPOCA HD (R1)
-http://assistaiptvplay.com:80/878787/878787/43154
-#EXTINF:-1,TELECINE PIPOCA HD (R2)
-http://assistaiptvplay.com:80/878787/878787/54151
-#EXTINF:-1,TELECINE PIPOCA SD (R1)
-http://assistaiptvplay.com:80/878787/878787/43155
-#EXTINF:-1,TELECINE PIPOCA SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54150
-#EXTINF:-1,TELECINE PREMIUM FHD (R1)
-http://assistaiptvplay.com:80/878787/878787/43326
-#EXTINF:-1,TELECINE PREMIUM HD (R1)
-http://assistaiptvplay.com:80/878787/878787/43152
-#EXTINF:-1,TELECINE PREMIUM HD (R2)
-http://assistaiptvplay.com:80/878787/878787/54149
-#EXTINF:-1,TELECINE PREMIUM SD (R1)
-http://assistaiptvplay.com:80/878787/878787/43153
-#EXTINF:-1,TELECINE PREMIUM SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54148
-#EXTINF:-1,TELECINE TOUCH HD (R2)
-http://assistaiptvplay.com:80/878787/878787/54147
-#EXTINF:-1,TELECINE TOUCH SD (R2)
-http://assistaiptvplay.com:80/878787/878787/54146
-#EXTINF:-1,TLC FHD
-http://assistaiptvplay.com:80/878787/878787/43351
-#EXTINF:-1,TLC HD
-http://assistaiptvplay.com:80/878787/878787/43147
-#EXTINF:-1,TLC SD [R2]
-http://assistaiptvplay.com:80/878787/878787/54144
-#EXTINF:-1,TNT FHD
-http://assistaiptvplay.com:80/878787/878787/43350
+http://painel.ebanonet.com.br:25461/Renato/123456/7874
+#EXTINF:-1,Studio Universal HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11005
+#EXTINF:-1,STUDIO UNIVERSAL HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20546
+#EXTINF:-1,STUDIO UNIVERSAL SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4324
+#EXTINF:-1,Studio Universal SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11187
+#EXTINF:-1,TELECINE ACTION HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6080
+#EXTINF:-1,Telecine Action HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11002
+#EXTINF:-1,TELECINE ACTION HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20517
+#EXTINF:-1,TELECINE ACTION SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4320
+#EXTINF:-1,Telecine Action SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11183
+#EXTINF:-1,TELECINE ACTION SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20518
+#EXTINF:-1,TELECINE CULT FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/Renato/123456/8143
+#EXTINF:-1,TELECINE CULT HD
+http://painel.ebanonet.com.br:25461/Renato/123456/10247
+#EXTINF:-1,Telecine Cult HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11001
+#EXTINF:-1,TELECINE CULT HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20513
+#EXTINF:-1,TELECINE CULT SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4319
+#EXTINF:-1,Telecine Cult SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11182
+#EXTINF:-1,TELECINE CULT SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20514
+#EXTINF:-1,TELECINE FUN FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/Renato/123456/11561
+#EXTINF:-1,TELECINE FUN HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6079
+#EXTINF:-1,TELECINE FUN HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20509
+#EXTINF:-1,TELECINE FUN SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4318
+#EXTINF:-1,Telecine Fun SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11181
+#EXTINF:-1,TELECINE FUN SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20510
+#EXTINF:-1,TELECINE PIPOCA FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/Renato/123456/8144
+#EXTINF:-1,TELECINE PIPOCA HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6078
+#EXTINF:-1,Telecine Pipoca HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/10999
+#EXTINF:-1,TELECINE PIPOCA HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20505
+#EXTINF:-1,TELECINE PIPOCA SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4317
+#EXTINF:-1,TELECINE PREMIUM FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/Renato/123456/8140
+#EXTINF:-1,TELECINE PREMIUM HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6077
+#EXTINF:-1,Telecine Premium HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/10998
+#EXTINF:-1,TELECINE PREMIUM HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20501
+#EXTINF:-1,TELECINE PREMIUM SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4316
+#EXTINF:-1,TELECINE TOUCH FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/Renato/123456/25016
+#EXTINF:-1,TELECINE TOUCH HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6076
+#EXTINF:-1,Telecine Touch HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/10997
+#EXTINF:-1,TELECINE TOUCH HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20497
+#EXTINF:-1,TELECINE TOUCH SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4315
 #EXTINF:-1,TNT HD
-http://assistaiptvplay.com:80/878787/878787/43145
-#EXTINF:-1,TNT SD*
-http://assistaiptvplay.com:80/878787/878787/54143
-#EXTINF:-1,TNT SERIES FHD *
-http://assistaiptvplay.com:80/878787/878787/54142
-#EXTINF:-1,TOONCAST SD *
-http://assistaiptvplay.com:80/878787/878787/54103
-#EXTINF:-1,TRUTV SD (R1)
-http://assistaiptvplay.com:80/878787/878787/43348
-#EXTINF:-1,TRUTV  [R2]
-#EXTINF:-1,UNIVERSAL CHANNEL FHD
-http://assistaiptvplay.com:80/878787/878787/43346
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://assistaiptvplay.com:80/878787/878787/43129
-#EXTINF:-1,UNIVERSAL CHANNEL SD (R1)
-http://assistaiptvplay.com:80/878787/878787/43130
-#EXTINF:-1,UNIVERSAL TV FHD  [R2]
-http://assistaiptvplay.com:80/878787/878787/54137
-#EXTINF:-1,UNIVERSAL TV SD [R2]
-http://assistaiptvplay.com:80/878787/878787/54136
-#EXTINF:-1,VIVA FULLHD
-http://assistaiptvplay.com:80/878787/878787/43324
-#EXTINF:-1,VIVA HD
-http://assistaiptvplay.com:80/878787/878787/43124
-#EXTINF:-1,VIVA SD (R1)
-http://assistaiptvplay.com:80/878787/878787/43125
-#EXTINF:-1,VIVA SD  [R2]
-http://assistaiptvplay.com:80/878787/878787/54133
-#EXTINF:-1,WARNER CHANNEL FHD [R2]
-http://assistaiptvplay.com:80/878787/878787/54132
-#EXTINF:-1,WARNER CHANNEL HD
-http://assistaiptvplay.com:80/878787/878787/43122
-#EXTINF:-1,WARNER CHANNEL SD
-http://assistaiptvplay.com:80/878787/878787/43123
-#EXTINF:-1,WARNER FHD
-http://assistaiptvplay.com:80/878787/878787/43344
-#EXTINF:-1,WOOHOO SD [R2]
-http://assistaiptvplay.com:80/878787/878787/54130
-#EXTINF:-1,ZOOMOO SD *
-http://assistaiptvplay.com:80/878787/878787/54125
+http://painel.ebanonet.com.br:25461/Renato/123456/6074
+#EXTINF:-1,TNT HD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/10995
+#EXTINF:-1,TNT HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20493
+#EXTINF:-1,TNT SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4312
+#EXTINF:-1,TNT Series [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/10994
+#EXTINF:-1,TNT SERIES 4K
+http://painel.ebanonet.com.br:25461/Renato/123456/33765
+#EXTINF:-1,TNT SERIES FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/Renato/123456/13186
+#EXTINF:-1,TNT SERIES HD
+http://painel.ebanonet.com.br:25461/Renato/123456/6073
+#EXTINF:-1,TNT SERIES HD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20489
+#EXTINF:-1,TNT SERIES SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4311
+#EXTINF:-1,TOONCAST HD
+http://painel.ebanonet.com.br:25461/Renato/123456/20485
+#EXTINF:-1,TOONCAST SD
+http://painel.ebanonet.com.br:25461/Renato/123456/4310
+#EXTINF:-1,Tooncast SD [Alternativo]
+http://painel.ebanonet.com.br:25461/Renato/123456/11174
+#EXTINF:-1,TOONCAST SD*
+http://painel.ebanonet.com.br:25461/Renato/123456/20486
