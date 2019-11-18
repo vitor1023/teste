@@ -1,1001 +1,595 @@
 #EXTM3U
-#EXTINF:-1,A FAZENDA HD
-http://painel.ebanonet.com.br:25461/Renato/123456/33563
-#EXTINF:-1,A FAZENDA HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/33641
-#EXTINF:-1,A FAZENDA SD
-http://painel.ebanonet.com.br:25461/Renato/123456/33564
-#EXTINF:-1,A&E HD
-http://painel.ebanonet.com.br:25461/Renato/123456/8139
-#EXTINF:-1,A&E HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11314
-#EXTINF:-1,A&E HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20892
-#EXTINF:-1,A&E SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4404
-#EXTINF:-1,A&E SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11316
-#EXTINF:-1,A&E SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20893
-#EXTINF:-1,AGRO CANAL SD
-http://painel.ebanonet.com.br:25461/Renato/123456/5983
-#EXTINF:-1,AMC SD
-http://painel.ebanonet.com.br:25461/Renato/123456/7448
-#EXTINF:-1,AMC SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11312
-#EXTINF:-1,AMC SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20891
-#EXTINF:-1,ANIMAL PLANET HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6142
-#EXTINF:-1,Animal Planet HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11079
-#EXTINF:-1,ANIMAL PLANET HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/24628
-#EXTINF:-1,ANIMAL PLANET SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4403
-#EXTINF:-1,ANIMAL PLANET SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11310
-#EXTINF:-1,ANIMAL PLANET SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20887
-#EXTINF:-1,ARTE 1 HD
-http://painel.ebanonet.com.br:25461/Renato/123456/10235
-#EXTINF:-1,TruTV SD
-http://painel.ebanonet.com.br:25461/Renato/123456/7904
-#EXTINF:-1,ARTE 1 SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20880
-#EXTINF:-1,As Meninas Superpoderosas 24HS
-http://painel.ebanonet.com.br:25461/Renato/123456/33711
-#EXTINF:-1,AXN HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6140
-#EXTINF:-1,AXN HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11078
-#EXTINF:-1,AXN HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20882
-#EXTINF:-1,AXN SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4402
-#EXTINF:-1,AXN SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11306
-#EXTINF:-1,AXN SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20884
-#EXTINF:-1,BABY TV SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4401
-#EXTINF:-1,BABY TV SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20871
-#EXTINF:-1,BAND NEWS HD
-http://painel.ebanonet.com.br:25461/Renato/123456/10296
-#EXTINF:-1,BAND NEWS SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4399
-#EXTINF:-1,BAND NEWS SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11301
-#EXTINF:-1,BAND SPORTS HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6138
-#EXTINF:-1,BAND SPORTS HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11294
-#EXTINF:-1,BAND SPORTS HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20863
-#EXTINF:-1,BAND SPORTS SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4398
-#EXTINF:-1,BAND SPORTS SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11297
-#EXTINF:-1,BAND SPORTS SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20864
-#EXTINF:-1,BIS HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6881
-#EXTINF:-1,BIS HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11291
-#EXTINF:-1,BIS HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20866
-#EXTINF:-1,BIS SD
-http://painel.ebanonet.com.br:25461/Renato/123456/6964
-#EXTINF:-1,BIS SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11293
-#EXTINF:-1,BIS SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20868
-#EXTINF:-1,BLOOMBERG TV SD
-http://painel.ebanonet.com.br:25461/Renato/123456/7424
-#EXTINF:-1,BOOMERANG HD
-http://painel.ebanonet.com.br:25461/Renato/123456/10294
-#EXTINF:-1,Boomerang HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11076
-#EXTINF:-1,BOOMERANG SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4396
-#EXTINF:-1,BOOMERANG SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11289
-#EXTINF:-1,BOOMERANG SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20857
-#EXTINF:-1,CANAL SONY HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6961
-#EXTINF:-1,Canal Sony HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11075
-#EXTINF:-1,CANAL SONY HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20527
-#EXTINF:-1,CANAL SONY SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4395
-#EXTINF:-1,CANAL SONY SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11283
-#EXTINF:-1,CARTOON NETWORK HD
-http://painel.ebanonet.com.br:25461/Renato/123456/7817
-#EXTINF:-1,Cartoon Network HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11074
-#EXTINF:-1,CARTOON NETWORK HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20844
-#EXTINF:-1,CARTOON NETWORK SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4394
-#EXTINF:-1,CARTOON NETWORK SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20845
-#EXTINF:-1,CINEMAX HD
-http://painel.ebanonet.com.br:25461/Renato/123456/7802
-#EXTINF:-1,Cinemax HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11073
-#EXTINF:-1,CINEMAX HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20834
-#EXTINF:-1,CINEMAX SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4393
-#EXTINF:-1,CINEMAX SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11280
-#EXTINF:-1,CINEMAX SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/24630
-#EXTINF:-1,COMBATE HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6172
-#EXTINF:-1,Combate HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11072
-#EXTINF:-1,COMBATE HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20831
-#EXTINF:-1,COMBATE SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4392
-#EXTINF:-1,COMBATE SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11277
-#EXTINF:-1,COMBATE SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20832
-#EXTINF:-1,COMEDY CENTRAL HD
-http://painel.ebanonet.com.br:25461/Renato/123456/10292
-#EXTINF:-1,Comedy Central HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11071
-#EXTINF:-1,COMEDY CENTRAL HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20827
-#EXTINF:-1,COMEDY CENTRAL SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4391
-#EXTINF:-1,COMEDY CENTRAL SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11275
-#EXTINF:-1,DAZN HD
-http://painel.ebanonet.com.br:25461/Renato/123456/30422
-#EXTINF:-1,DAZN HD 2
-http://painel.ebanonet.com.br:25461/Renato/123456/33638
-#EXTINF:-1,DAZN HD 3
-http://painel.ebanonet.com.br:25461/Renato/123456/33639
-#EXTINF:-1,DAZN HD 4
-http://painel.ebanonet.com.br:25461/Renato/123456/33640
-#EXTINF:-1,DAZN HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/31005
-http://painel.ebanonet.com.br:25461/Renato/123456/11548
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6132
-#EXTINF:-1,Discovery Channel HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11070
-#EXTINF:-1,DISCOVERY CHANNEL HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20824
-#EXTINF:-1,DISCOVERY CHANNEL SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4390
-#EXTINF:-1,DISCOVERY CHANNEL SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11273
-#EXTINF:-1,DISCOVERY CHANNEL SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20825
-#EXTINF:-1,Discovery Civilization  SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11271
-#EXTINF:-1,DISCOVERY CIVILIZATION HD
-http://painel.ebanonet.com.br:25461/Renato/123456/7862
-#EXTINF:-1,Discovery Civilization HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11069
-#EXTINF:-1,DISCOVERY CIVILIZATION HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20820
-#EXTINF:-1,DISCOVERY CIVILIZATION SD
-http://painel.ebanonet.com.br:25461/Renato/123456/10236
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6131
-#EXTINF:-1,Discovery Home & Health HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11068
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20813
-#EXTINF:-1,DISCOVERY HOME & HEALTH SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4389
-#EXTINF:-1,Discovery Home & Health SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11270
-#EXTINF:-1,DISCOVERY HOME & HELTH SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20814
-#EXTINF:-1,DISCOVERY KIDS HD
-http://painel.ebanonet.com.br:25461/Renato/123456/7538
-#EXTINF:-1,Discovery Kids HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11067
-#EXTINF:-1,DISCOVERY KIDS HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20816
-#EXTINF:-1,DISCOVERY KIDS SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4388
-#EXTINF:-1,DISCOVERY KIDS SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11269
-#EXTINF:-1,DISCOVERY KIDS SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20818
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://painel.ebanonet.com.br:25461/Renato/123456/7861
-#EXTINF:-1,Discovery Science HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11066
-#EXTINF:-1,DISCOVERY SCIENCE HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20811
-#EXTINF:-1,DISCOVERY SCIENCE SD
-http://painel.ebanonet.com.br:25461/Renato/123456/10237
-#EXTINF:-1,DISCOVERY SCIENCE SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11272
-#EXTINF:-1,DISCOVERY THEATER HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6130
-#EXTINF:-1,Discovery Theater HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11065
-#EXTINF:-1,DISCOVERY THEATER HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20806
-#EXTINF:-1,DISCOVERY THEATER SD
-http://painel.ebanonet.com.br:25461/Renato/123456/10289
-#EXTINF:-1,DISCOVERY THEATER SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11268
-#EXTINF:-1,DISCOVERY TURBO HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6877
-#EXTINF:-1,Discovery Turbo HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11064
-#EXTINF:-1,DISCOVERY TURBO HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20808
-#EXTINF:-1,DISCOVERY TURBO SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4386
-#EXTINF:-1,DISCOVERY TURBO SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11267
-#EXTINF:-1,DISCOVERY TURBO SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20809
-#EXTINF:-1,DISCOVERY WORLD HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6128
-#EXTINF:-1,Discovery World HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11063
-#EXTINF:-1,DISCOVERY WORLD HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20801
-#EXTINF:-1,DISCOVERY WORLD SD
-http://painel.ebanonet.com.br:25461/Renato/123456/10288
-#EXTINF:-1,DISCOVERY WORLD SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11266
-#EXTINF:-1,DISNEY CHANNEL HD
-http://painel.ebanonet.com.br:25461/Renato/123456/7902
-#EXTINF:-1,Disney Channel HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11062
-#EXTINF:-1,DISNEY CHANNEL HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20797
-#EXTINF:-1,DISNEY CHANNEL SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4385
-#EXTINF:-1,DISNEY CHANNEL SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11265
-#EXTINF:-1,DISNEY CHANNEL SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20799
-#EXTINF:-1,DISNEY JUNIOR FHD (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/Renato/123456/13207
-#EXTINF:-1,DISNEY JUNIOR HD
-http://painel.ebanonet.com.br:25461/Renato/123456/10286
-#EXTINF:-1,Disney Junior HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11061
-#EXTINF:-1,DISNEY JUNIOR HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20794
-#EXTINF:-1,DISNEY JUNIOR SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4384
-#EXTINF:-1,DISNEY JUNIOR SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11264
-#EXTINF:-1,DISNEY JUNIOR SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20795
-#EXTINF:-1,Disney XD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11060
-#EXTINF:-1,DISNEY XD HD
-http://painel.ebanonet.com.br:25461/Renato/123456/20791
-#EXTINF:-1,DISNEY XD SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4383
-#EXTINF:-1,EI PLUS 1 HD
-http://painel.ebanonet.com.br:25461/Renato/123456/32162
-#EXTINF:-1,EI PLUS 2 HD
-http://painel.ebanonet.com.br:25461/Renato/123456/33613
-#EXTINF:-1,EI PLUS 3 HD
-http://painel.ebanonet.com.br:25461/Renato/123456/32163
-#EXTINF:-1,EI PLUS 4 HD
-http://painel.ebanonet.com.br:25461/Renato/123456/24835
-#EXTINF:-1,ELEVEN SPORT 1  HD (Liga dos Campeões)
-http://painel.ebanonet.com.br:25461/Renato/123456/30761
-#EXTINF:-1,ELEVEN SPORTS 1 (Liga dos Campeões)
-http://painel.ebanonet.com.br:25461/Renato/123456/30760
-#EXTINF:-1,ESPN 2  HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20787
-#EXTINF:-1,ESPN 2 HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6143
-#EXTINF:-1,ESPN 2 SD
-http://painel.ebanonet.com.br:25461/Renato/123456/7988
-#EXTINF:-1,ESPN 4K
-http://painel.ebanonet.com.br:25461/Renato/123456/33766
-#EXTINF:-1,ESPN BRASIL FHD (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/Renato/123456/11557
-#EXTINF:-1,ESPN BRASIL HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6124
-#EXTINF:-1,ESPN Brasil HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11057
-#EXTINF:-1,ESPN BRASIL HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20783
-#EXTINF:-1,ESPN BRASIL SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4380
-#EXTINF:-1,ESPN BRASIL SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11258
-#EXTINF:-1,ESPN BRASIL SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20784
-#EXTINF:-1,ESPN EXTRA HD
-http://painel.ebanonet.com.br:25461/Renato/123456/24788
-#EXTINF:-1,ESPN FHD (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/Renato/123456/11545
-#EXTINF:-1,ESPN HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6127
-#EXTINF:-1,ESPN HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11056
-#EXTINF:-1,ESPN HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20779
-#EXTINF:-1,ESPN SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4381
-#EXTINF:-1,ESPN SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11259
-#EXTINF:-1,ESPN SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20780
-#EXTINF:-1,FOX HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6122
-#EXTINF:-1,FOX HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11053
-#EXTINF:-1,FOX HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20759
-#EXTINF:-1,FOX LIFE HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20761
-#EXTINF:-1,FOX LIFE SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4374
-#EXTINF:-1,FOX Life SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11252
-#EXTINF:-1,FOX LIFE SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20762
-#EXTINF:-1,FOX SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4375
-#EXTINF:-1,FOX SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11253
-#EXTINF:-1,FOX SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20760
-#EXTINF:-1,FOX SPORTS 2 4K
-http://painel.ebanonet.com.br:25461/Renato/123456/33763
-#EXTINF:-1,FOX SPORTS 2 HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6117
-#EXTINF:-1,FOX Sports 2 HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11049
-#EXTINF:-1,FOX SPORTS 2 HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20767
-#EXTINF:-1,FOX SPORTS 2 SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4372
-#EXTINF:-1,Fox Sports 2 SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11248
-#EXTINF:-1,FOX SPORTS 2 SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20768
-#EXTINF:-1,FOX SPORTS 4K
-http://painel.ebanonet.com.br:25461/Renato/123456/33756
-#EXTINF:-1,FOX SPORTS HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6118
-#EXTINF:-1,Fox Sports HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11048
-#EXTINF:-1,FOX SPORTS HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20771
-#EXTINF:-1,FOX SPORTS SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4373
-#EXTINF:-1,Fox Sports SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11249
-#EXTINF:-1,FOX SPORTS SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20772
-#EXTINF:-1,FUTURA SD
-http://painel.ebanonet.com.br:25461/Renato/123456/10277
-#EXTINF:-1,FUTURA SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20753
-#EXTINF:-1,FX FHD (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/Renato/123456/13199
-#EXTINF:-1,FX HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6116
-#EXTINF:-1,FX HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11047
-#EXTINF:-1,FX HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20775
-#EXTINF:-1,FX SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4371
-#EXTINF:-1,FX SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11246
-#EXTINF:-1,FX SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20777
-#EXTINF:-1,GLOOB HD
-http://painel.ebanonet.com.br:25461/Renato/123456/7526
-#EXTINF:-1,Gloob HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11037
-#EXTINF:-1,GLOOB HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20749
-#EXTINF:-1,GLOOB SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4369
-#EXTINF:-1,Gloob SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11232
-#EXTINF:-1,GLOOB SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20750
-#EXTINF:-1,GLOOBINHO SD
-http://painel.ebanonet.com.br:25461/Renato/123456/10270
-#EXTINF:-1,GLOOBINHO SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20701
-#EXTINF:-1,GNT FHD
-http://painel.ebanonet.com.br:25461/Renato/123456/31123
-#EXTINF:-1,GNT HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6956
-#EXTINF:-1,GNT HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20752
-#EXTINF:-1,GNT SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4368
-#EXTINF:-1,GNT SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20751
-#EXTINF:-1,HBO 2 HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6110
-#EXTINF:-1,HBO 2 HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11035
-#EXTINF:-1,HBO 2 HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20690
-#EXTINF:-1,HBO 2 SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4365
-#EXTINF:-1,HBO 2 SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11229
-#EXTINF:-1,HBO 2 SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20692
-#EXTINF:-1,HBO FAMILY FHD (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/Renato/123456/11568
-#EXTINF:-1,HBO FAMILY HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6109
-#EXTINF:-1,HBO Family HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11034
-#EXTINF:-1,HBO FAMILY HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20687
-#EXTINF:-1,HBO FAMILY SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4364
-#EXTINF:-1,HBO Family SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11228
-#EXTINF:-1,HBO FAMILY SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20688
-#EXTINF:-1,HBO HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6108
-#EXTINF:-1,HBO HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11033
-#EXTINF:-1,HBO HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20694
-#EXTINF:-1,HBO PLUS HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6106
-#EXTINF:-1,HBO Plus HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11032
-#EXTINF:-1,HBO PLUS HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20920
-#EXTINF:-1,HBO PLUS SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4363
-#EXTINF:-1,HBO Plus SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11227
-#EXTINF:-1,HBO PLUS SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20684
-#EXTINF:-1,HBO SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4366
-#EXTINF:-1,HBO SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11230
-#EXTINF:-1,HBO SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20696
-#EXTINF:-1,HBO SIGNATURE HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6105
-#EXTINF:-1,HBO SIGNATURE HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20678
-#EXTINF:-1,HBO SIGNATURE SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4361
-#EXTINF:-1,HBO Signature SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11226
-#EXTINF:-1,HBO SIGNATURE SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20679
-#EXTINF:-1,Hércules 24hs
-http://painel.ebanonet.com.br:25461/Renato/123456/33733
-#EXTINF:-1,Historias Disney 24hs
-http://painel.ebanonet.com.br:25461/Renato/123456/33734
-#EXTINF:-1,HISTORY CHANNEL HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6104
-#EXTINF:-1,History Channel HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11030
-#EXTINF:-1,HISTORY CHANNEL HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20468
-#EXTINF:-1,HISTORY CHANNEL SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4314
-#EXTINF:-1,History Channel SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11225
-#EXTINF:-1,HISTORY CHANNEL SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20469
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6869
-#EXTINF:-1,ID - Investigacao Discovery HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11029
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20672
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4360
-#EXTINF:-1,ID - Investigacao Discovery SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11224
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20673
-#EXTINF:-1,IDEAL SD
-http://painel.ebanonet.com.br:25461/Renato/123456/11179
-#EXTINF:-1,IDEAL TV SD
-http://painel.ebanonet.com.br:25461/Renato/123456/20674
-#EXTINF:-1,IMPD TV SD
-http://painel.ebanonet.com.br:25461/Renato/123456/25915
-#EXTINF:-1,LIFETIME HD
-http://painel.ebanonet.com.br:25461/Renato/123456/7525
-#EXTINF:-1,LIFETIME HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20668
-#EXTINF:-1,LIFETIME SD
-http://painel.ebanonet.com.br:25461/Renato/123456/7876
-#EXTINF:-1,LIFETIME SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20670
-#EXTINF:-1,LULUZINHA
-http://painel.ebanonet.com.br:25461/Renato/123456/33697
-#EXTINF:-1,MAIS GLOBOSAT HD
-http://painel.ebanonet.com.br:25461/Renato/123456/9262
-#EXTINF:-1,Mais Globosat HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11038
-#EXTINF:-1,MAIS GLOBOSAT HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20665
-#EXTINF:-1,MAIS GLOBOSAT SD
-http://painel.ebanonet.com.br:25461/Renato/123456/6953
-#EXTINF:-1,Mais Globosat SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11233
-#EXTINF:-1,MAIS GLOBOSAT SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20666
-#EXTINF:-1,MAX FHD (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/Renato/123456/13189
-#EXTINF:-1,MAX HD
-http://painel.ebanonet.com.br:25461/Renato/123456/10266
-#EXTINF:-1,MAX HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11028
-#EXTINF:-1,MAX HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20662
-#EXTINF:-1,MAX PRIME HD
-http://painel.ebanonet.com.br:25461/Renato/123456/7850
-#EXTINF:-1,MAX Prime HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11027
-#EXTINF:-1,MAX PRIME HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20657
-#EXTINF:-1,MAX PRIME SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4357
-#EXTINF:-1,MAX Prime SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11222
-#EXTINF:-1,MAX PRIME SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20658
-#EXTINF:-1,MAX SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4358
-#EXTINF:-1,MAX SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11223
-#EXTINF:-1,MAX SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20664
-#EXTINF:-1,MAX UP FHD (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/Renato/123456/25015
-#EXTINF:-1,MAX UP HD
-http://painel.ebanonet.com.br:25461/Renato/123456/10265
-#EXTINF:-1,MAX UP HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11026
-#EXTINF:-1,MAX UP HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20659
-#EXTINF:-1,MAX UP SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4355
-#EXTINF:-1,MAX UP SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11220
-#EXTINF:-1,MAX UP SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20660
-EXTINF:-1,MEGAPIX HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6101
-#EXTINF:-1,Megapix HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11025
-#EXTINF:-1,MEGAPIX HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20653
-#EXTINF:-1,MEGAPIX SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4354
-#EXTINF:-1,Megapix SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11219
-#EXTINF:-1,MEGAPIX SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20654
-#EXTINF:-1,MULTISHOW HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20648
-#EXTINF:-1,MULTISHOW SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4352
-#EXTINF:-1,Multishow SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11217
-#EXTINF:-1,MULTISHOW SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20650
-#EXTINF:-1,MUSIC BOX BRASIL SD
-http://painel.ebanonet.com.br:25461/Renato/123456/7848
-#EXTINF:-1,MUSIC BOX BRASIL SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20655
-#EXTINF:-1,NARUTO 24HS
-http://painel.ebanonet.com.br:25461/Renato/123456/30038
-#EXTINF:-1,Naruto Shippuden DUB 24HS
-http://painel.ebanonet.com.br:25461/Renato/123456/33740
-#EXTINF:-1,NATGEO KIDS FHD (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/Renato/123456/13198
-#EXTINF:-1,NATGEO KIDS HD
-http://painel.ebanonet.com.br:25461/Renato/123456/10261
-#EXTINF:-1,NatGeo Kids HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11023
-#EXTINF:-1,NATGEO KIDS HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20632
-#EXTINF:-1,NATGEO KIDS SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4350
-#EXTINF:-1,NatGeo Kids SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11215
-#EXTINF:-1,NATGEO KIDS SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20642
-#EXTINF:-1,NATGEO WILD FHD (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/Renato/123456/11528
-#EXTINF:-1,NATGEO WILD HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6099
-#EXTINF:-1,NatGeo Wild HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11022
-#EXTINF:-1,NATGEO WILD HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20640
-#EXTINF:-1,NATGEO WILD SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4349
-#EXTINF:-1,NatGeo Wild SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11214
-#EXTINF:-1,NATGEO WILD SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20641
-#EXTINF:-1,National Geography  SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11213
-#EXTINF:-1,NATIONAL GEOGRAPHY 4K 
-http://painel.ebanonet.com.br:25461/Renato/123456/33764
-#EXTINF:-1,NATIONAL GEOGRAPHY FHD (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/Renato/123456/13188
-#EXTINF:-1,NATIONAL GEOGRAPHY HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6098
-#EXTINF:-1,National Geography HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11021
-#EXTINF:-1,NATIONAL GEOGRAPHY HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20629
-#EXTINF:-1,NATIONAL GEOGRAPHY SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4348
-#EXTINF:-1,NATIONAL GEOGRAPHY SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20630
-#EXTINF:-1,NBR SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20625
-#EXTINF:-1,NHK HD
-http://painel.ebanonet.com.br:25461/Renato/123456/4347
-#EXTINF:-1,NHK SD
-http://painel.ebanonet.com.br:25461/Renato/123456/6949
-#EXTINF:-1,NICK JR HD
-http://painel.ebanonet.com.br:25461/Renato/123456/10260
-#EXTINF:-1,Nick Jr HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11020
-#EXTINF:-1,NICK JR HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20631
-#EXTINF:-1,NICK JR SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4346
-#EXTINF:-1,Nick Jr SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11212
-#EXTINF:-1,NICK JR SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20637
-#EXTINF:-1,Nickeloden HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11019
-#EXTINF:-1,NICKELODEON HD
-http://painel.ebanonet.com.br:25461/Renato/123456/7537
-#EXTINF:-1,NICKELODEON HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20635
-#EXTINF:-1,NICKELODEON SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4345
-#EXTINF:-1,Nickelodeon SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11211
-#EXTINF:-1,OFF HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6947
-#EXTINF:-1,OFF HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11210
-#EXTINF:-1,OFF HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20622
-#EXTINF:-1,OFF SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4344
-#EXTINF:-1,PARAMOUNT HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6945
-#EXTINF:-1,Paramount HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11018
-#EXTINF:-1,PARAMOUNT HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20619
-#EXTINF:-1,PARAMOUNT SD
-http://painel.ebanonet.com.br:25461/Renato/123456/6946
-#EXTINF:-1,Paramount SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11208
-#EXTINF:-1,PARAMOUNT SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20621
-#EXTINF:-1,PPV 1
-http://painel.ebanonet.com.br:25461/Renato/123456/20586
-#EXTINF:-1,PPV 2
-http://painel.ebanonet.com.br:25461/Renato/123456/20585
-#EXTINF:-1,PPV 3
-http://painel.ebanonet.com.br:25461/Renato/123456/20584
-#EXTINF:-1,PPV 4
-http://painel.ebanonet.com.br:25461/Renato/123456/20583
-#EXTINF:-1,PPV 5
-http://painel.ebanonet.com.br:25461/Renato/123456/20582
-#EXTINF:-1,PREMIERE CLUBES HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6089
-#EXTINF:-1,PREMIERE CLUBES HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20599
-#EXTINF:-1,PREMIERE CLUBES SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4333
-#EXTINF:-1,Premiere Clubes SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11206
-#EXTINF:-1,PREMIERE CLUBES SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20596
-#EXTINF:-1,PREMIERE CLUBES FHD  (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/Renato/123456/9144
-#EXTINF:-1,Premiere Clubes HD [ ALTERNATIVO ]
-http://painel.ebanonet.com.br:25461/Renato/123456/8191
-#EXTINF:-1,PREMIERE 2 FHD (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/Renato/123456/8149
-#EXTINF:-1,PREMIERE 2 HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6093
-#EXTINF:-1,Premiere 2 HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11016
-#EXTINF:-1,PREMIERE 2 HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20615
-#EXTINF:-1,PREMIERE 2 SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4341
-#EXTINF:-1,PREMIERE 3 FHD (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/Renato/123456/9230
-#EXTINF:-1,PREMIERE 3 HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6092
-#EXTINF:-1,Premiere 3 HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11015
-#EXTINF:-1,PREMIERE 3 HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20612
-#EXTINF:-1,PREMIERE 3 SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4340
-#EXTINF:-1,PREMIERE 4 FHD (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/Renato/123456/11552
-#EXTINF:-1,PREMIERE 4 HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6091
-#EXTINF:-1,Premiere 4 HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11014
-#EXTINF:-1,PREMIERE 4 HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20609
-#EXTINF:-1,PREMIERE 4 SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4339
-#EXTINF:-1,Premiere 4 SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11203
-#EXTINF:-1,PREMIERE 4 SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20593
-#EXTINF:-1,PREMIERE 5 FHD (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/Renato/123456/9231
-#EXTINF:-1,PREMIERE 5 HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6090
-#EXTINF:-1,Premiere 5 HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11013
-#EXTINF:-1,PREMIERE 5 HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20606
-#EXTINF:-1,PREMIERE 5 SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4338
-#EXTINF:-1,PREMIERE 6 FHD (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/Renato/123456/11550
-#EXTINF:-1,PREMIERE 6 HD
-http://painel.ebanonet.com.br:25461/Renato/123456/10259
-#EXTINF:-1,PREMIERE 6 HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20603
-#EXTINF:-1,PREMIERE 6 SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4337
-#EXTINF:-1,PREMIERE 7 FHD (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/Renato/123456/11549
-#EXTINF:-1,PREMIERE 7 HD
-http://painel.ebanonet.com.br:25461/Renato/123456/10258
-#EXTINF:-1,Premiere 7 HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11012
-#EXTINF:-1,PREMIERE 7 HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20601
-#EXTINF:-1,PREMIERE 7 SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4336
-#EXTINF:-1,Premiere 7 SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11200
-#EXTINF:-1,PREMIERE 7 SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20590
-#EXTINF:-1,PREMIERE 8 SD
-http://painel.ebanonet.com.br:25461/Renato/123456/20589
-#EXTINF:-1,PREMIERE 9 SD
-http://painel.ebanonet.com.br:25461/Renato/123456/20588
-http://painel.ebanonet.com.br:25461/Renato/123456/13197
-#EXTINF:-1,SPACE HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6085
-#EXTINF:-1,Space HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11009
-#EXTINF:-1,SPACE HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20532
-#EXTINF:-1,SPACE SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4328
-#EXTINF:-1,Space SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11191
-#EXTINF:-1,SPORT TV
-http://painel.ebanonet.com.br:25461/Renato/123456/30734
-#EXTINF:-1,SPORT TV  HD
-http://painel.ebanonet.com.br:25461/Renato/123456/30733
-#EXTINF:-1,SPORT TV 1
-http://painel.ebanonet.com.br:25461/Renato/123456/30750
-#EXTINF:-1,SPORT TV 1 HD
-http://painel.ebanonet.com.br:25461/Renato/123456/30749
-#EXTINF:-1,SPORT TV 2
-http://painel.ebanonet.com.br:25461/Renato/123456/30747
-#EXTINF:-1,SPORT TV 2 HD
-http://painel.ebanonet.com.br:25461/Renato/123456/30746
-#EXTINF:-1,SPORT TV 3
-http://painel.ebanonet.com.br:25461/Renato/123456/30744
-#EXTINF:-1,SPORT TV 3 HD
-http://painel.ebanonet.com.br:25461/Renato/123456/30743
-#EXTINF:-1,SPORT TV 4
-http://painel.ebanonet.com.br:25461/Renato/123456/30741
-#EXTINF:-1,SPORT TV 4 HD
-http://painel.ebanonet.com.br:25461/Renato/123456/30740
-#EXTINF:-1,SPORT TV 5
-http://painel.ebanonet.com.br:25461/Renato/123456/30738
-#EXTINF:-1,SPORT TV 5 HD
-http://painel.ebanonet.com.br:25461/Renato/123456/30737
-#EXTINF:-1,SPORT TV NBA FHD
-http://painel.ebanonet.com.br:25461/Renato/123456/30735
-#EXTINF:-1,SPORT X ATLETICO/MG BR S17
-http://painel.ebanonet.com.br:25461/Renato/123456/30242
-#EXTINF:-1,SporTV  HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11006
-#EXTINF:-1,SPORTV 1 FULL  HD
-http://painel.ebanonet.com.br:25461/Renato/123456/30748
-#EXTINF:-1,SPORTV 2 FHD (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/Renato/123456/11539
-#EXTINF:-1,SPORTV 2 FULL HD
-http://painel.ebanonet.com.br:25461/Renato/123456/30745
-#EXTINF:-1,SPORTV 2 HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6084
-#EXTINF:-1,SporTV 2 HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11008
-#EXTINF:-1,SPORTV 2 HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20540
-#EXTINF:-1,SPORTV 2 SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4326
-#EXTINF:-1,Sportv 2 SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11189
-#EXTINF:-1,SPORTV 2 SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20541
-#EXTINF:-1,SPORTV 3 FHD (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/Renato/123456/11538
-#EXTINF:-1,SPORTV 3 FULL HD
-http://painel.ebanonet.com.br:25461/Renato/123456/30742
-#EXTINF:-1,SPORTV 3 HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6083
-#EXTINF:-1,SporTV 3 HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11007
-#EXTINF:-1,SPORTV 3 HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20536
-#EXTINF:-1,SPORTV 3 SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4325
-#EXTINF:-1,Sportv 3 SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11188
-#EXTINF:-1,SPORTV 3 SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20537
-#EXTINF:-1,SPORTV 4 FULL  HD
-http://painel.ebanonet.com.br:25461/Renato/123456/30739
-#EXTINF:-1,SPORTV 4K
-http://painel.ebanonet.com.br:25461/Renato/123456/33759
-#EXTINF:-1,SPORTV 5 FULL HD
-http://painel.ebanonet.com.br:25461/Renato/123456/30736
-#EXTINF:-1,SPORTV HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6082
-#EXTINF:-1,SPORTV HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20544
-#EXTINF:-1,SPORTV SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4327
-#EXTINF:-1,Sportv SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11190
-#EXTINF:-1,SPORTV SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20545
-#EXTINF:-1,Steve Universe 24Hrs
-http://painel.ebanonet.com.br:25461/Renato/123456/24934
-#EXTINF:-1,STUDIO UNIVERSAL HD
-http://painel.ebanonet.com.br:25461/Renato/123456/7874
-#EXTINF:-1,Studio Universal HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11005
-#EXTINF:-1,STUDIO UNIVERSAL HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20546
-#EXTINF:-1,STUDIO UNIVERSAL SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4324
-#EXTINF:-1,Studio Universal SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11187
-#EXTINF:-1,TELECINE ACTION HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6080
-#EXTINF:-1,Telecine Action HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11002
-#EXTINF:-1,TELECINE ACTION HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20517
-#EXTINF:-1,TELECINE ACTION SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4320
-#EXTINF:-1,Telecine Action SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11183
-#EXTINF:-1,TELECINE ACTION SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20518
-#EXTINF:-1,TELECINE CULT FHD (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/Renato/123456/8143
-#EXTINF:-1,TELECINE CULT HD
-http://painel.ebanonet.com.br:25461/Renato/123456/10247
-#EXTINF:-1,Telecine Cult HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11001
-#EXTINF:-1,TELECINE CULT HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20513
-#EXTINF:-1,TELECINE CULT SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4319
-#EXTINF:-1,Telecine Cult SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11182
-#EXTINF:-1,TELECINE CULT SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20514
-#EXTINF:-1,TELECINE FUN FHD (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/Renato/123456/11561
-#EXTINF:-1,TELECINE FUN HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6079
-#EXTINF:-1,TELECINE FUN HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20509
-#EXTINF:-1,TELECINE FUN SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4318
-#EXTINF:-1,Telecine Fun SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11181
-#EXTINF:-1,TELECINE FUN SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20510
-#EXTINF:-1,TELECINE PIPOCA FHD (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/Renato/123456/8144
-#EXTINF:-1,TELECINE PIPOCA HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6078
-#EXTINF:-1,Telecine Pipoca HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/10999
-#EXTINF:-1,TELECINE PIPOCA HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20505
-#EXTINF:-1,TELECINE PIPOCA SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4317
-#EXTINF:-1,TELECINE PREMIUM FHD (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/Renato/123456/8140
-#EXTINF:-1,TELECINE PREMIUM HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6077
-#EXTINF:-1,Telecine Premium HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/10998
-#EXTINF:-1,TELECINE PREMIUM HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20501
-#EXTINF:-1,TELECINE PREMIUM SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4316
-#EXTINF:-1,TELECINE TOUCH FHD (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/Renato/123456/25016
-#EXTINF:-1,TELECINE TOUCH HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6076
-#EXTINF:-1,Telecine Touch HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/10997
-#EXTINF:-1,TELECINE TOUCH HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20497
-#EXTINF:-1,TELECINE TOUCH SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4315
-#EXTINF:-1,TNT HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6074
-#EXTINF:-1,TNT HD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/10995
-#EXTINF:-1,TNT HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20493
-#EXTINF:-1,TNT SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4312
-#EXTINF:-1,TNT Series [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/10994
-#EXTINF:-1,TNT SERIES 4K
-http://painel.ebanonet.com.br:25461/Renato/123456/33765
-#EXTINF:-1,TNT SERIES FHD (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/Renato/123456/13186
-#EXTINF:-1,TNT SERIES HD
-http://painel.ebanonet.com.br:25461/Renato/123456/6073
-#EXTINF:-1,TNT SERIES HD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20489
-#EXTINF:-1,TNT SERIES SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4311
-#EXTINF:-1,TOONCAST HD
-http://painel.ebanonet.com.br:25461/Renato/123456/20485
-#EXTINF:-1,TOONCAST SD
-http://painel.ebanonet.com.br:25461/Renato/123456/4310
-#EXTINF:-1,Tooncast SD [Alternativo]
-http://painel.ebanonet.com.br:25461/Renato/123456/11174
-#EXTINF:-1,TOONCAST SD*
-http://painel.ebanonet.com.br:25461/Renato/123456/20486
+#EXTINF:-1 ,SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 ,SBT PI HD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1 ,SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
+#EXTINF:-1 ,SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+#EXTINF:-1 ,SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
+#EXTINF:-1 ,REDE TV SP
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
+#EXTINF:-1 ,REDE TV SD
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
+#EXTINF:-1 ,REDE TV HD
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1 ,REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
+#EXTINF:-1 ,TV VITORIA - RECORD
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_3_original.m3u8
+#EXTINF:-1 ,TVE BRASIL
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:-1 ,TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 ,TVE BA HD
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?JOSE-LISTA
+#EXTINF:-1 ,TVE BA HD
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:-1 ,TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+#EXTINF:-1 ,TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
+#EXTINF:-1 ,TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/rbc_720p/playlist.m3u8?CANAISGLAU
+#EXTINF:-1 ,TV UP HD
+http://caikron.com.br:1935/unipar/tvup/chunklist_w737489399.m3u8
+#EXTINF:-1 ,TV UP HD
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 ,NBR
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 ,AGRO BRASIL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 ,REAL MADRID TV (ON)
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1 ,ABU DABI SPORT 2 HD (ON)
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
+#EXTINF:-1 ,CAT TVE
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
+#EXTINF:-1 ,MTV BRASIL
+http://178.132.4.88:25461/live/wallace/1234/128.m3u8?token=TxAMVEBeQwMQBABeWwlSUFdXBgBWWFYAUlAGVgRWA1IAClYAVlNQWAYUGxoRRRBRV1hpXFYbDwIDWh5ARBcHEGtbABcJFFAJAQYDCkAdQEBfWFMXCAkZEUELVkALRlBQAgNWFx8UBEFGU0VWA109UFNDX1ZXGw9dRA5eThMLDD1QVwlUXVJDAxAHFRRAWBFEFA8Ud0BYRlpdQmYHXQEBDVkSNxtyGEMVEFReTBBQFlEUDxQEAwgGER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QVAZGCUAeQFgXPRBRQRBHVlcMXEAUDRpSE04WW1ROalFWW11UAUYLXgoRQA4QVRcfFAxWXF9DVxBuEl1SFwwXAAsCBQBATw==
+#EXTINF:-1 ,MTV CLIPES 1
+http://rtmp.one.by:1200
+#EXTINF:-1 ,REDE RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+#EXTINF:-1 ,FOX HITS
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1 ,MASTER TV
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+#EXTINF:-1 ,TOP TV
+http://173.236.10.10:1935/toptv/toptv/chunklist_w233160029.m3u8
+#EXTINF:-1 ,TV CLIMA
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 ,TV DIÁRIO DO SERTÃO - PARAÍBA
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w980633800.m3u8
+#EXTINF:-1 ,TV DIÁRIO DO SERTÃO - PB
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+#EXTINF:-1 ,TV CARUARU
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 ,TV MACEIÓ
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 ,ALPHA CHANNEL
+http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8
+#EXTINF:-1 ,RETRO MUSIC HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 ,REDE SÉCULO 21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 ,TV APARECIDA
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?
+#EXTINF:-1 ,TV NOVO TEMPO
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w86202803_b2128000_slpor.m3u8
+#EXTINF:-1 ,TV MISSÃO
+http://wse7.player.tv.br:1935/tvmissao/mp4:tvmissao/chunklist_w2064616456.m3u8
+#EXTINF:-1 ,WEB TV LEÃO DE JUDÁ
+http://streaming63.sitehosting.com.br:1935/juda/juda/live.m3u8
+#EXTINF:-1 ,TV GIDEÕES HD
+http://streaming02.zas.media:1935/gideoes/programacao/live.m3u8
+#EXTINF:-1 ,Stephen Hawking e as Células-Tronco
+http://archive.org/download/Stephen.Hawking.e.as.Celulas-Tronco/C%c3%a9lulas-tronco%20com%20Stephen%20Hawking-PSG.mp4.mp4
+#EXTINF:-1 ,O Sentido Da Vida Stephen Hawking
+http://archive.org/download/OSentidoDaVidaPorStephenHawking/O%20Sentido%20da%20Vida%20por%20Stephen%20Hawking.mp4
+#EXTINF:-1 ,alem dos limites humanos - hipoxia
+http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/02%20-%20Frio%5bmvm%5d.mp4
+#EXTINF:-1 ,alem dos limites humanos -frio
+http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/01%20-%20Hipoxia%5bmvm%5d.mp4
+#EXTINF:-1 ,alem dos limites humanos -tempo
+http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/03%20-%20Tempo%5bmvm%5d.mp4
+#EXTINF:-1 ,Telescópio O universo revelado
+http://archive.org/download/Telescopio-2016/TELESC%c3%93PIO%20-%20O%20UNIVERSO%20REVELADO%20480p%20HDTV-Master.mp4
+#EXTINF:-1 ,Terceiro Reich: Ascensão
+http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-%20A%20Ascens%c3%a3o.mp4
+#EXTINF:-1 ,Terceiro Reich: Queda
+http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-%20A%20Queda.mp4
+#EXTINF:-1 ,Canal 26 | HD
+http://200.115.193.177/live/26hd-720/.m3u8?CompartilhandoIPTV
+#EXTINF:-1 ,Canal 26 | HD
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+#EXTINF:-1 ,Canal 26 | HD
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:-1 ,Telemax | HD
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 ,Music Top | HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 ,Canal Provincial | SD
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 ,Litus | HD
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1 ,Tele Islas | SD
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+#EXTINF:-1 ,CDO | SD
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1 ,TV Senado | HD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+#EXTINF:-1 ,Canal 10 MEXICO
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 ,RTQ MEXICO
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 ,RCG 2 TV MEXICO
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1 ,RCG 1 TV MEXICO
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:-1 ,Telemar MEXICO
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:-1 ,Once TV MEXICO
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1 ,MULTIMEDIOS MONTERREY 1 - MÉXICO
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 ,MULTIMEDIOS MONTERREY 2 - MÉXICO
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 ,Antares TV | SD
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 ,Top Latino | SD
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/master.m3u8
+#EXTINF:-1 ,TV Peru (Alt) | SD
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 ,Ovacion | SD
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 ,Telered | SD
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+#EXTINF:-1 ,Ticavision | SD
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 ,Nex TV | SD
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1 ,TLX HD
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w950122583_b1828000_sleng.m3u8
+#EXTINF:-1 ,TSN
+http://wms.shared.streamshow.it/tsn/tsn/chunklist.m3u8
+#EXTINF:-1 ,Music Choice | HD
+http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 ,Radio 105 Network | HD
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+#EXTINF:-1 ,M2O TV | SD
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,Retro TV | SD
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 ,DJIng Ibiza | HD
+http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:-1 ,Capital TV | SD
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1 ,Radio Montecarlo TV | SD
+http://fms.105.net:1935/live/rmc1/.m3u8
+#EXTINF:-1 ,Radio Contact Feel Good | HD
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1 ,Portal FoxMix | HD
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:-1 ,CBTV INTERNACIONAL BR
+http://sa-all22.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1352920024.m3u8
+#EXTINF:-1 ,TV 538.
+http://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q1.m3u8
+#EXTINF:-1 ,SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 ,SKY LIFE TG24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 ,FRANCE 24 HD - FRA
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+#EXTINF:-1 ,BLOOMBERG TV
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8
+#EXTINF:-1 ,BLOOMBERG TV
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 ,REDBULL TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master_3360.m3u8
+#EXTINF:-1 ,WGN NEWS CHICAGO (US)
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1 ,EXTREMADURA ESPANHA
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b664000_DVR.m3u8
+#EXTINF:-1 ,REDE MINAS
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+#EXTINF:-1 ,COMBATE HD
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/1601.ts?token=TxAMVEBeQwMQBQ8PUAADVgAFBVEEWAEHV1oKUwNUBAANBlNUCg9UAFcUGxoRRRBRV1hpXFYbDwIHUgNOExERB0ZtDVERDEMKAgQOD1ETThZCXFtQEAMEBgNRB1QJVVtTGBAUXFcUWxsAAwMKVRNOFlNNQlBAV1RfbgZXFFgHB0AOXBFZXxpDVlxpU10PUAxQFA8UBBAVF1pCEhBYEzILFFsSNxtyGEMVEFReTBBQFlEUDxQHBg4BER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QTUYRHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwMHAQwXTg==
+#EXTINF:-1 ,ESPN HD
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/232.ts?token=TxAMVEBeQwMQUw5cAFJSAwcCV1NTDgIGCQAKAwUHU1MHBVAABA9QAAYUGxoRRRBRV1hpXFYbDwECUB5ARBcHEGtbABcJFFIJAA8AC0AdQEBfWFMXCAgAAQJXBFUHU1ZOFkINUREMQw0EBhUUQFQaQFNHWFReZlFWRwtRBxNeDBdYXkgXXFg+XVdbVlYGE1gWBxcaF1tKRRELQGQLRwtCMRpzShcfFANQRkRWTAcTWBYDDQ4XHhtWXEQMRhBIRlhAdmBGGRFTGU1XWERRDV9ADhRBRRceG1xAbhBXEUUWBwNZVxYXCRRRGx4UWlkabgFbWFtTVkZQWl1CQAhAAEZOQFldClxHWRNmQl9TGlgTUQ0EF0s=
+#EXTINF:-1 ,FOX SPORTS 2 SD
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/367.ts?token=TxAMVEBeQwMQBwMPBAdbUQYEA1FXWAAHAFVTB1UHVFVRB1MCVgMACQMUGxoRRRBRV1hpXFYbDwAHVR5ARBcHEGtbABcJFFIJAA8AC0AdQEBfWFMXCAgAAQJXBFUEV1JOFkINUREMQwoCAQYOQB1AUU5BU0dcWFlsVQdEC1IBQFhaRwhZHxQOV21SUlUDXwYWDBcHFx4bXEBBQAhAZw0UDRRhSnQdFE0bUF9DSgNFBxYMFw4HBRsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFEFBGxkRWBFtEFQXFhBRUwlQQRRbGwIUGxoPUBprVVpYW1daQVpeDEFAC0ZTQBgQCVpdXxVWQGlHUQYTWBYEDQMBBxtI
+#EXTINF:-1 ,FOX SPORTS 2 HD
+http://178.132.4.88:25461/live/cliente1/zgoJ4CjWeV/1499.ts?token=TxAMVEBeQwMQAQJdVlBQUlICBlcGCVcCAloGBlVTUAAHU1ZWBA4CAVEUGxoRRRBRV1hpXFYbDwIFWwtOExERB0ZtDVERDEMLBAQDCVITThZCXFtQEAMEBgNRAVQFUFRXGBAUXFcUWxsADg8MVxNOFlNNQlBAV1RfbgZXFFgHB0AOXBFZXxpDVlxpU10PUAxQFA8UBBAVF1pCEhBYEzILFFsSNxtyGEMVEFReTBBQFlEUDxQHBwkEER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QTUYRHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwQNCggMEUw=
+#EXTINF:-1 ,FOX SPORTS 2 HD
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/1499.ts?token=TxAMVEBeQwMQA1JaUwhXAlMFAwEAD1YGVQADVglXBABWBAcCCgBWD1cUGxoRRRBRV1hpXFYbDwIFWwtOExERB0ZtDVERDEMKAgQOD1ETThZCXFtQEAMEBgNRB1QGUVNXGBAUXFcUWxsAAQUNURNOFlNNQlBAV1RfbgZXFFgHB0AOXBFZXxpDVlxpU10PUAxQFA8UBBAVF1pCEhBYEzILFFsSNxtyGEMVEFReTBBQFlEUDxQHBg8HER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QTUYRHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwQBBwwBEUw=
+#EXTINF:-1 ,SPORTV 2 HD
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/1619.ts?token=TxAMVEBeQwMQAgVdB1QGAFUBBgEHDVZXVwEFU1IFB1cHBQYECwFZC1YUGxoRRRBRV1hpXFYbDwIHUwtOExERB0ZtDVERDEMKAgQOD1ETThZCXFtQEAMEBgNRB1QGV1ZTGBAUXFcUWxsDDgUOWxNOFlNNQlBAV1RfbgZXFFgHB0AOXBFZXxpDVlxpU10PUAxQFA8UBBAVF1pCEhBYEzILFFsSNxtyGEMVEFReTBBQFlEUDxQHBwkBER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QTUYRHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwQEBA8DEUw=
+#EXTINF:-1 ,SPORTV 3 HD
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/1620.ts?token=TxAMVEBeQwMQB1ENWgkHAQEHAgFUDVYEVFEBVFcGVAAMAldRAwRVDAUUGxoRRRBRV1hpXFYbDwIHUAJOExERB0ZtDVERDEMKAgQOD1ETThZCXFtQEAMEBgNRB1QGV1VUGBAUXFcUWxsABAMBVBNOFlNNQlBAV1RfbgZXFFgHB0AOXBFZXxpDVlxpU10PUAxQFA8UBBAVF1pCEhBYEzILFFsSNxtyGEMVEFReTBBQFlEUDxQHBwkMER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QTUYRHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwcFAgAGEUw=
+#EXTINF:-1 ,PREMIERE 2
+http://178.132.4.88:25461/live/Ko6IVXEmDL/vzwSEtJXxe/1717.ts?token=TxAMVEBeQwMQAgAIUwZUBQ8EAgYGWgMBBVoCAQRWUAFVVlUCV1VYXQQUGxoRRRBRV1hpXFYbDwIGUwVOExERB0ZtDVERDEMKAgUGDFoTThZCXFtQEAMEBgNRB1UBUVRRGBAUXFcUWxsGBwAAQB1AUU5BU0dcWFlsVQdEC1IBQFhaRwhZHxQOV21SUlUDXwYWDBcHFx4bXEBBQAhAZw0UDRRhSnQdFE0bUF9DSgNFBxYMFwEFChsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFEFBGxkRWBFtEFQXFhBRUwlQQRRbGwIUGxoPUBprVVpYW1daQVpeDEFAC0ZTQBgQCVpdXxVWQGlHUQYTWBYCBAADEEQ=
+#EXTINF:-1 ,TV ESCOLA
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
+#EXTINF:-1 ,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 ,AUTOMOTO
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 ,Olympic Channel | FHD
+http://live.olympicchannel.com/ocs/channel01b/master.m3u8
+#EXTINF:-1 ,Viasat Sport | SD
+http://persik.by/stream/2944/263250/10249.m3u8
+#EXTINF:-1 ,MLB | HD
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 ,ABU DABI SPORT 1
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+#EXTINF:-1 ,ABU DABI SPORT HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?
+#EXTINF:-1 ,ABU DABI SPORT 2
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:-1 ,ABU DABI SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
+#EXTINF:-1 ,CANÇÃO NOVA HD
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-b.m3u8?iptv2018?sd=10&rebase=on
+#EXTINF:-1 ,TV DIGITAL BIRIGUI
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:-1 ,CINE SKY
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 ,CINE FILMES 2
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
+#EXTINF:-1 ,CLASSIQUE TV
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+#EXTINF:-1 ,GOSPEL TV - FILMES
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 ,CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 ,CINE + 2
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 ,SÓ FILMES
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?DantasIPTV
+#EXTINF:-1 ,CAPITAL777
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
+#EXTINF:-1 ,CBN - CAMPINA GRANDE
+http://audio.cabobranco.tv.br:8000/cbncg
+#EXTINF:-1 ,CORREIO 98 FM - CAMPINA GRANDE
+http://ice11.crossradio.com.br:8026/;*.mp3
+#EXTINF:-1 ,ARAPUAN - JOÂO PESSOA
+http://centova6.ciclanohost.com.br:9104/;stream.nsv
+#EXTINF:-1 ,CORREIO - JOÃO PESSOA
+http://ice11.crossradio.com.br:8022/;*.mp3
+#EXTINF:-1 ,CORREIO 98 FM - JOÃO PESSOA
+http://ice11.crossradio.com.br:8014/;*.mp3
+#EXTINF:-1 ,MIX FM - JOÃO PESSOA
+http://158.69.117.161:8016/live
+#EXTINF:-1 ,CABO BRANCO FM - JOÃO PESSOA
+http://audio.cabobranco.tv.br:8000/cbfm
+#EXTINF:-1 ,CPAD - JOÃO PESSOA
+http://server3.webradios.com.br:9404/;
+#EXTINF:-1 ,104 FM SOUSA
+http://stream.7br.com.br:10018/;
+#EXTINF:-1 ,LIDER 97 FM - SOUSA
+http://wz3.dnip.com.br/lider97/lider97.stream/playlist.m3u8
+#EXTINF:-1 ,LIBERDADE FM - POMBAL
+http://centova14.ciclanohost.com.br:8180/;
+#EXTINF:-1 ,ESTAÇÃO JC - POMBAL
+http://streaming15.hstbr.net:8224/live
+#EXTINF:-1 ,WEB RÁDIO NO TOQUE DA BOLA - POMBAL
+http://server01.ouvir.radio.br:8060/stream
+#EXTINF:-1 ,ARAPUAN - CAJAZEIRAS
+http://centova6.ciclanohost.com.br:9346/stream/1/
+#EXTINF:-1 ,RADIO OESTE AM - CAJAZEIRAS
+http://streaming06.maxcast.com.br:8120/live
+#EXTINF:-1 ,ARAPUAN - CAMPINA GRANDE
+http://centova6.ciclanohost.com.br:9518/;stream.nsv
+#EXTINF:-1 ,ARAPUAN - PATOS
+http://centova6.ciclanohost.com.br:9312/;stream.nsv
+#EXTINF:-1 ,ESPINHARAS AM - PATOS
+http://stm45.srvstm.com:26924/stream/1/
+#EXTINF:-1 ,SERTANEJO RAIZES
+http://192.99.150.31:9155/stream
+#EXTINF:-1 ,BOSSA NOVA
+http://6d9a.webradio.upx.net.br:9974/stream
+#EXTINF:-1 ,RAP NACIONAL
+http://192.99.150.31:8377/stream
+#EXTINF:-1 ,REGGAE
+http://192.99.150.31:8715/stream
+#EXTINF:-1 ,ROBERTO CARLOS
+http://192.99.150.31:9137/stream
+#EXTINF:-1 ,ROCK CLASSICO
+http://192.99.150.31:9125/stream
+#EXTINF:-1 ,RODEIO
+http://192.99.150.31:9473/stream
+#EXTINF:-1 ,SERTANEJA
+http://192.99.150.31:9485/stream
+#EXTINF:-1 ,SMOOTH JAZZ
+http://192.99.150.31:8042/stream
+#EXTINF:-1 ,TECHNO
+http://192.99.150.31:8301/stream
+#EXTINF:-1 ,TECNO BREGA
+http://192.99.150.31:8989/stream
+#EXTINF:-1 ,STUDIO DO AMOR
+http://192.99.150.31:8962/stream
+#EXTINF:-1 ,METROPOLETANA FM AO VIVO
+http://ice.paineldj3.com.br:8006/live
+#EXTINF:-1 ,METROPOLETANA FM - SERTANEJO
+http://m.paineldj6.com.br:8504/stream
+#EXTINF:-1 ,METROPOLETANA FM - POP
+http://paineldj4.com.br:8510/stream
+#EXTINF:-1 ,METROPOLETANA FM - FUNK
+http://paineldj4.com.br:8306/stream
+#EXTINF:-1 ,METROPOLETANA FM - LIGHT
+http://paineldj4.com.br:8594/stream
+#EXTINF:-1 ,RÁDIO ATLÂNTIDA FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:-1 ,RÁDIO ELDORADO FM
+http://noasrv.caster.fm:10136/stream
+#EXTINF:-1 ,RÁDIO FARROUPILHA FM/AM
+http://92747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/far_poa.sdp/playlist.m3u8
+#EXTINF:-1 ,RÁDIO HISTORINHA INFANTIL
+http://192.99.150.31:8371/stream
+#EXTINF:-1 ,RÁDIO ITAPEMA FM
+http://82747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/ita_poa.sdp/playlist.m3u8
+#EXTINF:-1 ,RÁDIO MIX FM
+http://mixaac.crossradio.com.br:1100/live
+#EXTINF:-1 ,RÁDIO PRINCESA FM
+http://noasrv.caster.fm:10124/stream
+#EXTINF:-1 ,RÁDIO ROBERTO CARLOS
+http://192.99.150.31:9137/stream
+#EXTINF:-1 ,RÁDIO STUDIO DO AMOR
+http://192.99.150.31:8962/stream
+#EXTINF:-1 ,RÁDIO TRANSAMERICA FM
+http://transamerica.crossradio.com.br:9114/live.mp3
+#EXTINF:-1 ,BAND NEWS SP*
+http://evpp.mm.uol.com.br/band/bandnewsfm_sp/chunklist_w1768757031.m3u8
+#EXTINF:-1 ,MIX 106.3 SP
+http://mixmp3.crossradio.com.br:1102/live
+#EXTINF:-1 ,GOSPEL FM 89
+http://209.126.127.123:8885/live?1522866827534
+#EXTINF:-1 ,SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 ,ABU DABI SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
+#EXTINF:-1 ,Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+#EXTINF:-1 ,ALL SPORTS TV
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?AndreOid
+#EXTINF:-1 ,CINE SKY 2
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 ,NOVA CINEMA 4
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 ,SPORT 2 HD (ON)
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 ,REAL MADRID TV HD (ON)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 ,Real Madrid TV SD (ON)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+#EXTINF:-1 ,ABU DABI SPORT 1 HD (ON)
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
+#EXTINF:-1 ,SBT PE SD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2020510264_b131000_sleng.m3u8
+#EXTINF:-1 ,REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
+#EXTINF:-1 ,TV APARECIDA
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/chunklist_w1646479017.m3u8
+#EXTINF:-1 ,TV CULTURA
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 ,TV NOVO TEMPO
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
+#EXTINF:-1 ,CINE+
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?
+#EXTINF:-1 ,TV Santa Cecilia (Santos-SP)
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8?LISTASGLAU
+#EXTINF:-1 ,RAI YOYO
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-p.m3u8?LISTASGLAU
+#EXTINF:-1 ,CLASSIQUE TV ALTERNATIVO
+http://stmv2.srvstm.com/classique/classique/playlist.m3u8?CANAISGLAU
+#EXTINF:-1 ,REDE RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8?LISTASGLAU
+#EXTINF:-1 ,TV DESTAK
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8?LISTASGLAU
+#EXTINF:-1 ,TV JORNAL LIMEIRA
+http://flash1.crossdigital.com.br:1935/1998/1998/live.m3u8?LISTASGLAU
+#EXTINF:-1 ,TV J.SID
+http://stmv2.euroti.com.br:1935/tvjsid/tvjsid/live.m3u8?LISTASGLAU
+#EXTINF:-1 ,TV VIANNEY
+http://wse7.player.tv.br:1935/iolandomauriciodasilva800/iolandomauriciodasilva800/live.m3u8?LISTASGLAU
+#EXTINF:-1 ,MULTI RIO
+http://187.111.97.45:1935/webtv/webtv/live.m3u8?LISTASGLAU
+#EXTINF:-1 ,REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 ,Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1 ,ESPORTE INTERATIVO 2
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+#EXTINF:-1 ,NOVA CINEMA 3
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+#EXTINF:-1 ,NOVA CINEMA 5
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 ,REDE TV
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8?LISTASGLAU
+#EXTINF:-1 ,SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 ,All Sports 2
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?Arlen
+#EXTINF:-1 ,CDO Deportes
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8?Arlen
+#EXTINF:-1 ,Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,Viasat Sport
+http://persik.by/stream/2944/263250/10249.m3u8?Arlen
+#EXTINF:-1 ,ABU DABI SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
+#EXTINF:-1 ,SPORT 1 HD (ON)
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 ,TV FUTURA
+http://caikron.com.br:1935/unipar/tvup/chunklist_w1787465552.m3u8?
+#EXTINF:-1 ,CLASSIQUE TV
+http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8?CANAISGLAU
+#EXTINF:-1 ,TV JORNAL RECIFE
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8?LISTASGLAU
+#EXTINF:-1 ,TV LITORAL PANORAMA
+http://streaming03.zas.media:1935/panorama/panorama/live.m3u8?LISTASGLAU
+#EXTINF:-1 ,TV DIGITAL BIRIGUI
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?LISTASGLAU
+#EXTINF:-1 ,APARECIDA
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+#EXTINF:-1 ,AGRO BRASIL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/live.m3u8
+#EXTINF:-1 ,ALL SPORTS
+http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 ,ALPHA CHANNEL
+http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8
+#EXTINF:-1 ,MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 ,RETRO MUSIC HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 ,TV Cultura GO
+http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8?Arlen
+#EXTINF:-1 ,TV Cultura PA 1
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8?Arlen
+#EXTINF:-1 ,TV Cultura PA 2
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8?Arlen
+#EXTINF:-1 ,TV Cultura PR
+http://200.189.113.201/hls/tve.m3u8?Arlen
+#EXTINF:-1 ,SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8?Arlen
+#EXTINF:-1 ,SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?Arlen
+#EXTINF:-1 ,SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+#EXTINF:-1 ,Rede TV RS
+http://wse8.player.tv.br:1935/rafael926/encoder/playlist.m3u8?Arlen
+#EXTINF:-1 ,Classique TV 1
+http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8?Arlen
+#EXTINF:-1 ,Classique TV 2
+http://stmv2.srvstm.com/classique/classique/playlist.m3u8?Arlen
+#EXTINF:-1 ,Cine+ 1
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?Arlen
+#EXTINF:-1 ,Filmes 1
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?Arlen
+#EXTINF:-1 ,Filmes 2
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?Arlen
+#EXTINF:-1 ,Gospel Movie Television
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8?Arlen
+#EXTINF:-1 ,Gospel Cartoon
+http://stmv1.srvstm.com:1935/gospelcartoon/gospelcartoon/playlist.m3u8?Arlen
+#EXTINF:-1 ,Rai Yoyo
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-p.m3u8?Arlen
+#EXTINF:-1 ,Alpha Channel
+http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8?Arlen
+#EXTINF:-1 ,Rede Atividade
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8?Arlen
+#EXTINF:-1 ,TVCADM
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8?Arlen
+#EXTINF:-1 ,Catve HD
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?Arlen
+#EXTINF:-1 ,TV Clima
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8?Arlen
+#EXTINF:-1 ,TV Itapetinga
+http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8?Arlen
+#EXTINF:-1 ,ITU TV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?Arlen
+#EXTINF:-1 ,TV Jornal
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8?Arlen
+#EXTINF:-1 ,MKK Web TV
+http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8?Arlen
+#EXTINF:-1 ,Multi Rio
+http://187.111.97.45:1935/webtv/webtv/live.m3u8?Arlen
+#EXTINF:-1 ,TV Maceió 1
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?Arlen
+#EXTINF:-1 ,TV Mackenzie
+http://ec2-54-157-173-68.compute-1.amazonaws.com:8081/live_tvmackenzie/tvmackenzie/playlist.m3u8?Arlen
+#EXTINF:-1 ,PUC TV
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8?Arlen
+#EXTINF:-1 ,TV Santa Cecilia
+http://flash1.crossdigital.com.br:1935/2063/2063/chunklist_w79166362.m3u8?Arlen
+#EXTINF:-1 ,TVE 1
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?Arlen
+#EXTINF:-1 ,DW2
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_4_av-p.m3u8?Arlen
+#EXTINF:-1 ,NTV News 24
+http://www.news24.jp/livestream/index.m3u8?Arlen
+#EXTINF:-1 ,Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8?Arlen
+#EXTINF:-1 ,Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8?Arlen
+#EXTINF:-1 ,TV 5 Monde
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8?Arlen
+#EXTINF:-1 ,Senal Provincial
+http://www.trimi.com.ar:80/provincial/streaming/mystream.m3u8?Arlen
+#EXTINF:-1 ,1-2-3 TV Alemanha
+http://123tv.cdn.ses-ps.com/index.m3u8?Arlen
+#EXTINF:-1 ,Canal 10 Cancun
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?Arlen
+#EXTINF:-1 ,Shop Channel
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8?Arlen
+#EXTINF:-1 ,Xmas Fireplace
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8?Arlen
+#EXTINF:-1 ,Capital TV
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?Arlen
+#EXTINF:-1 ,TV Clima
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8?wowzasessionid=656679665
+#EXTINF:-1 ,ESPORTE INTERATIVO
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+#EXTINF:-1 ,ESPORTE INTERATIVO
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/580126d58e928419094b5527/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+#EXTINF:-1 ,ESPORTE INTERATIVO 2
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+#EXTINF:-1 ,ESPORTE INTERATIVO BR
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/58121908685da2dd08de7ec5/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+#EXTINF:-1 ,FONTE TV
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+#EXTINF:-1 ,GOSPEL CARTOON
+http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8
+#EXTINF:-1 ,GOSPEL MOVIES TELEVISION
+http://stmv2.euroti.com.br:1935/gospelf/gospelf/live.m3u8
+#EXTINF:-1 ,INFOR BAHIA WEB TV
+http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
+#EXTINF:-1 ,ITU TV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+#EXTINF:-1 ,LEIRIA TV
+http://tv02.logicahost.com.br:1935/tvnovus/tvnovus/live.m3u8
+#EXTINF:-1 ,MASTER TV
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+#EXTINF:-1 ,MKK WEB TV
+http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8
+#EXTINF:-1 ,MULTI RIO
+http://187.111.97.45:1935/webtv/webtv/live.m3u8
+#EXTINF:-1 ,MULTI TV CIDADES
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
+#EXTINF:-1 ,NOVA ERA TV
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+#EXTINF:-1 ,PUC TV
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+#EXTINF:-1 ,REDE BRASIL DE COMUNICAÇÃO
+http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
+#EXTINF:-1 ,REDE EVANGELIZAR
+http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+#EXTINF:-1 ,REDE MÃO AMIGA
+http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
+#EXTINF:-1 ,REDE PETRÓPOLIS DE TELEVISÃO
+http://stmv3.euroti.com.br:1935/neviton5281/neviton5281/live.m3u8
+#EXTINF:-1 ,REDE RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+#EXTINF:-1 ,REDE RCT
+http://tv01.logicahost.com.br:1935/rederct/rederct/live.m3u8
+#EXTINF:-1 ,REDE TV
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+#EXTINF:-1 ,REDE TV
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8
+#EXTINF:-1 ,RIO TV CÂMARA
+http://199.189.86.19:1935/camararj/aovivo/live.m3u8
+#EXTINF:-1 ,SOBRENATURAL TV
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+#EXTINF:-1 ,STZ TV
+http://pge0907stz35.nethorizontes.tv:1935/pge0907stz35/stzwebtv/live.m3u8
+#EXTINF:-1 ,TV A CARA DA BAHIA
+http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/live.m3u8
+#EXTINF:-1 ,TV ALMG
+http://streaming.almg.gov.br:80/live/tvalmg.m3u8
+#EXTINF:-1 ,TV APARECIDA
+http://caikron.com.br:1935/tvap/tvap.stream/live.m3u8
+#EXTINF:-1 ,TV APARECIDA
+http://caikron.com.br:8081/tvap/tvap/playlist.m3u8
