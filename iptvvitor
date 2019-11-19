@@ -1,335 +1,997 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/1280px-A%26E_Network_%28Australia%29_logo.svg.png" group-title="CANAIS: FILMES E SÉRIES",A&E FHD
-http://assistaiptvplay.com/live/erick/erick/43409.m3u8
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/1280px-A%26E_Network_%28Australia%29_logo.svg.png" group-title="CANAIS: FILMES E SÉRIES",A&E FHD
-http://assistaiptvplay.com/live/erick/erick/75258.m3u8
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/1280px-A%26E_Network_%28Australia%29_logo.svg.png" group-title="CANAIS: FILMES E SÉRIES",A&E HD
-http://assistaiptvplay.com/live/erick/erick/43308.m3u8
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/1280px-A%26E_Network_%28Australia%29_logo.svg.png" group-title="CANAIS: FILMES E SÉRIES",A&E HD
-http://assistaiptvplay.com/live/erick/erick/75259.m3u8
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/1280px-A%26E_Network_%28Australia%29_logo.svg.png" group-title="CANAIS: FILMES E SÉRIES",A&E SD
-http://assistaiptvplay.com/live/erick/erick/43309.m3u8
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/1280px-A%26E_Network_%28Australia%29_logo.svg.png" group-title="CANAIS: FILMES E SÉRIES",A&E SD
-http://assistaiptvplay.com/live/erick/erick/54235.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALL SPORTS HD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png" group-title="CANAIS: ESPORTES",ALL SPORTS HD
-http://assistaiptvplay.com/live/erick/erick/37244.m3u8
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2d/AMC_logo_2013.png" group-title="CANAIS: FILMES E SÉRIES",AMC FHD
-http://assistaiptvplay.com/live/erick/erick/43408.m3u8
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2d/AMC_logo_2013.png" group-title="CANAIS: FILMES E SÉRIES",AMC HD
-http://assistaiptvplay.com/live/erick/erick/43306.m3u8
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2d/AMC_logo_2013.png" group-title="CANAIS: FILMES E SÉRIES",AMC SD
-http://assistaiptvplay.com/live/erick/erick/43307.m3u8
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2d/AMC_logo_2013.png" group-title="CANAIS: FILMES E SÉRIES",AMC SD
-http://assistaiptvplay.com/live/erick/erick/54234.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/800px-Animal_Planet.png" group-title="CANAIS: CULTURA",ANIMAL PLANET FHD
-http://assistaiptvplay.com/live/erick/erick/43407.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="CANAIS: CULTURA",ANIMAL PLANET HD
-http://assistaiptvplay.com/live/erick/erick/43304.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="CANAIS: CULTURA",ANIMAL PLANET HD
-http://assistaiptvplay.com/live/erick/erick/54233.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="CANAIS: CULTURA",ANIMAL PLANET SD
-http://assistaiptvplay.com/live/erick/erick/43305.m3u8
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-183-canal-arte-1.png" group-title="CANAIS: CULTURA",ARTE 1 FHD
-http://assistaiptvplay.com/live/erick/erick/43406.m3u8
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-183-canal-arte-1.png" group-title="CANAIS: CULTURA",ARTE 1 HD
-http://assistaiptvplay.com/live/erick/erick/43302.m3u8
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-183-canal-arte-1.png" group-title="CANAIS: CULTURA",ARTE 1 SD
-http://assistaiptvplay.com/live/erick/erick/43303.m3u8
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE1 FHD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-183-canal-arte-1.png" group-title="CANAIS: CULTURA",ARTE1 FHD
-http://assistaiptvplay.com/live/erick/erick/75487.m3u8
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE1 HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-183-canal-arte-1.png" group-title="CANAIS: CULTURA",ARTE1 HD
-http://assistaiptvplay.com/live/erick/erick/75485.m3u8
-#EXTINF:-1 tvg-id="Arte 1" tvg-name="ARTE1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/2000px-Arte_1_logo.svg.png" group-title="CANAIS: VARIEDADES",ARTE1 SD
-http://assistaiptvplay.com/live/erick/erick/54232.m3u8
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE1 SD²" tvg-logo="https://skyassineonline.com.br/img/channels/lg-183-canal-arte-1.png" group-title="CANAIS: ABERTOS",ARTE1 SD²
-http://assistaiptvplay.com/live/erick/erick/75486.m3u8
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" group-title="CANAIS: FILMES E SÉRIES",AXN FHD
-http://assistaiptvplay.com/live/erick/erick/43405.m3u8
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" group-title="CANAIS: FILMES E SÉRIES",AXN HD
-http://assistaiptvplay.com/live/erick/erick/43300.m3u8
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/axnb.png" group-title="CANAIS: FILMES E SÉRIES",AXN SD
-http://assistaiptvplay.com/live/erick/erick/43301.m3u8
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="http://assistaiptvplay.com:80/images/DKMYgcfUqLDJlYcTVqiu12Ku9RJezhmK.png" group-title="CANAIS: FILMES E SÉRIES",AXN SD
-http://assistaiptvplay.com/live/erick/erick/54231.m3u8
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="CANAIS: INFANTIL",BABY TV HD
-http://assistaiptvplay.com/live/erick/erick/75371.m3u8
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="CANAIS: INFANTIL",BABY TV SD
-http://assistaiptvplay.com/live/erick/erick/43299.m3u8
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="CANAIS: INFANTIL",BABY TV SD
-http://assistaiptvplay.com/live/erick/erick/54124.m3u8
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="CANAIS: INFANTIL",BABY TV SD²
-http://assistaiptvplay.com/live/erick/erick/75372.m3u8
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="CANAIS: NOTÍCIAS",BAND NEWS FHD
-http://assistaiptvplay.com/live/erick/erick/43404.m3u8
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="CANAIS: NOTÍCIAS",BAND NEWS FHD
-http://assistaiptvplay.com/live/erick/erick/75234.m3u8
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="CANAIS: NOTÍCIAS",BAND NEWS HD
-http://assistaiptvplay.com/live/erick/erick/43295.m3u8
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="CANAIS: NOTÍCIAS",BAND NEWS SD
-http://assistaiptvplay.com/live/erick/erick/43296.m3u8
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="CANAIS: NOTÍCIAS",BAND NEWS SD
-http://assistaiptvplay.com/live/erick/erick/54230.m3u8
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS FHD" tvg-logo="http://mcbmoto.com.br/wp-content/uploads/2017/06/BandSports-HD_Logotipo.png" group-title="CANAIS: ESPORTES",BAND SPORTS FHD
-http://assistaiptvplay.com/live/erick/erick/43018.m3u8
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS FHD" tvg-logo="http://mcbmoto.com.br/wp-content/uploads/2017/06/BandSports-HD_Logotipo.png" group-title="CANAIS: ESPORTES",BAND SPORTS FHD
-http://assistaiptvplay.com/live/erick/erick/75236.m3u8
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="http://mcbmoto.com.br/wp-content/uploads/2017/06/BandSports-HD_Logotipo.png" group-title="CANAIS: ESPORTES",BAND SPORTS HD
-http://assistaiptvplay.com/live/erick/erick/43019.m3u8
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="http://mcbmoto.com.br/wp-content/uploads/2017/06/BandSports-HD_Logotipo.png" group-title="CANAIS: ESPORTES",BAND SPORTS HD
-http://assistaiptvplay.com/live/erick/erick/75235.m3u8
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="http://mcbmoto.com.br/wp-content/uploads/2017/06/BandSports-HD_Logotipo.png" group-title="CANAIS: ESPORTES",BAND SPORTS SD
-http://assistaiptvplay.com/live/erick/erick/43020.m3u8
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="http://mcbmoto.com.br/wp-content/uploads/2017/06/BandSports-HD_Logotipo.png" group-title="CANAIS: ESPORTES",BAND SPORTS SD
-http://assistaiptvplay.com/live/erick/erick/54076.m3u8
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="CANAIS: MÚSICAS E SHOWS",BIS FHD
-http://assistaiptvplay.com/live/erick/erick/43339.m3u8
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD" tvg-logo="https://s2.glbimg.com/ymTn9IE0rr_YJHRPbzwhmyCSdFk=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/d7/69/8ca415a17b57bdc9dff88a951e82.png" group-title="CANAIS: MÚSICAS E SHOWS",BIS FHD
-http://assistaiptvplay.com/live/erick/erick/75318.m3u8
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="CANAIS: MÚSICAS E SHOWS",BIS HD
-http://assistaiptvplay.com/live/erick/erick/43293.m3u8
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://s2.glbimg.com/ymTn9IE0rr_YJHRPbzwhmyCSdFk=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/d7/69/8ca415a17b57bdc9dff88a951e82.png" group-title="CANAIS: MÚSICAS E SHOWS",BIS HD
-http://assistaiptvplay.com/live/erick/erick/54229.m3u8
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="https://s2.glbimg.com/ymTn9IE0rr_YJHRPbzwhmyCSdFk=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/d7/69/8ca415a17b57bdc9dff88a951e82.png" group-title="CANAIS: MÚSICAS E SHOWS",BIS SD
-http://assistaiptvplay.com/live/erick/erick/43294.m3u8
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="https://s2.glbimg.com/ymTn9IE0rr_YJHRPbzwhmyCSdFk=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/d7/69/8ca415a17b57bdc9dff88a951e82.png" group-title="CANAIS: MÚSICAS E SHOWS",BIS SD
-http://assistaiptvplay.com/live/erick/erick/54228.m3u8
-#EXTINF:-1 tvg-id="BR-Boomerang" tvg-name="BOOMERANG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="CANAIS: INFANTIL",BOOMERANG FHD
-http://assistaiptvplay.com/live/erick/erick/43403.m3u8
-#EXTINF:-1 tvg-id="BR-Boomerang" tvg-name="BOOMERANG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="CANAIS: INFANTIL",BOOMERANG HD
-http://assistaiptvplay.com/live/erick/erick/43290.m3u8
-#EXTINF:-1 tvg-id="BR-Boomerang" tvg-name="BOOMERANG SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="CANAIS: INFANTIL",BOOMERANG SD
-http://assistaiptvplay.com/live/erick/erick/43291.m3u8
-#EXTINF:-1 tvg-id="BR-Boomerang" tvg-name="BOOMERANG SD" tvg-logo="" group-title="CANAIS: INFANTIL",BOOMERANG SD
-http://assistaiptvplay.com/live/erick/erick/54123.m3u8
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-7.png" group-title="CANAIS: VARIEDADES",CANAL BRASIL FHD
-http://assistaiptvplay.com/live/erick/erick/43322.m3u8
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-7.png" group-title="CANAIS: VARIEDADES",CANAL BRASIL HD
-http://assistaiptvplay.com/live/erick/erick/43288.m3u8
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-7.png" group-title="CANAIS: VARIEDADES",CANAL BRASIL HD
-http://assistaiptvplay.com/live/erick/erick/75317.m3u8
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-7.png" group-title="CANAIS: VARIEDADES",CANAL BRASIL HD²
-http://assistaiptvplay.com/live/erick/erick/54227.m3u8
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-7.png" group-title="CANAIS: VARIEDADES",CANAL BRASIL SD
-http://assistaiptvplay.com/live/erick/erick/43289.m3u8
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-7.png" group-title="CANAIS: VARIEDADES",CANAL BRASIL SD
-http://assistaiptvplay.com/live/erick/erick/54226.m3u8
-#EXTINF:-1 tvg-id="Canaldoboi.br" tvg-name="CANAL DO BOI SD" tvg-logo="https://www.gutoassessoria.com.br/wp-content/uploads/2018/04/Canal-doboi_logo.svg.png" group-title="CANAIS: ABERTOS",CANAL DO BOI SD
-http://assistaiptvplay.com/live/erick/erick/43096.m3u8
-#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS: ESPORTES",CANAL OFF FHD
-http://assistaiptvplay.com/live/erick/erick/43360.m3u8
-#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS: ESPORTES",CANAL OFF HD
-http://assistaiptvplay.com/live/erick/erick/42999.m3u8
-#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS: ESPORTES",CANAL OFF HD
-http://assistaiptvplay.com/live/erick/erick/54071.m3u8
-#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS: ESPORTES",CANAL OFF SD
-http://assistaiptvplay.com/live/erick/erick/43000.m3u8
-#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS: ESPORTES",CANAL OFF SD
-http://assistaiptvplay.com/live/erick/erick/54070.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD" tvg-logo="https://www.i-maxpr.com/i/tiago.alcantara@edelman.com/SONY_LOGO_CLEAN_SURFACE_VECTOR190605_162233.PNG" group-title="CANAIS: FILMES E SÉRIES",CANAL SONY FHD
-http://assistaiptvplay.com/live/erick/erick/43402.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD" tvg-logo="https://www.i-maxpr.com/i/tiago.alcantara@edelman.com/SONY_LOGO_CLEAN_SURFACE_VECTOR190605_162233.PNG" group-title="CANAIS: FILMES E SÉRIES",CANAL SONY FHD
-http://assistaiptvplay.com/live/erick/erick/75321.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://www.i-maxpr.com/i/tiago.alcantara@edelman.com/SONY_LOGO_CLEAN_SURFACE_VECTOR190605_162233.PNG" group-title="CANAIS: FILMES E SÉRIES",CANAL SONY HD
-http://assistaiptvplay.com/live/erick/erick/43286.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://www.i-maxpr.com/i/tiago.alcantara@edelman.com/SONY_LOGO_CLEAN_SURFACE_VECTOR190605_162233.PNG" group-title="CANAIS: FILMES E SÉRIES",CANAL SONY HD
-http://assistaiptvplay.com/live/erick/erick/75322.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD LEG" tvg-logo="https://www.i-maxpr.com/i/tiago.alcantara@edelman.com/SONY_LOGO_CLEAN_SURFACE_VECTOR190605_162233.PNG" group-title="CANAIS: LEGENDADOS",CANAL SONY HD LEG
-http://assistaiptvplay.com/live/erick/erick/43055.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://www.i-maxpr.com/i/tiago.alcantara@edelman.com/SONY_LOGO_CLEAN_SURFACE_VECTOR190605_162233.PNG" group-title="CANAIS: FILMES E SÉRIES",CANAL SONY SD
-http://assistaiptvplay.com/live/erick/erick/43287.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://www.i-maxpr.com/i/tiago.alcantara@edelman.com/SONY_LOGO_CLEAN_SURFACE_VECTOR190605_162233.PNG" group-title="CANAIS: FILMES E SÉRIES",CANAL SONY SD
-http://assistaiptvplay.com/live/erick/erick/54225.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD LEG" tvg-logo="https://www.i-maxpr.com/i/tiago.alcantara@edelman.com/SONY_LOGO_CLEAN_SURFACE_VECTOR190605_162233.PNG" group-title="CANAIS: LEGENDADOS",CANAL SONY SD LEG
-http://assistaiptvplay.com/live/erick/erick/43054.m3u8
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/cancao-nova-logo.png" group-title="CANAIS: RELIGIOSOS",CANÇÃO NOVA FHD
-http://assistaiptvplay.com/live/erick/erick/43285.m3u8
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="CANAIS: INFANTIL",CARTOON NETWORK FHD
-http://assistaiptvplay.com/live/erick/erick/43401.m3u8
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="" group-title="CANAIS: INFANTIL",CARTOON NETWORK FHD
-http://assistaiptvplay.com/live/erick/erick/54122.m3u8
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="CANAIS: INFANTIL",CARTOON NETWORK HD
-http://assistaiptvplay.com/live/erick/erick/43283.m3u8
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/CN_Nood_Toonix_logo.png" group-title="CANAIS: INFANTIL",CARTOON NETWORK SD
-http://assistaiptvplay.com/live/erick/erick/43284.m3u8
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://1.bp.blogspot.com/-OBhvAEVnuRg/WVRH1i723bI/AAAAAAAA78M/ueGL8nehJpoUz3bsozz_25jL5hc02jxQACLcBGAs/s640/cinemax.png" group-title="CANAIS: FILMES E SÉRIES",CINEMAX FHD
-http://assistaiptvplay.com/live/erick/erick/43400.m3u8
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://1.bp.blogspot.com/-OBhvAEVnuRg/WVRH1i723bI/AAAAAAAA78M/ueGL8nehJpoUz3bsozz_25jL5hc02jxQACLcBGAs/s640/cinemax.png" group-title="CANAIS: FILMES E SÉRIES",CINEMAX FHD
-http://assistaiptvplay.com/live/erick/erick/75319.m3u8
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://1.bp.blogspot.com/-OBhvAEVnuRg/WVRH1i723bI/AAAAAAAA78M/ueGL8nehJpoUz3bsozz_25jL5hc02jxQACLcBGAs/s640/cinemax.png" group-title="CANAIS: FILMES E SÉRIES",CINEMAX HD
-http://assistaiptvplay.com/live/erick/erick/43281.m3u8
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://1.bp.blogspot.com/-OBhvAEVnuRg/WVRH1i723bI/AAAAAAAA78M/ueGL8nehJpoUz3bsozz_25jL5hc02jxQACLcBGAs/s640/cinemax.png" group-title="CANAIS: FILMES E SÉRIES",CINEMAX HD
-http://assistaiptvplay.com/live/erick/erick/75320.m3u8
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://1.bp.blogspot.com/-OBhvAEVnuRg/WVRH1i723bI/AAAAAAAA78M/ueGL8nehJpoUz3bsozz_25jL5hc02jxQACLcBGAs/s640/cinemax.png" group-title="CANAIS: FILMES E SÉRIES",CINEMAX SD
-http://assistaiptvplay.com/live/erick/erick/43282.m3u8
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://1.bp.blogspot.com/-OBhvAEVnuRg/WVRH1i723bI/AAAAAAAA78M/ueGL8nehJpoUz3bsozz_25jL5hc02jxQACLcBGAs/s640/cinemax.png" group-title="CANAIS: FILMES E SÉRIES",CINEMAX SD
-http://assistaiptvplay.com/live/erick/erick/54224.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CLIPs TRACE TOCA" tvg-logo="https://trace.tv/trace-toca/wp-content/uploads/2016/11/logo_toca2.png" group-title="CANAIS: MÚSICAS E SHOWS",CLIPs TRACE TOCA
-http://assistaiptvplay.com/live/erick/erick/75287.m3u8
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD" tvg-logo="http://4.bp.blogspot.com/-hbWEtGU55Fw/V0inw_TyJhI/AAAAAAAAAZc/63iVrdxit5kDDQ9tHfEnSFJGp_8X3nvngCK4B/s1600/CombateLogo.png" group-title="CANAIS: ESPORTES",COMBATE FHD
-http://assistaiptvplay.com/live/erick/erick/43017.m3u8
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD" tvg-logo="http://4.bp.blogspot.com/-hbWEtGU55Fw/V0inw_TyJhI/AAAAAAAAAZc/63iVrdxit5kDDQ9tHfEnSFJGp_8X3nvngCK4B/s1600/CombateLogo.png" group-title="CANAIS: ESPORTES",COMBATE FHD
-http://assistaiptvplay.com/live/erick/erick/75242.m3u8
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="http://4.bp.blogspot.com/-hbWEtGU55Fw/V0inw_TyJhI/AAAAAAAAAZc/63iVrdxit5kDDQ9tHfEnSFJGp_8X3nvngCK4B/s1600/CombateLogo.png" group-title="CANAIS: ESPORTES",COMBATE HD
-http://assistaiptvplay.com/live/erick/erick/43015.m3u8
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="http://4.bp.blogspot.com/-hbWEtGU55Fw/V0inw_TyJhI/AAAAAAAAAZc/63iVrdxit5kDDQ9tHfEnSFJGp_8X3nvngCK4B/s1600/CombateLogo.png" group-title="CANAIS: ESPORTES",COMBATE HD
-http://assistaiptvplay.com/live/erick/erick/53935.m3u8
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD" tvg-logo="http://4.bp.blogspot.com/-hbWEtGU55Fw/V0inw_TyJhI/AAAAAAAAAZc/63iVrdxit5kDDQ9tHfEnSFJGp_8X3nvngCK4B/s1600/CombateLogo.png" group-title="CANAIS: ESPORTES",COMBATE SD
-http://assistaiptvplay.com/live/erick/erick/43016.m3u8
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD" tvg-logo="http://4.bp.blogspot.com/-hbWEtGU55Fw/V0inw_TyJhI/AAAAAAAAAZc/63iVrdxit5kDDQ9tHfEnSFJGp_8X3nvngCK4B/s1600/CombateLogo.png" group-title="CANAIS: ESPORTES",COMBATE SD
-http://assistaiptvplay.com/live/erick/erick/53934.m3u8
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://comedycentral.mtvnimages.com/press_images/comedycentral_logos/CC_Logo_LockUp_Horizontal_TM__SummerAle_Black-01.png" group-title="CANAIS: VARIEDADES",COMEDY CENTRAL FHD
-http://assistaiptvplay.com/live/erick/erick/43399.m3u8
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://comedycentral.mtvnimages.com/press_images/comedycentral_logos/CC_Logo_LockUp_Horizontal_TM__SummerAle_Black-01.png" group-title="CANAIS: VARIEDADES",COMEDY CENTRAL HD
-http://assistaiptvplay.com/live/erick/erick/43279.m3u8
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://comedycentral.mtvnimages.com/press_images/comedycentral_logos/CC_Logo_LockUp_Horizontal_TM__SummerAle_Black-01.png" group-title="CANAIS: VARIEDADES",COMEDY CENTRAL SD
-http://assistaiptvplay.com/live/erick/erick/43280.m3u8
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://comedycentral.mtvnimages.com/press_images/comedycentral_logos/CC_Logo_LockUp_Horizontal_TM__SummerAle_Black-01.png" group-title="CANAIS: VARIEDADES",COMEDY CENTRAL SD
-http://assistaiptvplay.com/live/erick/erick/54217.m3u8
-#EXTINF:-1 tvg-id="Curta!.br" tvg-name="CURTA! FHD" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="CANAIS: CULTURA",CURTA! FHD
-http://assistaiptvplay.com/live/erick/erick/43398.m3u8
-#EXTINF:-1 tvg-id="Curta!.br" tvg-name="CURTA! HD" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="CANAIS: CULTURA",CURTA! HD
-http://assistaiptvplay.com/live/erick/erick/43277.m3u8
-#EXTINF:-1 tvg-id="Curta!.br" tvg-name="CURTA! SD" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="CANAIS: CULTURA",CURTA! SD
-http://assistaiptvplay.com/live/erick/erick/43278.m3u8
-#EXTINF:-1 tvg-id="Curta!.br" tvg-name="CURTA! SD" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="CANAIS: CULTURA",CURTA! SD
-http://assistaiptvplay.com/live/erick/erick/75326.m3u8
-#EXTINF:-1 tvg-id="Curta!.br" tvg-name="CURTA! SD" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="CANAIS: CULTURA",CURTA! SD
-http://assistaiptvplay.com/live/erick/erick/54216.m3u8
-#EXTINF:-1 tvg-id="Curta!.br" tvg-name="CURTA! SD²" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="CANAIS: CULTURA",CURTA! SD²
-http://assistaiptvplay.com/live/erick/erick/75325.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN FHD" tvg-logo="https://www.digitaltveurope.com/files/2019/03/Screen-Shot-2019-03-13-at-13.39.35.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN FHD
-http://assistaiptvplay.com/live/erick/erick/53959.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SD" tvg-logo="https://www.digitaltveurope.com/files/2019/03/Screen-Shot-2019-03-13-at-13.39.35.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN SD
-http://assistaiptvplay.com/live/erick/erick/53958.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="http://branded.asia/wp-content/uploads/2016/09/DSC-D-HERO-GLOBE-LRG-pos-4c_102014-01.png" group-title="CANAIS: CULTURA",DISCOVERY CHANNEL FHD
-http://assistaiptvplay.com/live/erick/erick/43338.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD²" tvg-logo="http://branded.asia/wp-content/uploads/2016/09/DSC-D-HERO-GLOBE-LRG-pos-4c_102014-01.png" group-title="CANAIS: CULTURA",DISCOVERY CHANNEL FHD²
-http://assistaiptvplay.com/live/erick/erick/54214.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://branded.asia/wp-content/uploads/2016/09/DSC-D-HERO-GLOBE-LRG-pos-4c_102014-01.png" group-title="CANAIS: CULTURA",DISCOVERY CHANNEL HD
-http://assistaiptvplay.com/live/erick/erick/43275.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://branded.asia/wp-content/uploads/2016/09/DSC-D-HERO-GLOBE-LRG-pos-4c_102014-01.png" group-title="CANAIS: CULTURA",DISCOVERY CHANNEL HD
-http://assistaiptvplay.com/live/erick/erick/75327.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="http://branded.asia/wp-content/uploads/2016/09/DSC-D-HERO-GLOBE-LRG-pos-4c_102014-01.png" group-title="CANAIS: CULTURA",DISCOVERY CHANNEL SD
-http://assistaiptvplay.com/live/erick/erick/43276.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD²" tvg-logo="http://branded.asia/wp-content/uploads/2016/09/DSC-D-HERO-GLOBE-LRG-pos-4c_102014-01.png" group-title="CANAIS: CULTURA",DISCOVERY CHANNEL SD²
-http://assistaiptvplay.com/live/erick/erick/54213.m3u8
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="CANAIS: CULTURA",DISCOVERY HOME & HEALTH FHD
-http://assistaiptvplay.com/live/erick/erick/43396.m3u8
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="CANAIS: CULTURA",DISCOVERY HOME & HEALTH FHD
-http://assistaiptvplay.com/live/erick/erick/75232.m3u8
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="CANAIS: CULTURA",DISCOVERY HOME & HEALTH HD
-http://assistaiptvplay.com/live/erick/erick/43271.m3u8
-#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="CANAIS: CULTURA",DISCOVERY HOME & HEALTH SD
-http://assistaiptvplay.com/live/erick/erick/43272.m3u8
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="CANAIS: CULTURA",DISCOVERY HOME & HEALTH SD
-http://assistaiptvplay.com/live/erick/erick/54212.m3u8
-#EXTINF:-1 tvg-id="Discoverykidshd.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://banner2.kisspng.com/20180714/lyo/kisspng-discovery-kids-television-channel-discovery-channe-discovery-logo-5b49e5b9957cf1.1012446215315695936123.jpg" group-title="CANAIS: INFANTIL",DISCOVERY KIDS FHD
-http://assistaiptvplay.com/live/erick/erick/43395.m3u8
-#EXTINF:-1 tvg-id="Discoverykidshd.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://banner2.kisspng.com/20180714/lyo/kisspng-discovery-kids-television-channel-discovery-channe-discovery-logo-5b49e5b9957cf1.1012446215315695936123.jpg" group-title="CANAIS: INFANTIL",DISCOVERY KIDS HD
-http://assistaiptvplay.com/live/erick/erick/43269.m3u8
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/LogoDK.png" group-title="CANAIS: INFANTIL",DISCOVERY KIDS SD
-http://assistaiptvplay.com/live/erick/erick/43270.m3u8
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="" group-title="CANAIS: INFANTIL",DISCOVERY KIDS SD
-http://assistaiptvplay.com/live/erick/erick/54121.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="CANAIS: CULTURA",DISCOVERY SCIENCE FHD
-http://assistaiptvplay.com/live/erick/erick/43394.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="CANAIS: CULTURA",DISCOVERY SCIENCE HD
-http://assistaiptvplay.com/live/erick/erick/43267.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="CANAIS: CULTURA",DISCOVERY SCIENCE SD
-http://assistaiptvplay.com/live/erick/erick/43268.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="CANAIS: CULTURA",DISCOVERY SCIENCE SD
-http://assistaiptvplay.com/live/erick/erick/54209.m3u8
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS: CULTURA",DISCOVERY THEATER FHD
-http://assistaiptvplay.com/live/erick/erick/43393.m3u8
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS: CULTURA",DISCOVERY THEATER HD
-http://assistaiptvplay.com/live/erick/erick/43265.m3u8
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS: CULTURA",DISCOVERY THEATER HD
-http://assistaiptvplay.com/live/erick/erick/54208.m3u8
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS: CULTURA",DISCOVERY THEATER SD
-http://assistaiptvplay.com/live/erick/erick/43266.m3u8
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="" group-title="CANAIS: CULTURA",DISCOVERY TURBO FHD
-http://assistaiptvplay.com/live/erick/erick/43392.m3u8
-#EXTINF:-1 tvg-id="BR-Discovery Turbo" tvg-name="DISCOVERY TURBO FHD" tvg-logo="" group-title="CANAIS: CULTURA",DISCOVERY TURBO FHD
-http://assistaiptvplay.com/live/erick/erick/54211.m3u8
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="" group-title="CANAIS: CULTURA",DISCOVERY TURBO HD
-http://assistaiptvplay.com/live/erick/erick/43263.m3u8
-#EXTINF:-1 tvg-id="BR-Discovery Turbo" tvg-name="DISCOVERY TURBO SD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/discovery_turbo_N.png" group-title="CANAIS: CULTURA",DISCOVERY TURBO SD
-http://assistaiptvplay.com/live/erick/erick/43264.m3u8
-#EXTINF:-1 tvg-id="Discovery World" tvg-name="DISCOVERY WORLD  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="CANAIS: CULTURA",DISCOVERY WORLD  HD
-http://assistaiptvplay.com/live/erick/erick/43261.m3u8
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="CANAIS: CULTURA",DISCOVERY WORLD FHD
-http://assistaiptvplay.com/live/erick/erick/43391.m3u8
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="CANAIS: CULTURA",DISCOVERY WORLD HD
-http://assistaiptvplay.com/live/erick/erick/54207.m3u8
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="CANAIS: CULTURA",DISCOVERY WORLD SD
-http://assistaiptvplay.com/live/erick/erick/43262.m3u8
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL FHD" tvg-logo="https://i0.wp.com/boasnoticias.pt/wp-content/uploads/2016/11/Logo-Disney-Channel.png?ssl=1" group-title="CANAIS: INFANTIL",DISNEY CHANNEL FHD
-http://assistaiptvplay.com/live/erick/erick/43337.m3u8
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://i0.wp.com/boasnoticias.pt/wp-content/uploads/2016/11/Logo-Disney-Channel.png?ssl=1" group-title="CANAIS: INFANTIL",DISNEY CHANNEL HD
-http://assistaiptvplay.com/live/erick/erick/43259.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISNEY CHANNEL HD" tvg-logo="" group-title="CANAIS: INFANTIL",DISNEY CHANNEL HD
-http://assistaiptvplay.com/live/erick/erick/54120.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISNEY CHANNEL HD²" tvg-logo="" group-title="CANAIS: INFANTIL",DISNEY CHANNEL HD²
-http://assistaiptvplay.com/live/erick/erick/54119.m3u8
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://i0.wp.com/boasnoticias.pt/wp-content/uploads/2016/11/Logo-Disney-Channel.png?ssl=1" group-title="CANAIS: INFANTIL",DISNEY CHANNEL SD
-http://assistaiptvplay.com/live/erick/erick/43260.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISNEY CHANNEL SD²" tvg-logo="" group-title="CANAIS: INFANTIL",DISNEY CHANNEL SD²
-http://assistaiptvplay.com/live/erick/erick/54118.m3u8
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHD" tvg-logo="https://img.pngio.com/disney-junior-naturecat-wikia-fandom-powered-by-wikia-disney-junior-png-1500_1125.png" group-title="CANAIS: INFANTIL",DISNEY JUNIOR FHD
-http://assistaiptvplay.com/live/erick/erick/43342.m3u8
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHD" tvg-logo="https://img.pngio.com/disney-junior-naturecat-wikia-fandom-powered-by-wikia-disney-junior-png-1500_1125.png" group-title="CANAIS: INFANTIL",DISNEY JUNIOR FHD
-http://assistaiptvplay.com/live/erick/erick/54117.m3u8
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD" tvg-logo="https://img.pngio.com/disney-junior-naturecat-wikia-fandom-powered-by-wikia-disney-junior-png-1500_1125.png" group-title="CANAIS: INFANTIL",DISNEY JUNIOR HD
-http://assistaiptvplay.com/live/erick/erick/43119.m3u8
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD²" tvg-logo="https://img.pngio.com/disney-junior-naturecat-wikia-fandom-powered-by-wikia-disney-junior-png-1500_1125.png" group-title="CANAIS: INFANTIL",DISNEY JUNIOR HD²
-http://assistaiptvplay.com/live/erick/erick/54116.m3u8
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR SD" tvg-logo="https://img.pngio.com/disney-junior-naturecat-wikia-fandom-powered-by-wikia-disney-junior-png-1500_1125.png" group-title="CANAIS: INFANTIL",DISNEY JUNIOR SD
-http://assistaiptvplay.com/live/erick/erick/43258.m3u8
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR SD²" tvg-logo="https://img.pngio.com/disney-junior-naturecat-wikia-fandom-powered-by-wikia-disney-junior-png-1500_1125.png" group-title="CANAIS: INFANTIL",DISNEY JUNIOR SD²
-http://assistaiptvplay.com/live/erick/erick/54115.m3u8
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD FHD²" tvg-logo="" group-title="CANAIS: INFANTIL",DISNEY XD FHD²
-http://assistaiptvplay.com/live/erick/erick/54113.m3u8
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="CANAIS: INFANTIL",DISNEY XD SD
-http://assistaiptvplay.com/live/erick/erick/43257.m3u8
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD SD ²" tvg-logo="" group-title="CANAIS: INFANTIL",DISNEY XD SD ²
-http://assistaiptvplay.com/live/erick/erick/54114.m3u8
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD²" tvg-logo="" group-title="CANAIS: INFANTIL",DISNEY XD SD²
-http://assistaiptvplay.com/live/erick/erick/54112.m3u8
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD" tvg-logo="https://luxurytransportation.is/wp-content/uploads/2014/03/feasdf.png" group-title="CANAIS: VARIEDADES",E! FHD
-http://assistaiptvplay.com/live/erick/erick/43390.m3u8
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="https://luxurytransportation.is/wp-content/uploads/2014/03/feasdf.png" group-title="CANAIS: VARIEDADES",E! HD
-http://assistaiptvplay.com/live/erick/erick/43255.m3u8
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="http://raspberrymag.com/wp-content/uploads/2016/12/E_Logo.svg_.png" group-title="CANAIS: VARIEDADES",E! HD
-http://assistaiptvplay.com/live/erick/erick/43256.m3u8
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/E%21_logo_2012.png/50px-E%21_logo_2012.png" group-title="CANAIS: VARIEDADES",E! SD
-http://assistaiptvplay.com/live/erick/erick/54206.m3u8
-#EXTINF:-1 tvg-id="E!" tvg-name="EI PLUS HD" tvg-logo="https://4.bp.blogspot.com/-TDkI2D1naI0/VbEUHXVojeI/AAAAAAAAbLQ/2IGpLsXNgC4/s1600/esporte-interativo-novo-logo.png" group-title="CANAIS: ESPORTES",EI PLUS HD
-http://assistaiptvplay.com/live/erick/erick/43013.m3u8
-#EXTINF:-1 tvg-ID="premiereclubes" tvg-name="Premiere" group-title="Esportes",Premiere Clubes FHD
-http://assistaiptvplay.com/live/erick/erick/43031.m3u8
-#EXTINF:-1 tvg-ID="premiereclubes" tvg-name="Premiere Clubes" group-title="Esportes",Premiere Clubes HD
-http://assistaiptvplay.com/live/erick/erick/43038.m3u8
-#EXTINF:-1 tvg-ID="premiere2" tvg-name="Premiere" group-title="Esportes",Premiere 2 FHD
-http://assistaiptvplay.com/live/erick/erick/43037.m3u8
-#EXTINF:-1 tvg-ID="premiere2" tvg-name="Premiere" group-title="Esportes",Premiere 2 HD
-http://assistaiptvplay.com/live/erick/erick/43050.m3u8
-#EXTINF:-1 tvg-ID="premiere3" tvg-name="Premiere" group-title="Esportes",Premiere 3 FHD
-http://assistaiptvplay.com/live/erick/erick/43036.m3u8
-#EXTINF:-1 tvg-ID="premiere3" tvg-name="Premiere" group-title="Esportes",Premiere 3 HD
-http://assistaiptvplay.com/live/erick/erick/43038.m3u8
-#EXTINF:-1 tvg-ID="premiere4" tvg-name="Premiere" group-title="Esportes",Premiere 4 FHD
-http://assistaiptvplay.com/live/erick/erick/43035.m3u8
-#EXTINF:-1 tvg-ID="premiere4" tvg-name="Premiere" group-title="Esportes",Premiere 4 HD
-http://assistaiptvplay.com/live/erick/erick/43046.m3u8
-#EXTINF:-1 tvg-ID="premiere5" tvg-name="Premiere" group-title="Esportes",Premiere 5 FHD
-http://assistaiptvplay.com/live/erick/erick/43034.m3u8
-#EXTINF:-1 tvg-ID="premiere5" tvg-name="Premiere" group-title="Esportes",Premiere 5 HD
-http://assistaiptvplay.com/live/erick/erick/43044.m3u8
-#EXTINF:-1 tvg-ID="premiere6" tvg-name="Premiere" group-title="Esportes",Premiere 6 FHD
-http://assistaiptvplay.com/live/erick/erick/43033.m3u8
-#EXTINF:-1 tvg-ID="premiere6" tvg-name="Premiere" group-title="Esportes",Premiere 6 HD
-http://assistaiptvplay.com/live/erick/erick/43042.m3u8
-#EXTINF:-1 tvg-ID="premiere7" tvg-name="Premiere" group-title="Esportes",Premiere 7 FHD
-http://assistaiptvplay.com/live/erick/erick/43032.m3u8
-#EXTINF:-1 tvg-ID="premiere7" tvg-name="Premiere" group-title="Esportes",Premiere 7 HD
-http://assistaiptvplay.com/live/erick/erick/43040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda HD H264" tvg-logo="" group-title="A FAZENDA",A Fazenda HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/2
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda SD H264" tvg-logo="" group-title="A FAZENDA",A Fazenda SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/1
+#EXTINF:-1 tvg-id="" tvg-name="A&E FHD H264 H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",A&E FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/361
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",A&E HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/338
+#EXTINF:-1 tvg-id="" tvg-name="A&E SD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",A&E SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/316
+#EXTINF:-1 tvg-id="" tvg-name="AMC FHD H264 H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",AMC FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/362
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",AMC HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/339
+#EXTINF:-1 tvg-id="" tvg-name="AMC SD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",AMC SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/317
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet FHD H264 H264" tvg-logo="" group-title="CANAIS - DOCUMENTARIOS",Animal Planet FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/405
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD H264" tvg-logo="" group-title="CANAIS - DOCUMENTARIOS",Animal Planet HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/399
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet SD H264" tvg-logo="" group-title="CANAIS - DOCUMENTARIOS",Animal Planet SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/393
+#EXTINF:-1 tvg-id="" tvg-name="AXN FHD H264 H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",AXN FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/363
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",AXN HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/340
+#EXTINF:-1 tvg-id="" tvg-name="AXN SD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",AXN SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/318
+#EXTINF:-1 tvg-id="" tvg-name="BabyTV SD H264" tvg-logo="" group-title="CANAIS - INFANTIS",BabyTV SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/287
+#EXTINF:-1 tvg-id="" tvg-name="BIS HD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",BIS HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/442
+#EXTINF:-1 tvg-id="" tvg-name="BIS SD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",BIS SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/424
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang SD H264" tvg-logo="" group-title="CANAIS - INFANTIS",Boomerang SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/288
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil SD H264" tvg-logo="" group-title="CANAIS - ABERTOS",Canal Brasil SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/103
+#EXTINF:-1 tvg-id="" tvg-name="Canal do Boi SD H264" tvg-logo="" group-title="CANAIS - ABERTOS",Canal do Boi SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/104
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sony FHD H264 H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Canal Sony FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/364
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sony HD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Canal Sony HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/341
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sony SD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Canal Sony SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/319
+#EXTINF:-1 tvg-id="" tvg-name="Cancao Nova SD H264" tvg-logo="" group-title="CANAIS - RELIGIOSOS",Cancao Nova SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/421
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FHD H264 H264" tvg-logo="" group-title="CANAIS - INFANTIS",Cartoon Network FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/311
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD H264" tvg-logo="" group-title="CANAIS - INFANTIS",Cartoon Network HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/302
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network SD H264" tvg-logo="" group-title="CANAIS - INFANTIS",Cartoon Network SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/289
+#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragao 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Caverna do Dragao 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/181
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD H264 H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Cinemax FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/365
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Cinemax HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/342
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax SD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Cinemax SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/320
+#EXTINF:-1 tvg-id="" tvg-name="Combate FHD H264 H264" tvg-logo="" group-title="CANAIS - ESPORTES",Combate FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/166
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD H264" tvg-logo="" group-title="CANAIS - ESPORTES",Combate HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/150
+#EXTINF:-1 tvg-id="" tvg-name="Combate SD H264" tvg-logo="" group-title="CANAIS - ESPORTES",Combate SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/134
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central FHD H264 H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Comedy Central FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/366
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Comedy Central HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/343
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central SD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Comedy Central SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/321
+#EXTINF:-1 tvg-id="" tvg-name="Curta SD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",Curta SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/425
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 01 HD H264" tvg-logo="" group-title="CANAIS - ESPORTES",Dazn 01 HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/151
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 02 HD H264" tvg-logo="" group-title="CANAIS - ESPORTES",Dazn 02 HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/152
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 03 HD H264" tvg-logo="" group-title="CANAIS - ESPORTES",Dazn 03 HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/153
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 04 HD H264" tvg-logo="" group-title="CANAIS - ESPORTES",Dazn 04 HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/154
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD H264" tvg-logo="" group-title="CANAIS - DISCOVERY",Discovery Channel HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/379
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD H264 H264" tvg-logo="" group-title="CANAIS - DISCOVERY",Discovery Channel HD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/386
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel SD H264" tvg-logo="" group-title="CANAIS - DISCOVERY",Discovery Channel SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/375
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HeH HD H264" tvg-logo="" group-title="CANAIS - DISCOVERY",Discovery HeH HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/380
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HeH HD H264 H264" tvg-logo="" group-title="CANAIS - DISCOVERY",Discovery HeH HD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/387
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HeH SD H264" tvg-logo="" group-title="CANAIS - DISCOVERY",Discovery HeH SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/376
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD H264" tvg-logo="" group-title="CANAIS - INFANTIS",Discovery Kids HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/303
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids SD H264" tvg-logo="" group-title="CANAIS - INFANTIS",Discovery Kids SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/290
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD H264" tvg-logo="" group-title="CANAIS - DISCOVERY",Discovery Science HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/381
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD H264 H264" tvg-logo="" group-title="CANAIS - DISCOVERY",Discovery Science HD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/388
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD H264" tvg-logo="" group-title="CANAIS - DISCOVERY",Discovery Theater HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/382
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD H264 H264" tvg-logo="" group-title="CANAIS - DISCOVERY",Discovery Theater HD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/389
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD H264" tvg-logo="" group-title="CANAIS - DISCOVERY",Discovery Turbo HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/383
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD H264 H264" tvg-logo="" group-title="CANAIS - DISCOVERY",Discovery Turbo HD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/390
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo SD H264" tvg-logo="" group-title="CANAIS - DISCOVERY",Discovery Turbo SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/377
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD H264" tvg-logo="" group-title="CANAIS - DISCOVERY",Discovery World HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/384
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD H264 H264" tvg-logo="" group-title="CANAIS - DISCOVERY",Discovery World HD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/391
+#EXTINF:-1 tvg-id="" tvg-name="Disney channel FHD H264 H264" tvg-logo="" group-title="CANAIS - INFANTIS",Disney channel FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/312
+#EXTINF:-1 tvg-id="" tvg-name="Disney channel HD H264" tvg-logo="" group-title="CANAIS - INFANTIS",Disney channel HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/305
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel SD H264" tvg-logo="" group-title="CANAIS - INFANTIS",Disney Channel SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/293
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior FHD H264 H264" tvg-logo="" group-title="CANAIS - INFANTIS",Disney Junior FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/313
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior HD H264" tvg-logo="" group-title="CANAIS - INFANTIS",Disney Junior HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/306
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior SD H264" tvg-logo="" group-title="CANAIS - INFANTIS",Disney Junior SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/294
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD SD H264" tvg-logo="" group-title="CANAIS - INFANTIS",Disney XD SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/295
+#EXTINF:-1 tvg-id="" tvg-name="E HD H264" tvg-logo="" group-title="CANAIS - DOCUMENTARIOS",E HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/400
+#EXTINF:-1 tvg-id="" tvg-name="E SD H264" tvg-logo="" group-title="CANAIS - DOCUMENTARIOS",E SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/394
+#EXTINF:-1 tvg-id="" tvg-name="EI Plus HD H264" tvg-logo="" group-title="CANAIS - ESPORTES",EI Plus HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/155
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 FHD H264 H264" tvg-logo="" group-title="CANAIS - ESPORTES",ESPN 1 FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/169
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 HD H264" tvg-logo="" group-title="CANAIS - ESPORTES",ESPN 1 HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/158
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 SD H264" tvg-logo="" group-title="CANAIS - ESPORTES",ESPN 1 SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/135
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD H264 H264" tvg-logo="" group-title="CANAIS - ESPORTES",ESPN 2 FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/167
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD H264" tvg-logo="" group-title="CANAIS - ESPORTES",ESPN 2 HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/156
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD H264" tvg-logo="" group-title="CANAIS - ESPORTES",ESPN 2 SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/136
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil FHD H264 H264" tvg-logo="" group-title="CANAIS - ESPORTES",ESPN Brasil FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/168
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil HD H264" tvg-logo="" group-title="CANAIS - ESPORTES",ESPN Brasil HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/157
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil SD H264" tvg-logo="" group-title="CANAIS - ESPORTES",ESPN Brasil SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/137
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra HD H264" tvg-logo="" group-title="CANAIS - ESPORTES",ESPN Extra HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/159
+#EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Criancas 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Eu a Patroa e as Criancas 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/194
+#EXTINF:-1 tvg-id="" tvg-name="Film e Arts SD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",Film e Arts SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/426
+#EXTINF:-1 tvg-id="" tvg-name="Fish TV SD H264" tvg-logo="" group-title="CANAIS - ESPORTES",Fish TV SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/138
+#EXTINF:-1 tvg-id="" tvg-name="Food Network FHD H264 H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",Food Network FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/453
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",Food Network HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/443
+#EXTINF:-1 tvg-id="" tvg-name="Food Network SD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",Food Network SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/427
+#EXTINF:-1 tvg-id="" tvg-name="Formiga Atomica 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Formiga Atomica 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/195
+#EXTINF:-1 tvg-id="" tvg-name="Fox FHD H264 H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Fox FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/367
+#EXTINF:-1 tvg-id="" tvg-name="Fox HD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Fox HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/344
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life HD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Fox Life HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/345
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life SD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Fox Life SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/323
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 1 HD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Fox Premium 1 HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/346
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2 HD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Fox Premium 2 HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/347
+#EXTINF:-1 tvg-id="" tvg-name="Fox SD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Fox SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/322
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 FHD H264 H264" tvg-logo="" group-title="CANAIS - ESPORTES",Fox Sports 1 FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/171
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD H264" tvg-logo="" group-title="CANAIS - ESPORTES",Fox Sports 1 HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/161
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 SD H264" tvg-logo="" group-title="CANAIS - ESPORTES",Fox Sports 1 SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/139
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 FHD H264 H264" tvg-logo="" group-title="CANAIS - ESPORTES",Fox Sports 2 FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/170
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD H264" tvg-logo="" group-title="CANAIS - ESPORTES",Fox Sports 2 HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/160
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 SD H264" tvg-logo="" group-title="CANAIS - ESPORTES",Fox Sports 2 SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/140
+#EXTINF:-1 tvg-id="" tvg-name="Futura SD H264" tvg-logo="" group-title="CANAIS - ABERTOS",Futura SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/106
+#EXTINF:-1 tvg-id="" tvg-name="FX HD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",FX HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/348
+#EXTINF:-1 tvg-id="" tvg-name="FX SD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",FX SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/324
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Galinha Pintadinha 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/196
+#EXTINF:-1 tvg-id="" tvg-name="Globosat HD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",Globosat HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/444
+#EXTINF:-1 tvg-id="" tvg-name="Globosat SD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",Globosat SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/428
+#EXTINF:-1 tvg-id="" tvg-name="Gloob HD H264" tvg-logo="" group-title="CANAIS - INFANTIS",Gloob HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/307
+#EXTINF:-1 tvg-id="" tvg-name="Gloob SD H264" tvg-logo="" group-title="CANAIS - INFANTIS",Gloob SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/296
+#EXTINF:-1 tvg-id="" tvg-name="GNT FHD H264 H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",GNT FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/454
+#EXTINF:-1 tvg-id="" tvg-name="GNT HD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",GNT HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/445
+#EXTINF:-1 tvg-id="" tvg-name="GNT SD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",GNT SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/429
+#EXTINF:-1 tvg-id="" tvg-name="Guardioes da Galaxia 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Guardioes da Galaxia 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/197
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1 FHD H264 H264" tvg-logo="" group-title="CANAIS - HBO",HBO 1 FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/279
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1 HD H264" tvg-logo="" group-title="CANAIS - HBO",HBO 1 HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/274
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1 SD H264" tvg-logo="" group-title="CANAIS - HBO",HBO 1 SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/267
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 FHD H264 H264" tvg-logo="" group-title="CANAIS - HBO",HBO 2 FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/277
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD H264" tvg-logo="" group-title="CANAIS - HBO",HBO 2 HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/272
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 SD H264" tvg-logo="" group-title="CANAIS - HBO",HBO 2 SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/271
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family FHD H264 H264" tvg-logo="" group-title="CANAIS - HBO",HBO Family FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/278
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD H264" tvg-logo="" group-title="CANAIS - HBO",HBO Family HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/273
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family SD H264" tvg-logo="" group-title="CANAIS - HBO",HBO Family SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/268
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD H264" tvg-logo="" group-title="CANAIS - HBO",HBO Plus HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/275
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus SD H264" tvg-logo="" group-title="CANAIS - HBO",HBO Plus SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/269
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD H264" tvg-logo="" group-title="CANAIS - HBO",HBO Signature HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/276
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD H264" tvg-logo="" group-title="CANAIS - HBO",HBO Signature SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/270
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",HGTV HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/446
+#EXTINF:-1 tvg-id="" tvg-name="Historias Disney 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Historias Disney 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/200
+#EXTINF:-1 tvg-id="" tvg-name="History 1 FHD H264 H264" tvg-logo="" group-title="CANAIS - DOCUMENTARIOS",History 1 FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/406
+#EXTINF:-1 tvg-id="" tvg-name="History 1 HD H264" tvg-logo="" group-title="CANAIS - DOCUMENTARIOS",History 1 HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/401
+#EXTINF:-1 tvg-id="" tvg-name="History 2 FHD H264 H264" tvg-logo="" group-title="CANAIS - DOCUMENTARIOS",History 2 FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/407
+#EXTINF:-1 tvg-id="" tvg-name="History 2 HD H264" tvg-logo="" group-title="CANAIS - DOCUMENTARIOS",History 2 HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/402
+#EXTINF:-1 tvg-id="" tvg-name="History 2 SD H264" tvg-logo="" group-title="CANAIS - DOCUMENTARIOS",History 2 SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/396
+#EXTINF:-1 tvg-id="" tvg-name="History SD H264" tvg-logo="" group-title="CANAIS - DOCUMENTARIOS",History SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/395
+#EXTINF:-1 tvg-id="" tvg-name="Investigacao Discovery SD H264" tvg-logo="" group-title="CANAIS - DISCOVERY",Investigacao Discovery SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/378
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery HD H264" tvg-logo="" group-title="CANAIS - DISCOVERY",Investigation Discovery HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/385
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery HD H264 H264" tvg-logo="" group-title="CANAIS - DISCOVERY",Investigation Discovery HD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/392
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime FHD H264 H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",Lifetime FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/455
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",Lifetime HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/447
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime SD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",Lifetime SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/430
+#EXTINF:-1 tvg-id="" tvg-name="Max FHD H264 H264" tvg-logo="" group-title="CANAIS - HBO",Max FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/286
+#EXTINF:-1 tvg-id="" tvg-name="Max HD H264" tvg-logo="" group-title="CANAIS - HBO",Max HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/283
+#EXTINF:-1 tvg-id="" tvg-name="Max Prime HD H264" tvg-logo="" group-title="CANAIS - HBO",Max Prime HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/284
+#EXTINF:-1 tvg-id="" tvg-name="Max Prime SD H264" tvg-logo="" group-title="CANAIS - HBO",Max Prime SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/281
+#EXTINF:-1 tvg-id="" tvg-name="Max SD H264" tvg-logo="" group-title="CANAIS - HBO",Max SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/280
+#EXTINF:-1 tvg-id="" tvg-name="Max UP HD H264" tvg-logo="" group-title="CANAIS - HBO",Max UP HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/285
+#EXTINF:-1 tvg-id="" tvg-name="Max UP SD H264" tvg-logo="" group-title="CANAIS - HBO",Max UP SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/282
+#EXTINF:-1 tvg-id="" tvg-name="Medabots 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Medabots 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/210
+#EXTINF:-1 tvg-id="" tvg-name="MegaMan 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",MegaMan 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/211
+#EXTINF:-1 tvg-id="" tvg-name="Megapix FHD H264 H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Megapix FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/368
+#EXTINF:-1 tvg-id="" tvg-name="Megapix HD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Megapix HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/349
+#EXTINF:-1 tvg-id="" tvg-name="MegaPix SD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",MegaPix SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/325
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Mortal Kombat 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/212
+#EXTINF:-1 tvg-id="" tvg-name="Mr.Ben 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Mr.Ben 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/213
+#EXTINF:-1 tvg-id="" tvg-name="MTV FHD H264 H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",MTV FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/456
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",MTV HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/448
+#EXTINF:-1 tvg-id="" tvg-name="MTV SD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",MTV SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/431
+#EXTINF:-1 tvg-id="" tvg-name="Multishow FHD H264 H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",Multishow FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/457
+#EXTINF:-1 tvg-id="" tvg-name="Multishow HD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",Multishow HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/449
+#EXTINF:-1 tvg-id="" tvg-name="Multishow SD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",Multishow SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/432
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil HD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",Music Box Brazil HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/450
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil SD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",Music Box Brazil SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/433
+#EXTINF:-1 tvg-id="" tvg-name="Naruto 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Naruto 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/214
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Naruto Shippuden 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/215
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo FHD H264 H264" tvg-logo="" group-title="CANAIS - DOCUMENTARIOS",NatGeo FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/408
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo HD H264" tvg-logo="" group-title="CANAIS - DOCUMENTARIOS",NatGeo HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/403
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids HD H264" tvg-logo="" group-title="CANAIS - INFANTIS",NatGeo Kids HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/304
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids SD H264" tvg-logo="" group-title="CANAIS - INFANTIS",NatGeo Kids SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/291
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo SD H264" tvg-logo="" group-title="CANAIS - DOCUMENTARIOS",NatGeo SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/397
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild FHD H264 H264" tvg-logo="" group-title="CANAIS - DOCUMENTARIOS",NatGeo Wild FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/409
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild HD H264" tvg-logo="" group-title="CANAIS - DOCUMENTARIOS",NatGeo Wild HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/404
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild SD H264" tvg-logo="" group-title="CANAIS - DOCUMENTARIOS",NatGeo Wild SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/398
+#EXTINF:-1 tvg-id="" tvg-name="NHK SD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",NHK SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/434
+#EXTINF:-1 tvg-id="" tvg-name="Nick JR FHD H264 H264" tvg-logo="" group-title="CANAIS - INFANTIS",Nick JR FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/315
+#EXTINF:-1 tvg-id="" tvg-name="Nick JR HD H264" tvg-logo="" group-title="CANAIS - INFANTIS",Nick JR HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/309
+#EXTINF:-1 tvg-id="" tvg-name="Nick JR SD H264" tvg-logo="" group-title="CANAIS - INFANTIS",Nick JR SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/297
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon FHD H264 H264" tvg-logo="" group-title="CANAIS - INFANTIS",Nickelodeon FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/314
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD H264" tvg-logo="" group-title="CANAIS - INFANTIS",Nickelodeon HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/308
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon SD H264" tvg-logo="" group-title="CANAIS - INFANTIS",Nickelodeon SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/298
+#EXTINF:-1 tvg-id="" tvg-name="O Fantastico Mundo de Bobby 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",O Fantastico Mundo de Bobby 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/216
+#EXTINF:-1 tvg-id="" tvg-name="O Inspetor 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",O Inspetor 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/217
+#EXTINF:-1 tvg-id="" tvg-name="O Maskara 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",O Maskara 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/218
+#EXTINF:-1 tvg-id="" tvg-name="OFF HD H264" tvg-logo="" group-title="CANAIS - ESPORTES",OFF HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/162
+#EXTINF:-1 tvg-id="" tvg-name="OFF SD H264" tvg-logo="" group-title="CANAIS - ESPORTES",OFF SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/141
+#EXTINF:-1 tvg-id="" tvg-name="Os Anjinhos: Rugrats 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Os Anjinhos: Rugrats 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/219
+#EXTINF:-1 tvg-id="" tvg-name="Os Caveleiros dos Zodiacos 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Os Caveleiros dos Zodiacos 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/220
+#EXTINF:-1 tvg-id="" tvg-name="Os Flintstones 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Os Flintstones 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/221
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Os Simpsons 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/222
+#EXTINF:-1 tvg-id="" tvg-name="Os Vingadores 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Os Vingadores 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/223
+#EXTINF:-1 tvg-id="" tvg-name="Papa Leguas 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Papa Leguas 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/224
+#EXTINF:-1 tvg-id="" tvg-name="Paramount HD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Paramount HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/350
+#EXTINF:-1 tvg-id="" tvg-name="Paramount SD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Paramount SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/326
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Peppa Pig 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/225
+#EXTINF:-1 tvg-id="" tvg-name="Pernalonga 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Pernalonga 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/226
+#EXTINF:-1 tvg-id="" tvg-name="Phineas e Ferb 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Phineas e Ferb 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/227
+#EXTINF:-1 tvg-id="" tvg-name="Pica Pau24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Pica Pau24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/228
+#EXTINF:-1 tvg-id="" tvg-name="Pink e Cerebro 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Pink e Cerebro 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/229
+#EXTINF:-1 tvg-id="" tvg-name="Play kids SD H264" tvg-logo="" group-title="CANAIS - INFANTIS",Play kids SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/292
+#EXTINF:-1 tvg-id="" tvg-name="Play TV SD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",Play TV SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/435
+#EXTINF:-1 tvg-id="" tvg-name="Pokemon 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Pokemon 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/230
+#EXTINF:-1 tvg-id="" tvg-name="Polishop TV SD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",Polishop TV SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/437
+#EXTINF:-1 tvg-id="" tvg-name="Popeye O Marinheiro 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Popeye O Marinheiro 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/231
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 1 Clubes FHD H264 H264" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 1 Clubes FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/126
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 1 Clubes HD H264" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 1 Clubes HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/119
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 1 Clubes SD H264" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 1 Clubes SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/110
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 FHD H264 H264" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 2 FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/127
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD H264" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 2 HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/120
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 SD H264" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 2 SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/111
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 FHD H264 H264" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 3 FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/128
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD H264" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 3 HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/121
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 SD H264" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 3 SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/112
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 FHD H264 H264" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 4 FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/129
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD H264" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 4 HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/122
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 SD H264" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 4 SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/113
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 FHD H264 H264" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 5 FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/130
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD H264" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 5 HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/123
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 SD H264" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 5 SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/114
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 FHD H264 H264" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 6 FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/131
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD H264" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 6 HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/124
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 SD H264" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 6 SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/115
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 FHD H264 H264" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 7 FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/132
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD H264" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 7 HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/125
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 SD H264" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 7 SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/116
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 SD H264" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 8 SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/117
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 9 SD H264" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 9 SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/118
+#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil SD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",Prime Box Brazil SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/436
+#EXTINF:-1 tvg-id="" tvg-name="Space FHD H264 H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Space FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/369
+#EXTINF:-1 tvg-id="" tvg-name="Space HD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Space HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/351
+#EXTINF:-1 tvg-id="" tvg-name="Space SD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Space SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/327
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 1 FHD H264 H264" tvg-logo="" group-title="CANAIS - ESPORTES",SporTV 1 FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/174
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 1 HD H264" tvg-logo="" group-title="CANAIS - ESPORTES",SporTV 1 HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/165
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 1 SD H264" tvg-logo="" group-title="CANAIS - ESPORTES",SporTV 1 SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/142
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 FHD H264 H264" tvg-logo="" group-title="CANAIS - ESPORTES",SporTV 2 FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/172
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 HD H264" tvg-logo="" group-title="CANAIS - ESPORTES",SporTV 2 HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/163
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 SD H264" tvg-logo="" group-title="CANAIS - ESPORTES",SporTV 2 SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/143
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 FHD H264 H264" tvg-logo="" group-title="CANAIS - ESPORTES",SporTV 3 FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/173
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 HD H264" tvg-logo="" group-title="CANAIS - ESPORTES",SporTV 3 HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/164
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 SD H264" tvg-logo="" group-title="CANAIS - ESPORTES",SporTV 3 SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/144
+#EXTINF:-1 tvg-id="" tvg-name="Steven Universe 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Steven Universe 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/237
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal FHD H264 H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Studio Universal FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/370
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Studio Universal HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/352
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal SD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Studio Universal SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/328
+#EXTINF:-1 tvg-id="" tvg-name="Superman 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Superman 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/238
+#EXTINF:-1 tvg-id="" tvg-name="Syfy HD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Syfy HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/353
+#EXTINF:-1 tvg-id="" tvg-name="Syfy SD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Syfy SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/329
+#EXTINF:-1 tvg-id="" tvg-name="Tartarugas Ninjas 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Tartarugas Ninjas 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/239
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",TBS HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/354
+#EXTINF:-1 tvg-id="" tvg-name="TBS SD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",TBS SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/330
+#EXTINF:-1 tvg-id="" tvg-name="TCM SD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",TCM SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/331
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action FHD H264 H264" tvg-logo="" group-title="CANAIS - TELECINE",Telecine Action FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/264
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD H264" tvg-logo="" group-title="CANAIS - TELECINE",Telecine Action HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/258
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action SD H264" tvg-logo="" group-title="CANAIS - TELECINE",Telecine Action SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/252
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult HD H264" tvg-logo="" group-title="CANAIS - TELECINE",Telecine Cult HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/259
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult SD H264" tvg-logo="" group-title="CANAIS - TELECINE",Telecine Cult SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/253
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD H264" tvg-logo="" group-title="CANAIS - TELECINE",Telecine Fun HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/260
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun SD H264" tvg-logo="" group-title="CANAIS - TELECINE",Telecine Fun SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/254
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca FHD H264 H264" tvg-logo="" group-title="CANAIS - TELECINE",Telecine Pipoca FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/265
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD H264" tvg-logo="" group-title="CANAIS - TELECINE",Telecine Pipoca HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/261
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca SD H264" tvg-logo="" group-title="CANAIS - TELECINE",Telecine Pipoca SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/255
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium FHD H264 H264" tvg-logo="" group-title="CANAIS - TELECINE",Telecine Premium FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/266
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD H264" tvg-logo="" group-title="CANAIS - TELECINE",Telecine Premium HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/262
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium SD H264" tvg-logo="" group-title="CANAIS - TELECINE",Telecine Premium SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/256
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD H264" tvg-logo="" group-title="CANAIS - TELECINE",Telecine Touch HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/263
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch SD H264" tvg-logo="" group-title="CANAIS - TELECINE",Telecine Touch SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/257
+#EXTINF:-1 tvg-id="" tvg-name="Terra Viva SD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",Terra Viva SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/438
+#EXTINF:-1 tvg-id="" tvg-name="Thundercats 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Thundercats 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/240
+#EXTINF:-1 tvg-id="" tvg-name="Timao e Pumba 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Timao e Pumba 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/241
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",TLC HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/355
+#EXTINF:-1 tvg-id="" tvg-name="TLC SD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",TLC SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/332
+#EXTINF:-1 tvg-id="" tvg-name="TNT FHD H264 H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",TNT FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/371
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",TNT HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/356
+#EXTINF:-1 tvg-id="" tvg-name="TNT SD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",TNT SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/333
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series FHD H264 H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",TNT Series FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/372
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",TNT Series HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/357
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series SD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",TNT Series SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/334
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Todo Mundo Odeia o Chris 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/242
+#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry 24HRS" tvg-logo="" group-title="CANAIS - 24HRS",Tom & Jerry 24HRS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/243
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast SD H264" tvg-logo="" group-title="CANAIS - INFANTIS",Tooncast SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/299
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel FHD H264 H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Universal Channel FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/373
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel HD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Universal Channel HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/359
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel SD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Universal Channel SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/336
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",VH1 HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/451
+#EXTINF:-1 tvg-id="" tvg-name="VH1 SD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",VH1 SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/439
+#EXTINF:-1 tvg-id="" tvg-name="Viva FHD H264 H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",Viva FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/458
+#EXTINF:-1 tvg-id="" tvg-name="Viva HD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",Viva HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/452
+#EXTINF:-1 tvg-id="" tvg-name="Viva SD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",Viva SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/440
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel FHD H264 H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Warner Channel FHD H264 H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/374
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Warner Channel HD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/360
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel SD H264" tvg-logo="" group-title="CANAIS - FILMES E SERIES",Warner Channel SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/337
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo SD H264" tvg-logo="" group-title="CANAIS - VARIEDADES E MUSICAS",Woohoo SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/441
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo SD H264" tvg-logo="" group-title="CANAIS - INFANTIS",ZooMoo SD H264
+http://topclientehd.ddns.net:8080/Vagner/Vagner/301
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",A FAZENDA ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/482
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",A&E HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/483
+#EXTINF:-1 tvg-id="" tvg-name="A&E SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",A&E SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/484
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",AMC HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/485
+#EXTINF:-1 tvg-id="" tvg-name="AMC SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",AMC SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/486
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",ANIMAL PLANET HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/487
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",ANIMAL PLANET SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/488
+#EXTINF:-1 tvg-id="" tvg-name="ARTE 1 HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",ARTE 1 HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/489
+#EXTINF:-1 tvg-id="" tvg-name="ARTE 1 SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",ARTE 1 SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/490
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",AXN HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/491
+#EXTINF:-1 tvg-id="" tvg-name="AXN SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",AXN SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/492
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",BABY TV HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/493
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",BABY TV SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/494
+#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",BAND CAMPINAS SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/495
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",BAND NEWS HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/496
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",BAND NEWS SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/497
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",BAND SPORTS HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/501
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",BAND SPORTS SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/502
+#EXTINF:-1 tvg-id="" tvg-name="BIS HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",BIS HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/503
+#EXTINF:-1 tvg-id="" tvg-name="BIS SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",BIS SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/504
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",BOOMERANG HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/505
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",BOOMERANG SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/506
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",CANAL BRASIL SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/507
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",CARTOON NETWORK HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/508
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",CARTOON NETWORK SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/509
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",CINEMAX HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/510
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",CINEMAX SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/511
+#EXTINF:-1 tvg-id="" tvg-name="CNT SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",CNT SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/512
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",COMBATE HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/513
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",COMBATE SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/514
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",COMEDY CENTRAL HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/515
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",COMEDY CENTRAL SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/516
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",CULTURA HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/517
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",CULTURA SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/518
+#EXTINF:-1 tvg-id="" tvg-name="CURTA! HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",CURTA! HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/519
+#EXTINF:-1 tvg-id="" tvg-name="CURTA! SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",CURTA! SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/520
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BRASIL HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",DAZN BRASIL HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/521
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",DISCOVERY CHANNEL HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/522
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",DISCOVERY CHANNEL SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/523
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",DISCOVERY CIVILIZATION HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/524
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",DISCOVERY CIVILIZATION SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/525
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",DISCOVERY HOME & HEALTH HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/526
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",DISCOVERY HOME & HEALTH SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/527
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",DISCOVERY KIDS HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/528
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",DISCOVERY KIDS SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/529
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",DISCOVERY SCIENCE HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/530
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",DISCOVERY SCIENCE SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/531
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",DISCOVERY THEATER HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/532
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",DISCOVERY THEATER SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/533
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",DISCOVERY TLC HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/534
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",DISCOVERY TLC SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/535
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",DISCOVERY TURBO HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/536
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",DISCOVERY TURBO SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/537
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",DISCOVERY WORLD HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/538
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",DISCOVERY WORLD SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/539
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",DISNEY CHANNEL HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/540
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",DISNEY CHANNEL SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/541
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",DISNEY JR HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/542
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",DISNEY JR SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/543
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",DISNEY XD HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/544
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",DISNEY XD SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/545
+#EXTINF:-1 tvg-id="" tvg-name="E! HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",E! HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/546
+#EXTINF:-1 tvg-id="" tvg-name="E! SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",E! SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/547
+#EXTINF:-1 tvg-id="" tvg-name="EI PLUS" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",EI PLUS
+http://topclientehd.ddns.net:8080/Vagner/Vagner/548
+#EXTINF:-1 tvg-id="" tvg-name="ESPN  HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",ESPN  HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/549
+#EXTINF:-1 tvg-id="" tvg-name="ESPN  SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",ESPN  SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/550
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",ESPN BRASIL HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/551
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",ESPN BRASIL SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/552
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",ESPN HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/553
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",ESPN SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/554
+#EXTINF:-1 tvg-id="" tvg-name="FISH TV HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",FISH TV HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/555
+#EXTINF:-1 tvg-id="" tvg-name="FISH TV SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",FISH TV SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/556
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",FOOD NETWORK HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/557
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",FOOD NETWORK SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/558
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",FOX HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/559
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",FOX LIFE HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/560
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",FOX LIFE SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/561
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1 HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",FOX PREMIUM 1 HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/562
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1 SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",FOX PREMIUM 1 SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/563
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2 HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",FOX PREMIUM 2 HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/564
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2 SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",FOX PREMIUM 2 SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/565
+#EXTINF:-1 tvg-id="" tvg-name="FOX SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",FOX SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/566
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",FOX SPORTS 2 HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/567
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",FOX SPORTS 2 SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/568
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",FOX SPORTS HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/569
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",FOX SPORTS SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/570
+#EXTINF:-1 tvg-id="" tvg-name="FUTURA HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",FUTURA HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/571
+#EXTINF:-1 tvg-id="" tvg-name="FUTURA SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",FUTURA SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/572
+#EXTINF:-1 tvg-id="" tvg-name="FX HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",FX HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/573
+#EXTINF:-1 tvg-id="" tvg-name="FX SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",FX SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/574
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",GLOBO NEWS SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/587
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOSAT HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",GLOBOSAT HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/607
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOSAT SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",GLOBOSAT SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/608
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",GLOOB HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/609
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",GLOOB SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/610
+#EXTINF:-1 tvg-id="" tvg-name="GNT HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",GNT HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/611
+#EXTINF:-1 tvg-id="" tvg-name="GNT SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",GNT SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/612
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",H2 HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/613
+#EXTINF:-1 tvg-id="" tvg-name="H2 SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",H2 SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/614
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",HBO 2 HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/615
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",HBO 2 SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/616
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",HBO FAMILY HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/617
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",HBO FAMILY SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/618
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",HBO HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/619
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",HBO PLUS HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/620
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",HBO PLUS SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/621
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS*E HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",HBO PLUS*E HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/622
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS*E SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",HBO PLUS*E SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/623
+#EXTINF:-1 tvg-id="" tvg-name="HBO SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",HBO SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/624
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",HBO SIGNATURE HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/625
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",HBO SIGNATURE SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/626
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",HISTORY CHANNEL HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/627
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",HISTORY CHANNEL SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/628
+#EXTINF:-1 tvg-id="" tvg-name="ID - INVESTIGA??O DISCOVERY SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",ID - INVESTIGA??O DISCOVERY SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/629
+#EXTINF:-1 tvg-id="" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",ID - INVESTIGAÇÃO DISCOVERY HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/630
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",LIFETIME HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/631
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",LIFETIME SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/632
+#EXTINF:-1 tvg-id="" tvg-name="MAX HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",MAX HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/633
+#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",MAX PRIME HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/634
+#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",MAX PRIME SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/635
+#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME*E HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",MAX PRIME*E HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/636
+#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME*E SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",MAX PRIME*E SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/637
+#EXTINF:-1 tvg-id="" tvg-name="MAX SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",MAX SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/638
+#EXTINF:-1 tvg-id="" tvg-name="MAX UP HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",MAX UP HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/639
+#EXTINF:-1 tvg-id="" tvg-name="MAX UP SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",MAX UP SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/640
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",MEGAPIX HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/641
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",MEGAPIX SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/642
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",MTV HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/643
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",MTV LIVE HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/644
+#EXTINF:-1 tvg-id="" tvg-name="MTV SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",MTV SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/645
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",MULTISHOW HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/646
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",MULTISHOW SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/647
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRAZIL SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",MUSIC BOX BRAZIL SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/648
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",NATGEO KIDS HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/649
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",NATGEO KIDS SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/650
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",NATGEO WILD HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/651
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",NATGEO WILD SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/652
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",NATIONAL GEOGRAPHIC HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/653
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",NATIONAL GEOGRAPHIC SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/654
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",NICK JR HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/655
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",NICK JR SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/656
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",NICKELODEON HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/657
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",NICKELODEON SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/658
+#EXTINF:-1 tvg-id="" tvg-name="NOVO TEMPO SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",NOVO TEMPO SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/659
+#EXTINF:-1 tvg-id="" tvg-name="OFF HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",OFF HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/660
+#EXTINF:-1 tvg-id="" tvg-name="OFF SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",OFF SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/661
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",PARAMOUNT CHANNEL HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/662
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",PARAMOUNT CHANNEL SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/663
+#EXTINF:-1 tvg-id="" tvg-name="PLAY TV SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",PLAY TV SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/664
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY TV SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",PLAYBOY TV SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/665
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 1 SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",PREMIERE 1 SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/666
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",PREMIERE 2 HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/667
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",PREMIERE 2 SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/668
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",PREMIERE 3 HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/669
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",PREMIERE 3 SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/670
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",PREMIERE 4 HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/671
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",PREMIERE 4 SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/672
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",PREMIERE 5 HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/673
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",PREMIERE 5 SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/674
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",PREMIERE 6 SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/675
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",PREMIERE 7 SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/676
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 8 SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",PREMIERE 8 SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/677
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",PREMIERE CLUBES HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/678
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",PREMIERE CLUBES SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/679
+#EXTINF:-1 tvg-id="" tvg-name="SONY HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",SONY HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/702
+#EXTINF:-1 tvg-id="" tvg-name="SONY SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",SONY SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/703
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",SPACE HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/704
+#EXTINF:-1 tvg-id="" tvg-name="SPACE SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",SPACE SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/705
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",SPORTV 2 HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/706
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",SPORTV 2 SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/707
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",SPORTV 3 HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/708
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",SPORTV 3 SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/709
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",SPORTV HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/710
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",SPORTV SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/711
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",STUDIO UNIVERSAL HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/712
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",STUDIO UNIVERSAL SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/713
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",SYFY HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/714
+#EXTINF:-1 tvg-id="" tvg-name="SYFY SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",SYFY SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/715
+#EXTINF:-1 tvg-id="" tvg-name="TBS SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",TBS SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/716
+#EXTINF:-1 tvg-id="" tvg-name="TCM SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",TCM SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/717
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",TELECINE ACTION HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/718
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",TELECINE ACTION SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/719
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",TELECINE CULT HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/720
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",TELECINE CULT SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/721
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",TELECINE FUN HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/722
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",TELECINE FUN SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/723
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",TELECINE PIPOCA HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/724
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",TELECINE PIPOCA SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/725
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",TELECINE PREMIUM HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/726
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",TELECINE PREMIUM SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/727
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",TELECINE TOUCH HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/728
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",TELECINE TOUCH SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/729
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",TNT HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/730
+#EXTINF:-1 tvg-id="" tvg-name="TNT S?RIES SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",TNT S?RIES SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/731
+#EXTINF:-1 tvg-id="" tvg-name="TNT SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",TNT SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/732
+#EXTINF:-1 tvg-id="" tvg-name="TNT SÉRIES HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",TNT SÉRIES HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/733
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",TOONCAST HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/734
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",TOONCAST SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/735
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",UNIVERSAL CHANNEL HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/737
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",UNIVERSAL CHANNEL SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/738
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",VH1 HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/740
+#EXTINF:-1 tvg-id="" tvg-name="VIVA HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",VIVA HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/742
+#EXTINF:-1 tvg-id="" tvg-name="VIVA SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",VIVA SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/743
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",WARNER CHANNEL HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/744
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",WARNER CHANNEL SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/745
+#EXTINF:-1 tvg-id="" tvg-name="WOOHOO HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",WOOHOO HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/746
+#EXTINF:-1 tvg-id="" tvg-name="WOOHOO SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",WOOHOO SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/747
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO HD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",ZOOMOO HD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/748
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO SD ALT" tvg-logo="" group-title="CANAIS - ALTERNATIVOS",ZOOMOO SD ALT
+http://topclientehd.ddns.net:8080/Vagner/Vagner/749
