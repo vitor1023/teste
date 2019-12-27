@@ -1,537 +1,101 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="http://lb1.iptv.movie/logos/ae.jpg" group-title="Canais: Filme e Série",A&E HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1521
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD+" tvg-logo="http://lb1.iptv.movie/logos/ae.jpg" group-title="Canais: Filme e Série",A&E HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/375
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="http://lb1.iptv.movie/logos/amc.jpg" group-title="Canais: Filme e Série",AMC HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1498
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD+" tvg-logo="http://lb1.iptv.movie/logos/amc.jpg" group-title="Canais: Filme e Série",AMC HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/373
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda (24H)" tvg-logo="http://lb1.iptv.movie/logos/afazenda.jpg" group-title="Canais: 24 Horas",A Fazenda (24H)
-http://canais.servidor.tv:8080/Thiagodono/t1234/2717
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="http://lb1.iptv.movie/logos/animalplanet.png" group-title="Canais: Documentário",Animal Planet HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1497
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD+" tvg-logo="http://lb1.iptv.movie/logos/animalplanet.png" group-title="Canais: Documentário",Animal Planet HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/371
-#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 HD+" tvg-logo="http://lb1.iptv.movie/logos/arte1.jpg" group-title="Canais: Variedade e Música",Arte 1 HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/15
-#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Jackie Chan (24H)" tvg-logo="http://lb1.iptv.movie/logos/jackiechan.jpg" group-title="Canais: 24 Horas",As Aventuras de Jackie Chan (24H)
-http://canais.servidor.tv:8080/Thiagodono/t1234/2326
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="http://lb1.iptv.movie/logos/axn.jpg" group-title="Canais: Filme e Série",AXN HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1496
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD+" tvg-logo="http://lb1.iptv.movie/logos/axn.jpg" group-title="Canais: Filme e Série",AXN HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/369
-#EXTINF:-1 tvg-id="babytv.br" tvg-name="Baby TV SD" tvg-logo="http://lb1.iptv.movie/logos/babytv.png" group-title="Canais: Infantil",Baby TV SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/367
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band HD" tvg-logo="http://lb1.iptv.movie/logos/band.png" group-title="Canais: Abertos",Band HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/489
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band HD+" tvg-logo="http://lb1.iptv.movie/logos/band.png" group-title="Canais: Abertos",Band HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/484
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD" tvg-logo="http://lb1.iptv.movie/logos/bandnews.png" group-title="Canais: Notícia",Band News HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1494
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD+" tvg-logo="http://lb1.iptv.movie/logos/bandnews.png" group-title="Canais: Notícia",Band News HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/363
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD" tvg-logo="http://lb1.iptv.movie/logos/bandsports.png" group-title="Canais: Esporte",Band Sports HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1495
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD+" tvg-logo="http://lb1.iptv.movie/logos/bandsports.png" group-title="Canais: Esporte",Band Sports HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/360
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="http://lb1.iptv.movie/logos/bis.png" group-title="Canais: Variedade e Música",BIS HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1493
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD+" tvg-logo="http://lb1.iptv.movie/logos/bis.png" group-title="Canais: Variedade e Música",BIS HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/358
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja (24H)" tvg-logo="http://lb1.iptv.movie/logos/bobesponja.jpg" group-title="Canais: 24 Horas",Bob Esponja (24H)
-http://canais.servidor.tv:8080/Thiagodono/t1234/2327
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD" tvg-logo="http://lb1.iptv.movie/logos/boomerang.png" group-title="Canais: Infantil",Boomerang HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1492
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD+" tvg-logo="http://lb1.iptv.movie/logos/boomerang.png" group-title="Canais: Infantil",Boomerang HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/355
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil HD" tvg-logo="http://lb1.iptv.movie/logos/canalbrasil.jpg" group-title="Canais: Filme e Série",Canal Brasil HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/353
-#EXTINF:-1 tvg-id="" tvg-name="Canal Rural SD" tvg-logo="http://lb1.iptv.movie/logos/canalrural.png" group-title="Canais: Abertos",Canal Rural SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/351
-#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Cancao Nova SD" tvg-logo="http://lb1.iptv.movie/logos/cancaonova.png" group-title="Canais: Religião",Cancao Nova SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1519
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://lb1.iptv.movie/logos/cartoonnetwork.jpg" group-title="Canais: Infantil",Cartoon Network HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1491
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD+" tvg-logo="http://lb1.iptv.movie/logos/cartoonnetwork.jpg" group-title="Canais: Infantil",Cartoon Network HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/349
-#EXTINF:-1 tvg-id="" tvg-name="Chaves (24H)" tvg-logo="http://iptv.movie:8080/images/lQFO5cPoYfKrACayWItroAi1Wdp_small.jpg" group-title="Canais: 24 Horas",Chaves (24H)
-http://canais.servidor.tv:8080/Thiagodono/t1234/2701
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://lb1.iptv.movie/logos/cinemax.png" group-title="Canais: Filme e Série",Cinemax HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1490
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD+" tvg-logo="http://lb1.iptv.movie/logos/cinemax.png" group-title="Canais: Filme e Série",Cinemax HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/347
-#EXTINF:-1 tvg-id="cnnespanol.us" tvg-name="CNN Espanhol SD" tvg-logo="http://lb1.iptv.movie/logos/CNN.png" group-title="Canais: Notícia",CNN Espanhol SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/345
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN Internacional SD" tvg-logo="http://lb1.iptv.movie/logos/CNN.png" group-title="Canais: Notícia",CNN Internacional SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/344
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="http://lb1.iptv.movie/logos/combate.jpg" group-title="Canais: Esporte",Combate HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1489
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD+" tvg-logo="http://lb1.iptv.movie/logos/combate.jpg" group-title="Canais: Esporte",Combate HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/342
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="http://lb1.iptv.movie/logos/comedycentral.jpg" group-title="Canais: Filme e Série",Comedy Central HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1488
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD+" tvg-logo="http://lb1.iptv.movie/logos/comedycentral.jpg" group-title="Canais: Filme e Série",Comedy Central HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/340
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura SD" tvg-logo="http://lb1.iptv.movie/logos/cultura.png" group-title="Canais: Variedade e Música",Cultura SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/79
-#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! SD" tvg-logo="http://lb1.iptv.movie/logos/curta.png" group-title="Canais: Variedade e Música",Curta! SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/338
-#EXTINF:-1 tvg-id="" tvg-name="DAZN" tvg-logo="http://lb1.iptv.movie/logos/dazn.jpg" group-title="Canais: Esporte",DAZN
-http://canais.servidor.tv:8080/Thiagodono/t1234/2716
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD" tvg-logo="http://lb1.iptv.movie/logos/discoverychannel.png" group-title="Canais: Documentário",Discovery Channel HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1487
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD+" tvg-logo="http://lb1.iptv.movie/logos/discoverychannel.png" group-title="Canais: Documentário",Discovery Channel HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/337
-#EXTINF:-1 tvg-id="discoverycivilization.br" tvg-name="Discovery Civilization HD" tvg-logo="http://lb1.iptv.movie/logos/discoverycivilization.png" group-title="Canais: Documentário",Discovery Civilization HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1484
-#EXTINF:-1 tvg-id="discoverycivilization.br" tvg-name="Discovery Civilization HD+" tvg-logo="http://lb1.iptv.movie/logos/discoverycivilization.png" group-title="Canais: Documentário",Discovery Civilization HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/335
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health HD" tvg-logo="http://lb1.iptv.movie/logos/discoveryhomehealth.jpg" group-title="Canais: Variedade e Música",Discovery Home & Health HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1518
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health HD+" tvg-logo="http://lb1.iptv.movie/logos/discoveryhomehealth.jpg" group-title="Canais: Variedade e Música",Discovery Home & Health HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/334
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="http://lb1.iptv.movie/logos/discoverykids.jpg" group-title="Canais: Infantil",Discovery Kids HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1483
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD+" tvg-logo="http://lb1.iptv.movie/logos/discoverykids.jpg" group-title="Canais: Infantil",Discovery Kids HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/332
-#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD" tvg-logo="http://lb1.iptv.movie/logos/discoveryscience.jpg" group-title="Canais: Documentário",Discovery Science HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1482
-#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD+" tvg-logo="http://lb1.iptv.movie/logos/discoveryscience.jpg" group-title="Canais: Documentário",Discovery Science HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/330
-#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater HD" tvg-logo="http://lb1.iptv.movie/logos/discoverytheater.png" group-title="Canais: Documentário",Discovery Theater HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1486
-#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater HD+" tvg-logo="http://lb1.iptv.movie/logos/discoverytheater.png" group-title="Canais: Documentário",Discovery Theater HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/329
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD" tvg-logo="http://lb1.iptv.movie/logos/discoveryturbo.jpg" group-title="Canais: Documentário",Discovery Turbo HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1481
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD+" tvg-logo="http://lb1.iptv.movie/logos/discoveryturbo.jpg" group-title="Canais: Documentário",Discovery Turbo HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/328
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD" tvg-logo="http://lb1.iptv.movie/logos/discoveryworld.png" group-title="Canais: Documentário",Discovery World HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1485
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD+" tvg-logo="http://lb1.iptv.movie/logos/discoveryworld.png" group-title="Canais: Documentário",Discovery World HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/326
-#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel HD" tvg-logo="http://lb1.iptv.movie/logos/disneychannel.png" group-title="Canais: Infantil",Disney Channel HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1480
-#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel HD+" tvg-logo="http://lb1.iptv.movie/logos/disneychannel.png" group-title="Canais: Infantil",Disney Channel HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/325
-#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Júnior HD" tvg-logo="http://lb1.iptv.movie/logos/disneyjr.png" group-title="Canais: Infantil",Disney Júnior HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1478
-#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Júnior HD+" tvg-logo="http://lb1.iptv.movie/logos/disneyjr.png" group-title="Canais: Infantil",Disney Júnior HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/323
-#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="Disney XD HD" tvg-logo="http://lb1.iptv.movie/logos/disneyxd.png" group-title="Canais: Infantil",Disney XD HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1517
-#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="Disney XD HD+" tvg-logo="http://lb1.iptv.movie/logos/disneyxd.png" group-title="Canais: Infantil",Disney XD HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/683
-#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! HD" tvg-logo="http://lb1.iptv.movie/logos/e.png" group-title="Canais: Variedade e Música",E! HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/318
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="http://lb1.iptv.movie/logos/espn.jpg" group-title="Canais: Esporte",ESPN HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1477
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD+" tvg-logo="http://lb1.iptv.movie/logos/espn.jpg" group-title="Canais: Esporte",ESPN HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/309
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="http://lb1.iptv.movie/logos/espn.jpg" group-title="Canais: Esporte",ESPN 2 HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1476
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD+" tvg-logo="http://lb1.iptv.movie/logos/espn.jpg" group-title="Canais: Esporte",ESPN 2 HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/314
-#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="http://lb1.iptv.movie/logos/espnbrasil.png" group-title="Canais: Esporte",ESPN Brasil HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1475
-#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN Brasil HD+" tvg-logo="http://lb1.iptv.movie/logos/espnbrasil.png" group-title="Canais: Esporte",ESPN Brasil HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/313
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra HD+" tvg-logo="http://lb1.iptv.movie/logos/espnextra.png" group-title="Canais: Esporte",ESPN Extra HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/311
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV SD" tvg-logo="http://lb1.iptv.movie/logos/fishtv.jpg" group-title="Canais: Variedade e Música",Fish TV SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/307
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Netword HD" tvg-logo="http://lb1.iptv.movie/logos/foodnetwork.png" group-title="Canais: Variedade e Música",Food Netword HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1474
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network HD+" tvg-logo="http://lb1.iptv.movie/logos/foodnetwork.png" group-title="Canais: Variedade e Música",Food Network HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/306
-#EXTINF:-1 tvg-id="fox.br" tvg-name="Fox HD" tvg-logo="http://lb1.iptv.movie/logos/fox.png" group-title="Canais: Filme e Série",Fox HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1473
-#EXTINF:-1 tvg-id="fox.br" tvg-name="Fox HD+" tvg-logo="http://lb1.iptv.movie/logos/fox.png" group-title="Canais: Filme e Série",Fox HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/304
-#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Fox Life HD" tvg-logo="http://lb1.iptv.movie/logos/foxlife.png" group-title="Canais: Variedade e Música",Fox Life HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1472
-#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Fox Life HD+" tvg-logo="http://lb1.iptv.movie/logos/foxlife.png" group-title="Canais: Variedade e Música",Fox Life HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/303
-#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="Fox Premium 1 HD" tvg-logo="http://lb1.iptv.movie/logos/foxpremium1.png" group-title="Canais: Filme e Série",Fox Premium 1 HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1505
-#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports HD" tvg-logo="http://lb1.iptv.movie/logos/foxsports.png" group-title="Canais: Esporte",Fox Sports HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1502
-#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports HD+" tvg-logo="http://lb1.iptv.movie/logos/foxsports.png" group-title="Canais: Esporte",Fox Sports HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/298
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD" tvg-logo="http://lb1.iptv.movie/logos/foxsports2.jpg" group-title="Canais: Esporte",Fox Sports 2 HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1501
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD+" tvg-logo="http://lb1.iptv.movie/logos/foxsports2.jpg" group-title="Canais: Esporte",Fox Sports 2 HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/300
-#EXTINF:-1 tvg-id="fox.br" tvg-name="FX HD" tvg-logo="http://lb1.iptv.movie/logos/fx.jpg" group-title="Canais: Filme e Série",FX HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1469
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD+" tvg-logo="http://lb1.iptv.movie/logos/fx.jpg" group-title="Canais: Filme e Série",FX HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/294
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Bahia HD+" tvg-logo="http://lb1.iptv.movie/logos/globotvbahia.jpg" group-title="Canais: Abertos",Globo Bahia HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/2707
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Bahia SD" tvg-logo="http://lb1.iptv.movie/logos/globotvbahia.jpg" group-title="Canais: Abertos",Globo Bahia SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/260
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Brasilia HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo Brasilia HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/291
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Centro America HD+" tvg-logo="" group-title="Canais: Abertos",Globo Centro America HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/2712
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://lb1.iptv.movie/logos/globoeptv.jpg" group-title="Canais: Abertos",Globo EPTV Campinas HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/289
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo EPTV Campinas HD+" tvg-logo="http://lb1.iptv.movie/logos/globoeptv.jpg" group-title="Canais: Abertos",Globo EPTV Campinas HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/2711
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo EPTV Ribeirão Preto HD" tvg-logo="http://lb1.iptv.movie/logos/globoeptv.jpg" group-title="Canais: Abertos",Globo EPTV Ribeirão Preto HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/287
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Ribeirão Preto HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo EPTV Ribeirão Preto HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/2952
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV São Carlos HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo EPTV São Carlos HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/2941
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV São Carlos HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo EPTV São Carlos HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/2940
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Goiânia SD" tvg-logo="http://lb1.iptv.movie/logos/globotvanhanguera.jpg" group-title="Canais: Abertos",Globo Goiânia SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/262
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Manaus HD" tvg-logo="http://lb1.iptv.movie/logos/globoredeamazonica.png" group-title="Canais: Abertos",Globo Manaus HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/19
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Minas HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo Minas HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/279
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Minas HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo Minas HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/2713
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD" tvg-logo="http://lb1.iptv.movie/logos/globonews.png" group-title="Canais: Notícia",Globo News HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1468
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD+" tvg-logo="http://lb1.iptv.movie/logos/globonews.png" group-title="Canais: Notícia",Globo News HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/277
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Nordeste HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo Nordeste HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/275
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Nordeste HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo Nordeste HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/2714
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo NSC Floripa HD+" tvg-logo="" group-title="Canais: Abertos",Globo NSC Floripa HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/2710
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Poa HD" tvg-logo="http://lb1.iptv.movie/logos/globorbs.png" group-title="Canais: Abertos",Globo Poa HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1467
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Poa HD+" tvg-logo="http://lb1.iptv.movie/logos/globorbs.png" group-title="Canais: Abertos",Globo Poa HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/271
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo RJ HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1504
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo RJ HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/268
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RPC Paranaense HD+" tvg-logo="http://lb1.iptv.movie/logos/globorpc.png" group-title="Canais: Abertos",Globo RPC Paranaense HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/2709
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RPC SD" tvg-logo="http://lb1.iptv.movie/logos/globorpc.png" group-title="Canais: Abertos",Globo RPC SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/266
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo S.J Rio Preto HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo S.J Rio Preto HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/2945
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo S.J Rio Preto HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo S.J Rio Preto HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/2944
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo São Paulo HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo São Paulo HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1466
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo São Paulo HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo São Paulo HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/265
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Sergipe HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo Sergipe HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/250
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV Anhanguera HD+" tvg-logo="" group-title="Canais: Abertos",Globo TV Anhanguera HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/2708
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV DIÁRIO HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV DIÁRIO HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/2947
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV DIÁRIO HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV DIÁRIO HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/2946
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Fronteira HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV Fronteira HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/2943
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Fronteira HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV Fronteira HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/2942
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV Liberal HD+" tvg-logo="" group-title="Canais: Abertos",Globo TV Liberal HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/2706
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV Mirante HD+" tvg-logo="" group-title="Canais: Abertos",Globo TV Mirante HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/2705
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV Morena HD+" tvg-logo="" group-title="Canais: Abertos",Globo TV Morena HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/2704
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TEM Sorocaba HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV TEM Sorocaba HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/2949
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TEM Sorocaba HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV TEM Sorocaba HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/2948
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TRIBUNA HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV TRIBUNA HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/2954
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TRIBUNA HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV TRIBUNA HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/2953
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV VANGUARDA HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV VANGUARDA HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/2951
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV VANGUARDA HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV VANGUARDA HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/2950
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV Verdes Mares HD+" tvg-logo="" group-title="Canais: Abertos",Globo TV Verdes Mares HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/2703
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD" tvg-logo="http://lb1.iptv.movie/logos/gloob.jpg" group-title="Canais: Infantil",Gloob HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1499
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD+" tvg-logo="http://lb1.iptv.movie/logos/gloob.jpg" group-title="Canais: Infantil",Gloob HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/686
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="Gloobinho HD" tvg-logo="http://lb1.iptv.movie/logos/gloobinho.png" group-title="Canais: Infantil",Gloobinho HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/237
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="Gloobinho SD" tvg-logo="http://lb1.iptv.movie/logos/gloobinho.png" group-title="Canais: Infantil",Gloobinho SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1515
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="http://lb1.iptv.movie/logos/gnt.jpg" group-title="Canais: Variedade e Música",GNT HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/235
-#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD" tvg-logo="http://lb1.iptv.movie/logos/h2.png" group-title="Canais: Documentário",H2 HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1465
-#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD+" tvg-logo="http://lb1.iptv.movie/logos/h2.png" group-title="Canais: Documentário",H2 HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/233
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="http://lb1.iptv.movie/logos/hbo.png" group-title="Canais: Filme e Série",HBO HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1463
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD+" tvg-logo="http://lb1.iptv.movie/logos/hbo.png" group-title="Canais: Filme e Série",HBO HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/227
-#EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2 HD" tvg-logo="http://lb1.iptv.movie/logos/hbo2.png" group-title="Canais: Filme e Série",HBO 2 HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1460
-#EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2 HD+" tvg-logo="http://lb1.iptv.movie/logos/hbo2.png" group-title="Canais: Filme e Série",HBO 2 HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/231
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD" tvg-logo="http://lb1.iptv.movie/logos/hbofamily.png" group-title="Canais: Filme e Série",HBO Family HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1464
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD+" tvg-logo="http://lb1.iptv.movie/logos/hbofamily.png" group-title="Canais: Filme e Série",HBO Family HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/229
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD" tvg-logo="http://lb1.iptv.movie/logos/hboplus.png" group-title="Canais: Filme e Série",HBO Plus HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1462
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD+" tvg-logo="http://lb1.iptv.movie/logos/hboplus.png" group-title="Canais: Filme e Série",HBO Plus HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/226
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO Signature HD" tvg-logo="http://lb1.iptv.movie/logos/hbosignature.png" group-title="Canais: Filme e Série",HBO Signature HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1461
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO Signature HD+" tvg-logo="http://lb1.iptv.movie/logos/hbosignature.png" group-title="Canais: Filme e Série",HBO Signature HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/224
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel HD" tvg-logo="http://lb1.iptv.movie/logos/thehistorychannel.png" group-title="Canais: Documentário",History Channel HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1459
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel HD+" tvg-logo="http://lb1.iptv.movie/logos/thehistorychannel.png" group-title="Canais: Documentário",History Channel HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/95
-#EXTINF:-1 tvg-id="" tvg-name="Hit TV HD" tvg-logo="http://lb1.iptv.movie/logos/hittv.jpg" group-title="Canais: Variedade e Música",Hit TV HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/221
-#EXTINF:-1 tvg-id="idealtv.br" tvg-name="Ideal TV SD" tvg-logo="http://lb1.iptv.movie/logos/idealtv.png" group-title="Canais: Abertos",Ideal TV SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/219
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigação Discovery HD+" tvg-logo="http://lb1.iptv.movie/logos/investigacaodiscovery.jpg" group-title="Canais: Documentário",Investigação Discovery HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/218
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigacao Discovery SD" tvg-logo="http://lb1.iptv.movie/logos/investigacaodiscovery.jpg" group-title="Canais: Documentário",Investigacao Discovery SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1514
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD" tvg-logo="http://lb1.iptv.movie/logos/lifetime.png" group-title="Canais: Filme e Série",Lifetime HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1458
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD+" tvg-logo="http://lb1.iptv.movie/logos/lifetime.png" group-title="Canais: Filme e Série",Lifetime HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/216
-#EXTINF:-1 tvg-id="" tvg-name="Luluzinha (24H)" tvg-logo="http://lb1.iptv.movie/logos/luluzinha.jpg" group-title="Canais: 24 Horas",Luluzinha (24H)
-http://canais.servidor.tv:8080/Thiagodono/t1234/2609
-#EXTINF:-1 tvg-id="MAIS GLOBOSAT" tvg-name="Mais Globosat HD" tvg-logo="http://lb1.iptv.movie/logos/maisglobosat.png" group-title="Canais: Variedade e Música",Mais Globosat HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/213
-#EXTINF:-1 tvg-id="maxbrasil.br" tvg-name="Max HD" tvg-logo="http://lb1.iptv.movie/logos/max.png" group-title="Canais: Filme e Série",Max HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1457
-#EXTINF:-1 tvg-id="maxbrasil.br" tvg-name="Max HD+" tvg-logo="http://lb1.iptv.movie/logos/max.png" group-title="Canais: Filme e Série",Max HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/211
-#EXTINF:-1 tvg-id="maxprimebrasil.br" tvg-name="Max Prime HD" tvg-logo="http://lb1.iptv.movie/logos/maxprime.jpg" group-title="Canais: Filme e Série",Max Prime HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1456
-#EXTINF:-1 tvg-id="maxprimebrasil.br" tvg-name="Max Prime HD+" tvg-logo="http://lb1.iptv.movie/logos/maxprime.jpg" group-title="Canais: Filme e Série",Max Prime HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/209
-#EXTINF:-1 tvg-id="maxup.br" tvg-name="Max UP HD" tvg-logo="http://lb1.iptv.movie/logos/maxup.png" group-title="Canais: Filme e Série",Max UP HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1455
-#EXTINF:-1 tvg-id="maxup.br" tvg-name="Max UP HD+" tvg-logo="http://lb1.iptv.movie/logos/maxup.png" group-title="Canais: Filme e Série",Max UP HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/207
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD" tvg-logo="http://lb1.iptv.movie/logos/megapix.png" group-title="Canais: Filme e Série",Megapix HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1454
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD+" tvg-logo="http://lb1.iptv.movie/logos/megapix.png" group-title="Canais: Filme e Série",Megapix HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/204
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="http://lb1.iptv.movie/logos/mtv.jpg" group-title="Canais: Variedade e Música",MTV HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1453
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD+" tvg-logo="http://lb1.iptv.movie/logos/mtv.jpg" group-title="Canais: Variedade e Música",MTV HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/202
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD" tvg-logo="http://lb1.iptv.movie/logos/multishow.png" group-title="Canais: Variedade e Música",Multishow HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1452
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD+" tvg-logo="http://lb1.iptv.movie/logos/multishow.png" group-title="Canais: Variedade e Música",Multishow HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/199
-#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="Nat Geo Kids HD" tvg-logo="http://lb1.iptv.movie/logos/natgeokids.png" group-title="Canais: Infantil",Nat Geo Kids HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1451
-#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="Nat Geo Kids HD+" tvg-logo="http://lb1.iptv.movie/logos/natgeokids.png" group-title="Canais: Infantil",Nat Geo Kids HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/195
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="Nat Geo Wild HD" tvg-logo="http://lb1.iptv.movie/logos/natgeowild.png" group-title="Canais: Documentário",Nat Geo Wild HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1450
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="Nat Geo Wild HD+" tvg-logo="http://lb1.iptv.movie/logos/natgeowild.png" group-title="Canais: Documentário",Nat Geo Wild HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/193
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic HD+" tvg-logo="http://lb1.iptv.movie/logos/nationalgeographic.jpg" group-title="Canais: Documentário",National Geographic HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/196
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick JR HD" tvg-logo="http://lb1.iptv.movie/logos/nickjr.png" group-title="Canais: Infantil",Nick JR HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1503
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick JR HD+" tvg-logo="http://lb1.iptv.movie/logos/nickjr.png" group-title="Canais: Infantil",Nick JR HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/187
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon HD" tvg-logo="http://lb1.iptv.movie/logos/nick.jpg" group-title="Canais: Infantil",Nickelodeon HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1449
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon HD+" tvg-logo="http://lb1.iptv.movie/logos/nick.jpg" group-title="Canais: Infantil",Nickelodeon HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/188
-#EXTINF:-1 tvg-id="novotempo.br" tvg-name="Novo Tempo SD" tvg-logo="http://lb1.iptv.movie/logos/novotempo.jpg" group-title="Canais: Religião",Novo Tempo SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/184
-#EXTINF:-1 tvg-id="" tvg-name="O Pequeno Urso (24H)" tvg-logo="http://lb1.iptv.movie/logos/opequenourso.jpg" group-title="Canais: 24 Horas",O Pequeno Urso (24H)
-http://canais.servidor.tv:8080/Thiagodono/t1234/2607
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="http://lb1.iptv.movie/logos/off.png" group-title="Canais: Variedade e Música",OFF HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/183
-#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons (24H)" tvg-logo="http://lb1.iptv.movie/logos/ossimpsons.jpg" group-title="Canais: 24 Horas",Os Simpsons (24H)
-http://canais.servidor.tv:8080/Thiagodono/t1234/2328
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD" tvg-logo="http://lb1.iptv.movie/logos/paramount.png" group-title="Canais: Filme e Série",Paramount Channel HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1448
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD+" tvg-logo="http://lb1.iptv.movie/logos/paramount.png" group-title="Canais: Filme e Série",Paramount Channel HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/181
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig (24H)" tvg-logo="http://lb1.iptv.movie/logos/peppapig.jpg" group-title="Canais: 24 Horas",Peppa Pig (24H)
-http://canais.servidor.tv:8080/Thiagodono/t1234/2329
-#EXTINF:-1 tvg-id="" tvg-name="Pica-Pau (24H)" tvg-logo="http://lb1.iptv.movie/logos/picapau.jpg" group-title="Canais: 24 Horas",Pica-Pau (24H)
-http://canais.servidor.tv:8080/Thiagodono/t1234/2325
-#EXTINF:-1 tvg-id="playtv.br" tvg-name="Play TV SD" tvg-logo="http://lb1.iptv.movie/logos/playtv.png" group-title="Canais: Variedade e Música",Play TV SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/179
-#EXTINF:-1 tvg-id="philos.br" tvg-name="Polishop TV SD" tvg-logo="http://lb1.iptv.movie/logos/polishoptv.png" group-title="Canais: Variedade e Música",Polishop TV SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/178
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 2 HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1511
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD+" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 2 HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/172
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 3 HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1510
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD+" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 3 HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/170
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 4 HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1509
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD+" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 4 HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/168
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 5 HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1508
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD+" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 5 HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/166
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 6 HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1507
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD+" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 6 HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/164
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 7 HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1506
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD+" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 7 HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/162
-#EXTINF:-1 tvg-id="premiere8.br" tvg-name="Premiere 8 SD" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 8 SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/160
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD" tvg-logo="http://canais.servidor.tv:8080/images/naW7ToJkl7nQQtwiZM9Sf0wKrxPrLeVa.jpg" group-title="Canais: Esporte",Premiere Clubes HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1447
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD+" tvg-logo="http://canais.servidor.tv:8080/images/FVOQsOCLYJSd5iqMj8vbolVmWoLzHs3J.jpg" group-title="Canais: Esporte",Premiere Clubes HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/159
-#EXTINF:-1 tvg-id="primeboxbrasil.br" tvg-name="Prime Box Brasil SD" tvg-logo="http://lb1.iptv.movie/logos/primeboxbrasil.png" group-title="Canais: Filme e Série",Prime Box Brasil SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/157
-#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="Rá Tim Bum HD" tvg-logo="http://lb1.iptv.movie/logos/tvratimbum.png" group-title="Canais: Infantil",Rá Tim Bum HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/72
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="Record HD+" tvg-logo="http://lb1.iptv.movie/logos/record.png" group-title="Canais: Abertos",Record HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/148
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News HD" tvg-logo="http://lb1.iptv.movie/logos/recordnews.png" group-title="Canais: Notícia",Record News HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1513
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News HD+" tvg-logo="http://lb1.iptv.movie/logos/recordnews.png" group-title="Canais: Notícia",Record News HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/405
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="Record SP HD" tvg-logo="http://lb1.iptv.movie/logos/record.png" group-title="Canais: Abertos",Record SP HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/403
-#EXTINF:-1 tvg-id="redebrasil.br" tvg-name="Rede Brasil SD" tvg-logo="http://lb1.iptv.movie/logos/redebrasil.jpg" group-title="Canais: Abertos",Rede Brasil SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/137
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede TV HD" tvg-logo="http://lb1.iptv.movie/logos/redetv.png" group-title="Canais: Abertos",Rede TV HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/136
-#EXTINF:-1 tvg-id="redevida.br" tvg-name="Rede Vida SD" tvg-logo="http://lb1.iptv.movie/logos/redevida.jpg" group-title="Canais: Religião",Rede Vida SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/134
-#EXTINF:-1 tvg-id="rit.br" tvg-name="RIT TV SD" tvg-logo="http://lb1.iptv.movie/logos/rittv.png" group-title="Canais: Religião",RIT TV SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/133
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD" tvg-logo="http://lb1.iptv.movie/logos/sbt.png" group-title="Canais: Abertos",SBT HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1512
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD+" tvg-logo="http://lb1.iptv.movie/logos/sbt.png" group-title="Canais: Abertos",SBT HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/402
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony HD" tvg-logo="http://lb1.iptv.movie/logos/sony.png" group-title="Canais: Filme e Série",Sony HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1446
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony HD+" tvg-logo="http://lb1.iptv.movie/logos/sony.png" group-title="Canais: Filme e Série",Sony HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/127
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD" tvg-logo="http://lb1.iptv.movie/logos/space.png" group-title="Canais: Filme e Série",Space HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1445
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD+" tvg-logo="http://lb1.iptv.movie/logos/space.png" group-title="Canais: Filme e Série",Space HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/125
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="http://lb1.iptv.movie/logos/sportv.png" group-title="Canais: Esporte",SporTV HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1444
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD+" tvg-logo="http://lb1.iptv.movie/logos/sportv.png" group-title="Canais: Esporte",SporTV HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/119
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="http://lb1.iptv.movie/logos/sportv2.jpg" group-title="Canais: Esporte",SporTV 2 HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1443
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD+" tvg-logo="http://lb1.iptv.movie/logos/sportv2.jpg" group-title="Canais: Esporte",SporTV 2 HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/123
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="http://lb1.iptv.movie/logos/sportv3.png" group-title="Canais: Esporte",SporTV 3 HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1442
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD+" tvg-logo="http://lb1.iptv.movie/logos/sportv3.png" group-title="Canais: Esporte",SporTV 3 HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/121
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="http://lb1.iptv.movie/logos/studiouniversal.png" group-title="Canais: Filme e Série",Studio Universal HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1441
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal HD+" tvg-logo="http://lb1.iptv.movie/logos/studiouniversal.png" group-title="Canais: Filme e Série",Studio Universal HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/117
-#EXTINF:-1 tvg-id="" tvg-name="Super Choque (24H)" tvg-logo="http://lb1.iptv.movie/logos/superchoque.jpg" group-title="Canais: 24 Horas",Super Choque (24H)
-http://canais.servidor.tv:8080/Thiagodono/t1234/2679
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy HD" tvg-logo="http://lb1.iptv.movie/logos/syfy.png" group-title="Canais: Filme e Série",Syfy HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1440
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy HD+" tvg-logo="http://lb1.iptv.movie/logos/syfy.png" group-title="Canais: Filme e Série",Syfy HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/115
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="http://lb1.iptv.movie/logos/tbs.png" group-title="Canais: Filme e Série",TBS HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/113
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="http://lb1.iptv.movie/logos/tcm.png" group-title="Canais: Filme e Série",TCM HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/99
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action HD" tvg-logo="http://lb1.iptv.movie/logos/telecineaction.png" group-title="Canais: Filme e Série",Telecine Action HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1438
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action HD+" tvg-logo="http://lb1.iptv.movie/logos/telecineaction.png" group-title="Canais: Filme e Série",Telecine Action HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/111
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult HD" tvg-logo="http://lb1.iptv.movie/logos/telecinecult.jpg" group-title="Canais: Filme e Série",Telecine Cult HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1437
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult HD+" tvg-logo="http://lb1.iptv.movie/logos/telecinecult.jpg" group-title="Canais: Filme e Série",Telecine Cult HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/109
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun HD" tvg-logo="http://lb1.iptv.movie/logos/telecinefun.png" group-title="Canais: Filme e Série",Telecine Fun HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1436
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun HD+" tvg-logo="http://lb1.iptv.movie/logos/telecinefun.png" group-title="Canais: Filme e Série",Telecine Fun HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/107
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://lb1.iptv.movie/logos/telecinepipoca.png" group-title="Canais: Filme e Série",Telecine Pipoca HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1435
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca HD+" tvg-logo="http://lb1.iptv.movie/logos/telecinepipoca.png" group-title="Canais: Filme e Série",Telecine Pipoca HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/105
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium HD" tvg-logo="http://lb1.iptv.movie/logos/telecinepremium.png" group-title="Canais: Filme e Série",Telecine Premium HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1434
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium HD+" tvg-logo="http://lb1.iptv.movie/logos/telecinepremium.png" group-title="Canais: Filme e Série",Telecine Premium HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/103
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch HD" tvg-logo="http://lb1.iptv.movie/logos/telecinetouch.png" group-title="Canais: Filme e Série",Telecine Touch HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1439
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch HD+" tvg-logo="http://lb1.iptv.movie/logos/telecinetouch.png" group-title="Canais: Filme e Série",Telecine Touch HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/101
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="http://lb1.iptv.movie/logos/tlc.png" group-title="Canais: Variedade e Música",TLC HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/94
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="http://lb1.iptv.movie/logos/tnt.png" group-title="Canais: Filme e Série",TNT HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1433
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD+" tvg-logo="http://lb1.iptv.movie/logos/tnt.png" group-title="Canais: Filme e Série",TNT HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/92
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series HD" tvg-logo="http://lb1.iptv.movie/logos/tntseries.png" group-title="Canais: Filme e Série",TNT Series HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1432
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Séries HD+" tvg-logo="http://lb1.iptv.movie/logos/tntseries.png" group-title="Canais: Filme e Série",TNT Séries HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/90
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris (24H)" tvg-logo="http://lb1.iptv.movie/logos/todomundoodeiaochris.jpg" group-title="Canais: 24 Horas",Todo Mundo Odeia o Chris (24H)
-http://canais.servidor.tv:8080/Thiagodono/t1234/2702
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="Tru TV SD" tvg-logo="http://lb1.iptv.movie/logos/trutv.png" group-title="Canais: Variedade e Música",Tru TV SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/85
-#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV Aparecida SD" tvg-logo="http://lb1.iptv.movie/logos/aparecida.jpg" group-title="Canais: Religião",TV Aparecida SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/84
-#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV Brasil SD" tvg-logo="http://lb1.iptv.movie/logos/tvbrasil.jpg" group-title="Canais: Abertos",TV Brasil SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/83
-#EXTINF:-1 tvg-id="tvcamara.br" tvg-name="TV Câmara SD" tvg-logo="http://lb1.iptv.movie/logos/tvcamara.png" group-title="Canais: Abertos",TV Câmara SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/82
-#EXTINF:-1 tvg-id="" tvg-name="TV Climatempo SD" tvg-logo="http://lb1.iptv.movie/logos/tvclimatempo.jpg" group-title="Canais: Notícia",TV Climatempo SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/80
-#EXTINF:-1 tvg-id="tvescola.br" tvg-name="TV Escola HD+" tvg-logo="http://lb1.iptv.movie/logos/tvescola.jpg" group-title="Canais: Variedade e Música",TV Escola HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/77
-#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV Gazeta HD" tvg-logo="http://lb1.iptv.movie/logos/tvgazeta.jpg" group-title="Canais: Abertos",TV Gazeta HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/75
-#EXTINF:-1 tvg-id="tvjustica.br" tvg-name="TV Justiça SD" tvg-logo="http://lb1.iptv.movie/logos/tvjustica.jpg" group-title="Canais: Abertos",TV Justiça SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/73
-#EXTINF:-1 tvg-id="tvsenado.br" tvg-name="TV Senado SD" tvg-logo="http://lb1.iptv.movie/logos/tvsenado.png" group-title="Canais: Abertos",TV Senado SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/70
-#EXTINF:-1 tvg-id="tv5monde.us" tvg-name="TV5 SD" tvg-logo="http://lb1.iptv.movie/logos/tv5.png" group-title="Canais: Variedade e Música",TV5 SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/69
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Universal Channel HD" tvg-logo="http://lb1.iptv.movie/logos/universalchannel.png" group-title="Canais: Filme e Série",Universal Channel HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1431
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Universal Channel HD+" tvg-logo="http://lb1.iptv.movie/logos/universalchannel.png" group-title="Canais: Filme e Série",Universal Channel HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/67
-#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1 HD" tvg-logo="http://lb1.iptv.movie/logos/vh1.png" group-title="Canais: Variedade e Música",VH1 HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/65
-#EXTINF:-1 tvg-id="vh1megahits.br" tvg-name="VH1 Mega Hits SD" tvg-logo="http://lb1.iptv.movie/logos/vh1.png" group-title="Canais: Variedade e Música",VH1 Mega Hits SD
-http://canais.servidor.tv:8080/Thiagodono/t1234/64
-#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD" tvg-logo="http://lb1.iptv.movie/logos/viva.jpg" group-title="Canais: Variedade e Música",Viva HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/2680
-#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD+" tvg-logo="http://lb1.iptv.movie/logos/viva.jpg" group-title="Canais: Variedade e Música",Viva HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/10
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel HD" tvg-logo="http://lb1.iptv.movie/logos/warnerchannel.png" group-title="Canais: Filme e Série",Warner Channel HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/1430
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel HD+" tvg-logo="http://lb1.iptv.movie/logos/warnerchannel.png" group-title="Canais: Filme e Série",Warner Channel HD+
-http://canais.servidor.tv:8080/Thiagodono/t1234/61
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WooHoo HD" tvg-logo="http://lb1.iptv.movie/logos/woohoo.jpg" group-title="Canais: Variedade e Música",WooHoo HD
-http://canais.servidor.tv:8080/Thiagodono/t1234/59
+#EXTINF:-1 group-title="Variedades e Musicas",WENDEL TECK A&E
+http://list.deeplist.nl/live/jcantel01/cantel123/1120.m3u8
+#EXTINF:-1 group-title="Variedades e Musicas",WENDEL TECK A&E FULL HD
+http://list.deeplist.nl/live/jcantel01/cantel123/52645.m3u8
+#EXTINF:-1 group-title="Variedades e Musicas",WENDEL TECK A&E HD
+http://list.deeplist.nl/live/jcantel01/cantel123/5078.m3u8
+#EXTINF:-1 group-title="Filmes e Series",WENDEL TECK AMC
+http://list.deeplist.nl/live/jcantel01/cantel123/9609.m3u8
+#EXTINF:-1 group-title="Filmes e Series",WENDEL TECK AMC FULL HD
+http://list.deeplist.nl/live/jcantel01/cantel123/52646.m3u8
+#EXTINF:-1 group-title="Filmes e Series",WENDEL TECK AMC HD
+http://list.deeplist.nl/live/jcantel01/cantel123/15406.m3u8
+#EXTINF:-1 group-title="Documentarios",WENDEL TECK ANIMAL PLANET
+http://list.deeplist.nl/live/jcantel01/cantel123/1719.m3u8
+#EXTINF:-1 group-title="Documentarios",WENDEL TECK ANIMAL PLANET HD
+http://list.deeplist.nl/live/jcantel01/cantel123/52581.m3u8
+#EXTINF:-1 group-title="Religioso",WENDEL TECK APARECIDA
+http://list.deeplist.nl/live/jcantel01/cantel123/916.m3u8
+#EXTINF:-1 group-title="Religioso",WENDEL TECK APARECIDA HD
+http://list.deeplist.nl/live/jcantel01/cantel123/20831.m3u8
+#EXTINF:-1 group-title="Variedades e Musicas",WENDEL TECK ARTE 1
+http://list.deeplist.nl/live/jcantel01/cantel123/52237.m3u8
+#EXTINF:-1 group-title="Filmes e Series",WENDEL TECK AXN
+http://list.deeplist.nl/live/jcantel01/cantel123/1712.m3u8
+#EXTINF:-1 group-title="Filmes e Series",WENDEL TECK AXN HD
+http://list.deeplist.nl/live/jcantel01/cantel123/1114.m3u8
+#EXTINF:-1 group-title="Infantil",WENDEL TECK BABY TV
+http://list.deeplist.nl/live/jcantel01/cantel123/52235.m3u8
+#EXTINF:-1 group-title="Noticias",WENDEL TECK BAND NEWS
+http://list.deeplist.nl/live/jcantel01/cantel123/1107.m3u8
+#EXTINF:-1 group-title="Noticias",WENDEL TECK BAND NEWS FULL HD
+http://list.deeplist.nl/live/jcantel01/cantel123/17951.m3u8
+#EXTINF:-1 group-title="Canais Abertos",WENDEL TECK BAND SP
+http://list.deeplist.nl/live/jcantel01/cantel123/1713.m3u8
+#EXTINF:-1 group-title="Canais Abertos",WENDEL TECK BAND SP HD
+http://list.deeplist.nl/live/jcantel01/cantel123/52595.m3u8
+#EXTINF:-1 group-title="Esportes",WENDEL TECK BAND SPORTS
+http://list.deeplist.nl/live/jcantel01/cantel123/1106.m3u8
+#EXTINF:-1 group-title="Esportes",WENDEL TECK BAND SPORTS FULL HD
+http://list.deeplist.nl/live/jcantel01/cantel123/52609.m3u8
+#EXTINF:-1 group-title="Esportes",WENDEL TECK BAND SPORTS HD
+http://list.deeplist.nl/live/jcantel01/cantel123/2407.m3u8
+#EXTINF:-1 group-title="Variedades e Musicas",WENDEL TECK BIS FULL HD
+http://list.deeplist.nl/live/jcantel01/cantel123/52647.m3u8
+#EXTINF:-1 group-title="Variedades e Musicas",WENDEL TECK BIS HD
+http://list.deeplist.nl/live/jcantel01/cantel123/1104.m3u8
+#EXTINF:-1 group-title="Variedades e Musicas",WENDEL TECK BIS SD 1
+http://list.deeplist.nl/live/jcantel01/cantel123/38740.m3u8
+#EXTINF:-1 group-title="Variedades e Musicas",WENDEL TECK BIS SD 2
+http://list.deeplist.nl/live/jcantel01/cantel123/38739.m3u8
+#EXTINF:-1 group-title="Variedades e Musicas",WENDEL TECK BIS SD 3
+http://list.deeplist.nl/live/jcantel01/cantel123/38738.m3u8
+#EXTINF:-1 group-title="Variedades e Musicas",WENDEL TECK BIS SD+
+http://list.deeplist.nl/live/jcantel01/cantel123/24187.m3u8
+#EXTINF:-1 group-title="Infantil",WENDEL TECK BOOMERANG
+http://list.deeplist.nl/live/jcantel01/cantel123/1102.m3u8
+#EXTINF:-1 group-title="Infantil",WENDEL TECK BOOMERANG HD
+http://list.deeplist.nl/live/jcantel01/cantel123/20801.m3u8
+#EXTINF:-1 group-title="Filmes e Series",WENDEL TECK CANAL BRASIL HD
+http://list.deeplist.nl/live/jcantel01/cantel123/5079.m3u8
+#EXTINF:-1 group-title="Filmes e Series",WENDEL TECK CANAL BRASIL SD 1
+http://list.deeplist.nl/live/jcantel01/cantel123/38743.m3u8
+#EXTINF:-1 group-title="Filmes e Series",WENDEL TECK  CANAL BRASIL SD 2
+http://list.deeplist.nl/live/jcantel01/cantel123/38742.m3u8
+#EXTINF:-1 group-title="Filmes e Series",WENDEL TECK CANAL BRASIL SD 3
+http://list.deeplist.nl/live/jcantel01/cantel123/38741.m3u8
+#EXTINF:-1 group-title="Filmes e Series",WENDEL TECK CANAL BRASIL SD+
+http://list.deeplist.nl/live/jcantel01/cantel123/24745.m3u8
+#EXTINF:-1 group-title="Variedades e Musicas",WENDEL TECK CANAL DO BOI
+http://list.deeplist.nl/live/jcantel01/cantel123/2382.m3u8
+#EXTINF:-1 group-title="Canais Abertos",WENDEL TECK CANAL RURAL
+http://list.deeplist.nl/live/jcantel01/cantel123/52677.m3u8
+#EXTINF:-1 group-title="Religioso",WENDEL TECK CANCAO NOVA
+http://list.deeplist.nl/live/jcantel01/cantel123/1220.m3u8
+#EXTINF:-1 group-title="Infantil",WENDEL TECK CARTOON NETWORK
+http://list.deeplist.nl/live/jcantel01/cantel123/1095.m3u8
+#EXTINF:-1 group-title="Infantil",WENDEL TECK CARTOON NETWORK HD
+http://list.deeplist.nl/live/jcantel01/cantel123/43516.m3u8
+#EXTINF:-1 group-title="Filmes e Series",WENDEL TECK CINEMAX
+http://list.deeplist.nl/live/jcantel01/cantel123/2483.m3u8
+#EXTINF:-1 group-title="Filmes e Series",WENDEL TECK CINEMAX FULL HD
+http://list.deeplist.nl/live/jcantel01/cantel123/52649.m3u8
+#EXTINF:-1 group-title="Filmes e Series",WENDEL TECK CINEMAX HD
+http://list.deeplist.nl/live/jcantel01/cantel123/5080.m3u8
+#EXTINF:-1 group-title="Esportes",WENDEL TECK COMBATE FULL HD
+http://list.deeplist.nl/live/jcantel01/cantel123/52650.m3u8
+#EXTINF:-1 group-title="Esportes",WENDEL TECK COMBATE HD
+http://list.deeplist.nl/live/jcantel01/cantel123/1088.m3u8
+#EXTINF:-1 group-title="Esportes",WENDEL TECK COMBATE SD 1
+http://list.deeplist.nl/live/jcantel01/cantel123/38746.m3u8
+#EXTINF:-1 group-title="Esportes",WENDEL TECK COMBATE SD 2
+http://list.deeplist.nl/live/jcantel01/cantel123/38745.m3u8
+#EXTINF:-1 group-title="Esportes",WENDEL TECK COMBATE SD 3
+http://list.deeplist.nl/live/jcantel01/cantel123/38744.m3u8
+#EXTINF:-1 group-title="Esportes",WENDEL TECK COMBATE SD+
+http://list.deeplist.nl/live/jcantel01/cantel123/22442.m3u8
+#EXTINF:-1 group-title="Variedades e Musicas",WENDEL TECK COMEDY CENTRAL
+http://list.deeplist.nl/live/jcantel01/cantel123/52240.m3u8
+#EXTINF:-1 group-title="Variedades e Musicas",WENDEL TECK CULTURA
+http://list.deeplist.nl/live/jcantel01/cantel123/52238.m3u8
