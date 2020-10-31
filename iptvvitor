@@ -1,857 +1,97 @@
 #EXTM3U
-#EXTINF:-1,A&E
-http://a.srvbr.me:8880/778654/778654/898
-#EXTINF:-1,A&E HD
-http://a.srvbr.me:8880/778654/778654/4203
-#EXTINF:-1,A&E [PLUS]
-http://a.srvbr.me:8880/778654/778654/4167
-#EXTINF:-1,AMC
-http://a.srvbr.me:8880/778654/778654/5077
-#EXTINF:-1,AMC HD
-http://a.srvbr.me:8880/778654/778654/5076
-#EXTINF:-1,AMC [PLUS]
-http://a.srvbr.me:8880/778654/778654/4644
-#EXTINF:-1,AXN
-http://a.srvbr.me:8880/778654/778654/893
-#EXTINF:-1,AXN HD
-http://a.srvbr.me:8880/778654/778654/892
-#EXTINF:-1,AXN HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4165
-#EXTINF:-1,Animal Planet
-http://a.srvbr.me:8880/778654/778654/897
-#EXTINF:-1,Animal Planet HD
-http://a.srvbr.me:8880/778654/778654/896
-#EXTINF:-1,Animal Planet Full HD
-http://a.srvbr.me:8880/778654/778654/5436
-#EXTINF:-1,Animal Planet [PLUS]
-http://a.srvbr.me:8880/778654/778654/4166
-#EXTINF:-1,Arte 1
-http://a.srvbr.me:8880/778654/778654/894
-#EXTINF:-1,Arte 1 HD
-http://a.srvbr.me:8880/778654/778654/5329
-#EXTINF:-1,Baby TV
-http://a.srvbr.me:8880/778654/778654/5078
-#EXTINF:-1,BIS
-http://a.srvbr.me:8880/778654/778654/886
-#EXTINF:-1,BIS HD
-http://a.srvbr.me:8880/778654/778654/885
-#EXTINF:-1,BIS Full HD
-http://a.srvbr.me:8880/778654/778654/5447
-#EXTINF:-1,BIS HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4162
-#EXTINF:-1,Band
-http://a.srvbr.me:8880/778654/778654/887
-#EXTINF:-1,Band HD
-http://a.srvbr.me:8880/778654/778654/891
-#EXTINF:-1,Band Full HD
-http://a.srvbr.me:8880/778654/778654/5475
-#EXTINF:-1,Band HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4164
-#EXTINF:-1,Band News
-http://a.srvbr.me:8880/778654/778654/890
-#EXTINF:-1,Band News HD
-http://a.srvbr.me:8880/778654/778654/5162
-#EXTINF:-1,Band News Full HD
-http://a.srvbr.me:8880/778654/778654/5435
-#EXTINF:-1,Band News [PLUS]
-http://a.srvbr.me:8880/778654/778654/4163
-#EXTINF:-1,Band Sports
-http://a.srvbr.me:8880/778654/778654/889
-#EXTINF:-1,Band Sports HD
-http://a.srvbr.me:8880/778654/778654/888
-#EXTINF:-1,Band Sports [PLUS]
-http://a.srvbr.me:8880/778654/778654/1831
-#EXTINF:-1,Canal Brasil
-http://a.srvbr.me:8880/778654/778654/883
-#EXTINF:-1,Rede Boa Vontade
-http://a.srvbr.me:8880/778654/778654/5328
-#EXTINF:-1,Boomerang
-http://a.srvbr.me:8880/778654/778654/884
-#EXTINF:-1,Boomerang HD
-http://a.srvbr.me:8880/778654/778654/5327
-#EXTINF:-1,Boomerang Full HD
-http://a.srvbr.me:8880/778654/778654/5434
-#EXTINF:-1,Canção Nova
-http://a.srvbr.me:8880/778654/778654/879
-#EXTINF:-1,Cartoon Network
-http://a.srvbr.me:8880/778654/778654/878
-#EXTINF:-1,Cartoon Network HD
-http://a.srvbr.me:8880/778654/778654/877
-#EXTINF:-1,Cartoon Network [PLUS]
-http://a.srvbr.me:8880/778654/778654/4159
-#EXTINF:-1,Cinemax
-http://a.srvbr.me:8880/778654/778654/876
-#EXTINF:-1,Cinemax HD
-http://a.srvbr.me:8880/778654/778654/1495
-#EXTINF:-1,Cinemax HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/5124
-#EXTINF:-1,Comedy Central
-http://a.srvbr.me:8880/778654/778654/873
-#EXTINF:-1,Comedy Central HD
-http://a.srvbr.me:8880/778654/778654/5326
-#EXTINF:-1,Comedy Central HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1833
-#EXTINF:-1,Combate
-http://a.srvbr.me:8880/778654/778654/875
-#EXTINF:-1,Combate HD
-http://a.srvbr.me:8880/778654/778654/874
-#EXTINF:-1,Combate Full HD
-http://a.srvbr.me:8880/778654/778654/5474
-#EXTINF:-1,Combate HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1832
-#EXTINF:-1,COPA LIBERTADORES HD
-http://a.srvbr.me:8880/778654/778654/11444
-#EXTINF:-1,DAZN HD
-http://a.srvbr.me:8880/778654/778654/11443
-#EXTINF:-1,Curta!
-http://a.srvbr.me:8880/778654/778654/872
-#EXTINF:-1,Curta! HD
-http://a.srvbr.me:8880/778654/778654/5325
-#EXTINF:-1,Discovery Home & Health
-http://a.srvbr.me:8880/778654/778654/868
-#EXTINF:-1,Discovery Home & Health HD
-http://a.srvbr.me:8880/778654/778654/867
-#EXTINF:-1,Discovery Home & Health Full HD
-http://a.srvbr.me:8880/778654/778654/5433
-#EXTINF:-1,Discovery Home & Health [PLUS]
-http://a.srvbr.me:8880/778654/778654/4156
-#EXTINF:-1,Discovery Civilization
-http://a.srvbr.me:8880/778654/778654/869
-#EXTINF:-1,Discovery Civilization HD
-http://a.srvbr.me:8880/778654/778654/5324
-#EXTINF:-1,Discovery Civilization [PLUS]
-http://a.srvbr.me:8880/778654/778654/4157
-#EXTINF:-1,Discovery Channel
-http://a.srvbr.me:8880/778654/778654/871
-#EXTINF:-1,Discovery Channel HD
-http://a.srvbr.me:8880/778654/778654/870
-#EXTINF:-1,Discovery Channel Full HD
-http://a.srvbr.me:8880/778654/778654/5448
-#EXTINF:-1,Discovery Channel HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1834
-#EXTINF:-1,Discovery Kids
-http://a.srvbr.me:8880/778654/778654/866
-#EXTINF:-1,Discovery Kids HD
-http://a.srvbr.me:8880/778654/778654/1494
-#EXTINF:-1,Discovery kids Full HD
-http://a.srvbr.me:8880/778654/778654/5432
-#EXTINF:-1,Discovery Kids HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1835
-#EXTINF:-1,Discovery Science
-http://a.srvbr.me:8880/778654/778654/865
-#EXTINF:-1,Discovery Science HD
-http://a.srvbr.me:8880/778654/778654/5075
-#EXTINF:-1,Discovery Science [PLUS]
-http://a.srvbr.me:8880/778654/778654/4154
-#EXTINF:-1,Discovery Theater
-http://a.srvbr.me:8880/778654/778654/5323
-#EXTINF:-1,Discovery Theater HD
-http://a.srvbr.me:8880/778654/778654/864
-#EXTINF:-1,Discovery Theater HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4153
-#EXTINF:-1,Discovery World
-http://a.srvbr.me:8880/778654/778654/5322
-#EXTINF:-1,Discovery World HD
-http://a.srvbr.me:8880/778654/778654/861
-#EXTINF:-1,Discovery World Full HD
-http://a.srvbr.me:8880/778654/778654/5430
-#EXTINF:-1,Discovery World [PLUS]
-http://a.srvbr.me:8880/778654/778654/4151
-#EXTINF:-1,Disney Channel
-http://a.srvbr.me:8880/778654/778654/860
-#EXTINF:-1,Disney Channel HD
-http://a.srvbr.me:8880/778654/778654/1493
-#EXTINF:-1,Disney Channel Full HD
-http://a.srvbr.me:8880/778654/778654/5446
-#EXTINF:-1,Disney Channel HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4150
-#EXTINF:-1,Disney Junior
-http://a.srvbr.me:8880/778654/778654/859
-#EXTINF:-1,Disney Junior HD
-http://a.srvbr.me:8880/778654/778654/5562
-#EXTINF:-1,Disney XD
-http://a.srvbr.me:8880/778654/778654/858
-#EXTINF:-1,Disney XD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4149
-#EXTINF:-1,Discovery Turbo
-http://a.srvbr.me:8880/778654/778654/863
-#EXTINF:-1,Discovery Turbo HD
-http://a.srvbr.me:8880/778654/778654/862
-#EXTINF:-1,Discovery Turbo Full HD
-http://a.srvbr.me:8880/778654/778654/5431
-#EXTINF:-1,Discovery Turbo HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4152
-#EXTINF:-1,E!
-http://a.srvbr.me:8880/778654/778654/857
-#EXTINF:-1,E! HD
-http://a.srvbr.me:8880/778654/778654/4204
-#EXTINF:-1,EI PLUS SD
-http://a.srvbr.me:8880/778654/778654/11483
-#EXTINF:-1,EI PLUS HD
-http://a.srvbr.me:8880/778654/778654/11484
-#EXTINF:-1,ESPN
-http://a.srvbr.me:8880/778654/778654/4643
-#EXTINF:-1,ESPN HD
-http://a.srvbr.me:8880/778654/778654/848
-#EXTINF:-1,ESPN Full HD
-http://a.srvbr.me:8880/778654/778654/5458
-#EXTINF:-1,ESPN HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1839
-#EXTINF:-1,ESPN +  HD
-http://a.srvbr.me:8880/778654/778654/851
-#EXTINF:-1,ESPN EXTRA HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1837
-#EXTINF:-1,ESPN Brasil
-http://a.srvbr.me:8880/778654/778654/850
-#EXTINF:-1,ESPN Brasil HD
-http://a.srvbr.me:8880/778654/778654/849
-#EXTINF:-1,ESPN Brasil Full HD
-http://a.srvbr.me:8880/778654/778654/5459
-#EXTINF:-1,ESPN Brasil HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1838
-#EXTINF:-1,Espn Extra
-http://a.srvbr.me:8880/778654/778654/5321
-#EXTINF:-1,Espn Extra HD
-http://a.srvbr.me:8880/778654/778654/5320
-#EXTINF:-1,ESPN Extra Full HD
-http://a.srvbr.me:8880/778654/778654/5457
-#EXTINF:-1,Fish TV
-http://a.srvbr.me:8880/778654/778654/846
-#EXTINF:-1,Fish TV HD
-http://a.srvbr.me:8880/778654/778654/5319
-#EXTINF:-1,Food Network
-http://a.srvbr.me:8880/778654/778654/845
-#EXTINF:-1,Food Network HD
-http://a.srvbr.me:8880/778654/778654/1491
-#EXTINF:-1,Food Network [PLUS]
-http://a.srvbr.me:8880/778654/778654/4145
-#EXTINF:-1,FOX
-http://a.srvbr.me:8880/778654/778654/844
-#EXTINF:-1,FOX HD
-http://a.srvbr.me:8880/778654/778654/841
-#EXTINF:-1,Fox Full HD
-http://a.srvbr.me:8880/778654/778654/5473
-#EXTINF:-1,FOX [PLUS]
-http://a.srvbr.me:8880/778654/778654/1842
-#EXTINF:-1,Fox Premium
-http://a.srvbr.me:8880/778654/778654/5318
-#EXTINF:-1,FOX Premium HD
-http://a.srvbr.me:8880/778654/778654/843
-#EXTINF:-1,FOX Premium HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4144
-#EXTINF:-1,Fox Premium 2
-http://a.srvbr.me:8880/778654/778654/5317
-#EXTINF:-1,FOX Premium 2 HD
-http://a.srvbr.me:8880/778654/778654/842
-#EXTINF:-1,Fox Premium 2 Full HD
-http://a.srvbr.me:8880/778654/778654/5429
-#EXTINF:-1,FOX Premium 2 HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4143
-#EXTINF:-1,Fox Life
-http://a.srvbr.me:8880/778654/778654/840
-#EXTINF:-1,FOX Life HD
-http://a.srvbr.me:8880/778654/778654/839
-#EXTINF:-1,Fox Sports
-http://a.srvbr.me:8880/778654/778654/837
-#EXTINF:-1,Fox Sports HD
-http://a.srvbr.me:8880/778654/778654/838
-#EXTINF:-1,Fox Sports Full HD
-http://a.srvbr.me:8880/778654/778654/5418
-#EXTINF:-1,Fox Sports HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1844
-#EXTINF:-1,Fox Sports 2
-http://a.srvbr.me:8880/778654/778654/836
-#EXTINF:-1,FOX Sports 2 HD
-http://a.srvbr.me:8880/778654/778654/835
-#EXTINF:-1,Fox Sports 2 Full HD
-http://a.srvbr.me:8880/778654/778654/5456
-#EXTINF:-1,FOX Sports 2 HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1843
-#EXTINF:-1,Futura
-http://a.srvbr.me:8880/778654/778654/834
-#EXTINF:-1,Futura HD
-http://a.srvbr.me:8880/778654/778654/5316
-#EXTINF:-1,FX
-http://a.srvbr.me:8880/778654/778654/833
-#EXTINF:-1,FX HD
-http://a.srvbr.me:8880/778654/778654/832
-#EXTINF:-1,FX HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1845
-#EXTINF:-1,Gazeta HD
-http://a.srvbr.me:8880/778654/778654/400
-#EXTINF:-1,Globo Brasília
-http://a.srvbr.me:8880/778654/778654/831
-#EXTINF:-1,Globo Brasilia HD
-http://a.srvbr.me:8880/778654/778654/5315
-#EXTINF:-1,Globo TV Centro America
-http://a.srvbr.me:8880/778654/778654/5127
-#EXTINF:-1,Globo EPTV Campinas
-http://a.srvbr.me:8880/778654/778654/5130
-#EXTINF:-1,Globo EPTV Campinas HD
-http://a.srvbr.me:8880/778654/778654/5314
-#EXTINF:-1,Globo EPTV Sao Carlos
-http://a.srvbr.me:8880/778654/778654/5129
-#EXTINF:-1,Globo Ribeirão Preto
-http://a.srvbr.me:8880/778654/778654/5312
-#EXTINF:-1,Globo Ribeirão Preto HD
-http://a.srvbr.me:8880/778654/778654/5313
-#EXTINF:-1,Globo - TV Bahia
-http://a.srvbr.me:8880/778654/778654/5071
-#EXTINF:-1,Globo - TV Bahia HD
-http://a.srvbr.me:8880/778654/778654/5309
-#EXTINF:-1,Globo Minas
-http://a.srvbr.me:8880/778654/778654/830
-#EXTINF:-1,Globo Minas HD
-http://a.srvbr.me:8880/778654/778654/5093
-#EXTINF:-1,Globo Minas Full HD
-http://a.srvbr.me:8880/778654/778654/5472
-#EXTINF:-1,Globo News
-http://a.srvbr.me:8880/778654/778654/826
-#EXTINF:-1,Globo News HD
-http://a.srvbr.me:8880/778654/778654/1498
-#EXTINF:-1,Globo News Full HD
-http://a.srvbr.me:8880/778654/778654/5442
-#EXTINF:-1,Globo News HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1846
-#EXTINF:-1,Globo Nordeste
-http://a.srvbr.me:8880/778654/778654/5067
-#EXTINF:-1,Globo Nordeste HD
-http://a.srvbr.me:8880/778654/778654/5073
-#EXTINF:-1,Globo - RBS TV
-http://a.srvbr.me:8880/778654/778654/764
-#EXTINF:-1,Globo - RBS TV HD
-http://a.srvbr.me:8880/778654/778654/5311
-#EXTINF:-1,Globo RJ
-http://a.srvbr.me:8880/778654/778654/829
-#EXTINF:-1,Globo RJ HD
-http://a.srvbr.me:8880/778654/778654/828
-#EXTINF:-1,Globo RJ Full HD
-http://a.srvbr.me:8880/778654/778654/5471
-#EXTINF:-1,Globo Rede HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1847
-#EXTINF:-1,Globo NSC TV Florianopolis
-http://a.srvbr.me:8880/778654/778654/5421
-#EXTINF:-1,Globo NSC TV Florianopolis HD
-http://a.srvbr.me:8880/778654/778654/5420
-#EXTINF:-1,Globo Curitiba
-http://a.srvbr.me:8880/778654/778654/5128
-#EXTINF:-1,Globo Curitiba HD
-http://a.srvbr.me:8880/778654/778654/5310
-#EXTINF:-1,Globo RPC Curitiba Full HD
-http://a.srvbr.me:8880/778654/778654/5469
-#EXTINF:-1,Globo SP
-http://a.srvbr.me:8880/778654/778654/827
-#EXTINF:-1,Globo SP HD
-http://a.srvbr.me:8880/778654/778654/5095
-#EXTINF:-1,Globo TV Gazeta Vitória
-http://a.srvbr.me:8880/778654/778654/12077
-#EXTINF:-1,Globo TV Gazeta Vitória Full HD
-http://a.srvbr.me:8880/778654/778654/12078
-#EXTINF:-1,Globo TV Gazeta Vitória HD
-http://a.srvbr.me:8880/778654/778654/12079
-#EXTINF:-1,Globo TV Gazeta SUL ES Full HD
-http://a.srvbr.me:8880/778654/778654/12080
-#EXTINF:-1,Globo TV Gazeta ES HD
-http://a.srvbr.me:8880/778654/778654/12081
-#EXTINF:-1,Globo SP Full HD
-http://a.srvbr.me:8880/778654/778654/5470
-#EXTINF:-1,Globo SP HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/5528
-#EXTINF:-1,Globo Anhaguera Goiania
-http://a.srvbr.me:8880/778654/778654/5074
-#EXTINF:-1,Globo Goias - TV Anhanguera HD
-http://a.srvbr.me:8880/778654/778654/5072
-#EXTINF:-1,Globo TV Tribuna Santos
-http://a.srvbr.me:8880/778654/778654/5126
-#EXTINF:-1,TV Vanguarda Sao Jose dos Campos
-http://a.srvbr.me:8880/778654/778654/5125
-#EXTINF:-1,Globo Para (Belem) - TV Liberal
-http://a.srvbr.me:8880/778654/778654/5069
-#EXTINF:-1,Globo TV TEM S.J. Rio Preto
-http://a.srvbr.me:8880/778654/778654/5307
-#EXTINF:-1,Globo TV TEM S.J. Rio Preto HD
-http://a.srvbr.me:8880/778654/778654/5308
-#EXTINF:-1,Globo - TV TEM Bauru
-http://a.srvbr.me:8880/778654/778654/714
-#EXTINF:-1,Globo - TV TEM Sorocaba
-http://a.srvbr.me:8880/778654/778654/713
-#EXTINF:-1,Globo - TV Verdes Mares
-http://a.srvbr.me:8880/778654/778654/5068
-#EXTINF:-1,+Globosat
-http://a.srvbr.me:8880/778654/778654/804
-#EXTINF:-1,+Globosat HD
-http://a.srvbr.me:8880/778654/778654/1488
-#EXTINF:-1,+Globosat HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4135
-#EXTINF:-1,Gloob
-http://a.srvbr.me:8880/778654/778654/825
-#EXTINF:-1,Gloob HD
-http://a.srvbr.me:8880/778654/778654/1490
-#EXTINF:-1,Gloob Full HD
-http://a.srvbr.me:8880/778654/778654/5441
-#EXTINF:-1,Gloob HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1848
-#EXTINF:-1,Gloobinho
-http://a.srvbr.me:8880/778654/778654/5306
-#EXTINF:-1,Gloobinho HD
-http://a.srvbr.me:8880/778654/778654/5305
-#EXTINF:-1,GNT
-http://a.srvbr.me:8880/778654/778654/824
-#EXTINF:-1,GNT HD
-http://a.srvbr.me:8880/778654/778654/823
-#EXTINF:-1,GNT HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4142
-#EXTINF:-1,H2
-http://a.srvbr.me:8880/778654/778654/822
-#EXTINF:-1,H2 HD
-http://a.srvbr.me:8880/778654/778654/821
-#EXTINF:-1,H2 [PLUS]
-http://a.srvbr.me:8880/778654/778654/4141
-#EXTINF:-1,HBO
-http://a.srvbr.me:8880/778654/778654/820
-#EXTINF:-1,HBO HD
-http://a.srvbr.me:8880/778654/778654/816
-#EXTINF:-1,HBO Full HD
-http://a.srvbr.me:8880/778654/778654/5467
-#EXTINF:-1,HBO HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1850
-#EXTINF:-1,HBO 2
-http://a.srvbr.me:8880/778654/778654/810
-#EXTINF:-1,HBO 2 HD
-http://a.srvbr.me:8880/778654/778654/819
-#EXTINF:-1,HBO 2 Full HD
-http://a.srvbr.me:8880/778654/778654/5468
-#EXTINF:-1,HBO 2 HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1849
-#EXTINF:-1,HBO Family
-http://a.srvbr.me:8880/778654/778654/818
-#EXTINF:-1,HBO Family HD
-http://a.srvbr.me:8880/778654/778654/817
-#EXTINF:-1,HBO Family HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4140
-#EXTINF:-1,HBO Plus
-http://a.srvbr.me:8880/778654/778654/815
-#EXTINF:-1,HBO Plus HD
-http://a.srvbr.me:8880/778654/778654/813
-#EXTINF:-1,HBO Plus HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4139
-#EXTINF:-1,HBO Signature
-http://a.srvbr.me:8880/778654/778654/812
-#EXTINF:-1,HBO Signature HD
-http://a.srvbr.me:8880/778654/778654/811
-#EXTINF:-1,HBO Signature HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4138
-#EXTINF:-1,History
-http://a.srvbr.me:8880/778654/778654/726
-#EXTINF:-1,History HD
-http://a.srvbr.me:8880/778654/778654/809
-#EXTINF:-1,History Full HD
-http://a.srvbr.me:8880/778654/778654/5424
-#EXTINF:-1,History HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4137
-#EXTINF:-1,ID
-http://a.srvbr.me:8880/778654/778654/807
-#EXTINF:-1,ID HD
-http://a.srvbr.me:8880/778654/778654/806
-#EXTINF:-1,ID HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4155
-#EXTINF:-1,Lifetime
-http://a.srvbr.me:8880/778654/778654/805
-#EXTINF:-1,Lifetime HD
-http://a.srvbr.me:8880/778654/778654/1489
-#EXTINF:-1,Lifetime [PLUS]
-http://a.srvbr.me:8880/778654/778654/4136
-#EXTINF:-1,HBO MUNDI
-http://a.srvbr.me:8880/778654/778654/803
-#EXTINF:-1,HBO MUNDI HD
-http://a.srvbr.me:8880/778654/778654/1497
-#EXTINF:-1,HBO XTREME
-http://a.srvbr.me:8880/778654/778654/802
-#EXTINF:-1,Sony
-http://a.srvbr.me:8880/778654/778654/881
-#EXTINF:-1,Sony HD
-http://a.srvbr.me:8880/778654/778654/880
-#EXTINF:-1,Sony HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4115
-#EXTINF:-1,HBO Xtreme HD
-http://a.srvbr.me:8880/778654/778654/1487
-#EXTINF:-1,Maxup HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4134
-#EXTINF:-1,MegaPix
-http://a.srvbr.me:8880/778654/778654/799
-#EXTINF:-1,Megapix HD
-http://a.srvbr.me:8880/778654/778654/798
-#EXTINF:-1,Megapix HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1851
-#EXTINF:-1,MTV
-http://a.srvbr.me:8880/778654/778654/797
-#EXTINF:-1,MTV HD
-http://a.srvbr.me:8880/778654/778654/1485
-#EXTINF:-1,MTV HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4133
-#EXTINF:-1,Multishow
-http://a.srvbr.me:8880/778654/778654/796
-#EXTINF:-1,Multishow HD
-http://a.srvbr.me:8880/778654/778654/795
-#EXTINF:-1,Multishow HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4131
-#EXTINF:-1,Music Box Brasil
-http://a.srvbr.me:8880/778654/778654/794
-#EXTINF:-1,Music Box Brasil HD
-http://a.srvbr.me:8880/778654/778654/5304
-#EXTINF:-1,NatGeo Wild
-http://a.srvbr.me:8880/778654/778654/793
-#EXTINF:-1,NatGeo Wild HD
-http://a.srvbr.me:8880/778654/778654/702
-#EXTINF:-1,Nat Geo Wild Full HD
-http://a.srvbr.me:8880/778654/778654/5428
-#EXTINF:-1,Natgeo Kids
-http://a.srvbr.me:8880/778654/778654/5303
-#EXTINF:-1,Natgeo Kids HD
-http://a.srvbr.me:8880/778654/778654/5302
-#EXTINF:-1,National Geographic
-http://a.srvbr.me:8880/778654/778654/792
-#EXTINF:-1,National Geographic HD
-http://a.srvbr.me:8880/778654/778654/791
-#EXTINF:-1,National Geographic [PLUS]
-http://a.srvbr.me:8880/778654/778654/4129
-#EXTINF:-1,NHK
-http://a.srvbr.me:8880/778654/778654/789
-#EXTINF:-1,Nickelodeon
-http://a.srvbr.me:8880/778654/778654/787
-#EXTINF:-1,Nickelodeon HD
-http://a.srvbr.me:8880/778654/778654/1484
-#EXTINF:-1,Nicklodeon Full HD
-http://a.srvbr.me:8880/778654/778654/5426
-#EXTINF:-1,Nickelodeon HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4128
-#EXTINF:-1,Nick Jr.
-http://a.srvbr.me:8880/778654/778654/788
-#EXTINF:-1,Nick Jr. HD
-http://a.srvbr.me:8880/778654/778654/5301
-#EXTINF:-1,Nick JR Full HD
-http://a.srvbr.me:8880/778654/778654/5427
-#EXTINF:-1,OFF
-http://a.srvbr.me:8880/778654/778654/785
-#EXTINF:-1,OFF HD
-http://a.srvbr.me:8880/778654/778654/784
-#EXTINF:-1,OFF HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4125
-#EXTINF:-1,Paramount Channel
-http://a.srvbr.me:8880/778654/778654/783
-#EXTINF:-1,Paramount Channel HD
-http://a.srvbr.me:8880/778654/778654/782
-#EXTINF:-1,Paramount HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4124
-#EXTINF:-1,Premiere Clubes
-http://a.srvbr.me:8880/778654/778654/767
-#EXTINF:-1,Premiere Clubes HD
-http://a.srvbr.me:8880/778654/778654/780
-#EXTINF:-1,Premiere Clubes Full HD
-http://a.srvbr.me:8880/778654/778654/5455
-#EXTINF:-1,Premiere Clubes HD [ALTERNATIVO]
-http://a.srvbr.me:8880/778654/778654/1852
-#EXTINF:-1,PFC 2
-http://a.srvbr.me:8880/778654/778654/779
-#EXTINF:-1,PFC 2 HD
-http://a.srvbr.me:8880/778654/778654/778
-#EXTINF:-1,PFC 2 Full HD
-http://a.srvbr.me:8880/778654/778654/5454
-#EXTINF:-1,PFC 2 [ALTERNATIVO]
-http://a.srvbr.me:8880/778654/778654/1853
-#EXTINF:-1,PFC 3
-http://a.srvbr.me:8880/778654/778654/777
-#EXTINF:-1,PFC 3 HD
-http://a.srvbr.me:8880/778654/778654/776
-#EXTINF:-1,PFC 3 Full HD
-http://a.srvbr.me:8880/778654/778654/5453
-#EXTINF:-1,PFC 3 [ALTERNATIVO]
-http://a.srvbr.me:8880/778654/778654/1854
-#EXTINF:-1,PFC 4
-http://a.srvbr.me:8880/778654/778654/775
-#EXTINF:-1,PFC 4 HD
-http://a.srvbr.me:8880/778654/778654/774
-#EXTINF:-1,PFC 4 Full HD
-http://a.srvbr.me:8880/778654/778654/5452
-#EXTINF:-1,PFC 4 [ALTERNATIVO]
-http://a.srvbr.me:8880/778654/778654/1855
-#EXTINF:-1,PFC 5
-http://a.srvbr.me:8880/778654/778654/773
-#EXTINF:-1,PFC 5 HD
-http://a.srvbr.me:8880/778654/778654/772
-#EXTINF:-1,PFC 5 Full HD
-http://a.srvbr.me:8880/778654/778654/5451
-#EXTINF:-1,PFC 5 [ALTERNATIVO]
-http://a.srvbr.me:8880/778654/778654/1856
-#EXTINF:-1,PFC 6
-http://a.srvbr.me:8880/778654/778654/771
-#EXTINF:-1,PFC 6 HD
-http://a.srvbr.me:8880/778654/778654/4123
-#EXTINF:-1,PFC 6 Full HD
-http://a.srvbr.me:8880/778654/778654/5450
-#EXTINF:-1,PFC 6 [ALTERNATIVO]
-http://a.srvbr.me:8880/778654/778654/5330
-#EXTINF:-1,PFC 7
-http://a.srvbr.me:8880/778654/778654/770
-#EXTINF:-1,PFC 7 HD
-http://a.srvbr.me:8880/778654/778654/4122
-#EXTINF:-1,PFC 7 Full HD
-http://a.srvbr.me:8880/778654/778654/5449
-#EXTINF:-1,PFC 7 [ALTERNATIVO]
-http://a.srvbr.me:8880/778654/778654/5331
-#EXTINF:-1,PFC 8
-http://a.srvbr.me:8880/778654/778654/769
-#EXTINF:-1,PFC 9
-http://a.srvbr.me:8880/778654/778654/768
-#EXTINF:-1,Prime Box Brasil HD
-http://a.srvbr.me:8880/778654/778654/5300
-#EXTINF:-1,Record
-http://a.srvbr.me:8880/778654/778654/761
-#EXTINF:-1,Record HD
-http://a.srvbr.me:8880/778654/778654/763
-#EXTINF:-1,Record Full HD
-http://a.srvbr.me:8880/778654/778654/5466
-#EXTINF:-1,Globo Internacional
-http://a.srvbr.me:8880/778654/778654/604
-#EXTINF:-1,Record HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1857
-#EXTINF:-1,Record BA
-http://a.srvbr.me:8880/778654/778654/11072
-#EXTINF:-1,Record BA HD
-http://a.srvbr.me:8880/778654/778654/11071
-#EXTINF:-1,Record DF
-http://a.srvbr.me:8880/778654/778654/11069
-#EXTINF:-1,Record DF HD
-http://a.srvbr.me:8880/778654/778654/11068
-#EXTINF:-1,Record MG
-http://a.srvbr.me:8880/778654/778654/7565
-#EXTINF:-1,Record MG HD
-http://a.srvbr.me:8880/778654/778654/7566
-#EXTINF:-1,Record RJ
-http://a.srvbr.me:8880/778654/778654/7567
-#EXTINF:-1,Record RJ HD
-http://a.srvbr.me:8880/778654/778654/7568
-#EXTINF:-1,Record RS
-http://a.srvbr.me:8880/778654/778654/11066
-#EXTINF:-1,Record RS HD
-http://a.srvbr.me:8880/778654/778654/11065
-#EXTINF:-1,Record Internacional
-http://a.srvbr.me:8880/778654/778654/899
-#EXTINF:-1,Record News
-http://a.srvbr.me:8880/778654/778654/762
-#EXTINF:-1,RedeTV!
-http://a.srvbr.me:8880/778654/778654/759
-#EXTINF:-1,RedeTV! HD
-http://a.srvbr.me:8880/778654/778654/758
-#EXTINF:-1,RedeTV! HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4119
-#EXTINF:-1,Rede Vida
-http://a.srvbr.me:8880/778654/778654/757
-#EXTINF:-1,Rede Vida HD
-http://a.srvbr.me:8880/778654/778654/5653
-#EXTINF:-1,SBT
-http://a.srvbr.me:8880/778654/778654/756
-#EXTINF:-1,SBT HD
-http://a.srvbr.me:8880/778654/778654/755
-#EXTINF:-1,SBT Full HD
-http://a.srvbr.me:8880/778654/778654/5465
-#EXTINF:-1,SBT HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1858
-#EXTINF:-1,SBT SP Interior
-http://a.srvbr.me:8880/778654/778654/5297
-#EXTINF:-1,Smithsonian Channel
-http://a.srvbr.me:8880/778654/778654/11419
-#EXTINF:-1,Smithsonian Channel HD
-http://a.srvbr.me:8880/778654/778654/11420
-#EXTINF:-1,RTP Internacional
-http://a.srvbr.me:8880/778654/778654/574
-#EXTINF:-1,Space
-http://a.srvbr.me:8880/778654/778654/753
-#EXTINF:-1,Space HD
-http://a.srvbr.me:8880/778654/778654/752
-#EXTINF:-1,Space HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4114
-#EXTINF:-1,SporTV
-http://a.srvbr.me:8880/778654/778654/748
-#EXTINF:-1,SporTV HD
-http://a.srvbr.me:8880/778654/778654/749
-#EXTINF:-1,Sportv Full HD
-http://a.srvbr.me:8880/778654/778654/5438
-#EXTINF:-1,SporTV HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1859
-#EXTINF:-1,SporTV2
-http://a.srvbr.me:8880/778654/778654/747
-#EXTINF:-1,SporTV2 HD
-http://a.srvbr.me:8880/778654/778654/751
-#EXTINF:-1,Sportv 2 Full HD
-http://a.srvbr.me:8880/778654/778654/5439
-#EXTINF:-1,SporTV2 HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1860
-#EXTINF:-1,SporTV3
-http://a.srvbr.me:8880/778654/778654/745
-#EXTINF:-1,SporTV3 HD
-http://a.srvbr.me:8880/778654/778654/750
-#EXTINF:-1,Sportv 3 Full HD
-http://a.srvbr.me:8880/778654/778654/5440
-#EXTINF:-1,SporTV3 HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1861
-#EXTINF:-1,Studio Universal
-http://a.srvbr.me:8880/778654/778654/743
-#EXTINF:-1,Studio Universal HD
-http://a.srvbr.me:8880/778654/778654/1480
-#EXTINF:-1,Studio Universal HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4113
-#EXTINF:-1,SundanceTV
-http://a.srvbr.me:8880/778654/778654/5296
-#EXTINF:-1,SundanceTV HD
-http://a.srvbr.me:8880/778654/778654/5295
-#EXTINF:-1,Syfy
-http://a.srvbr.me:8880/778654/778654/742
-#EXTINF:-1,Syfy HD
-http://a.srvbr.me:8880/778654/778654/1483
-#EXTINF:-1,SyFy HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4111
-#EXTINF:-1,TBS
-http://a.srvbr.me:8880/778654/778654/741
-#EXTINF:-1,TBS HD
-http://a.srvbr.me:8880/778654/778654/740
-#EXTINF:-1,TBS [PLUS]
-http://a.srvbr.me:8880/778654/778654/4110
-#EXTINF:-1,TCM
-http://a.srvbr.me:8880/778654/778654/734
-#EXTINF:-1,TCM HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4109
-#EXTINF:-1,TCV INTERNACIONAL
-http://a.srvbr.me:8880/778654/778654/983
-#EXTINF:-1,Telecine Action
-http://a.srvbr.me:8880/778654/778654/733
-#EXTINF:-1,Telecine Action HD
-http://a.srvbr.me:8880/778654/778654/739
-#EXTINF:-1,Telecine Action Full HD
-http://a.srvbr.me:8880/778654/778654/5464
-#EXTINF:-1,Telecine Action HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1862
-#EXTINF:-1,Telecine Cult
-http://a.srvbr.me:8880/778654/778654/732
-#EXTINF:-1,Telecine Cult HD
-http://a.srvbr.me:8880/778654/778654/1482
-#EXTINF:-1,Telecine Cult HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4108
-#EXTINF:-1,Telecine Fun
-http://a.srvbr.me:8880/778654/778654/731
-#EXTINF:-1,Telecine Fun HD
-http://a.srvbr.me:8880/778654/778654/738
-#EXTINF:-1,Telecine Fun Full HD
-http://a.srvbr.me:8880/778654/778654/5463
-#EXTINF:-1,Telecine Fun HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1863
-#EXTINF:-1,Telecine Pipoca
-http://a.srvbr.me:8880/778654/778654/730
-#EXTINF:-1,Telecine Pipoca HD
-http://a.srvbr.me:8880/778654/778654/737
-#EXTINF:-1,Telecine Pipoca Full HD
-http://a.srvbr.me:8880/778654/778654/5462
-#EXTINF:-1,Telecine Pipoca HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1864
-#EXTINF:-1,Telecine Premium
-http://a.srvbr.me:8880/778654/778654/729
-#EXTINF:-1,Telecine Premium HD
-http://a.srvbr.me:8880/778654/778654/736
-#EXTINF:-1,Telecine Premium Full HD
-http://a.srvbr.me:8880/778654/778654/5461
-#EXTINF:-1,Telecine Premium HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1865
-#EXTINF:-1,Telecine Touch
-http://a.srvbr.me:8880/778654/778654/728
-#EXTINF:-1,Telecine Touch HD
-http://a.srvbr.me:8880/778654/778654/735
-#EXTINF:-1,Telecine Touch Full HD
-http://a.srvbr.me:8880/778654/778654/5460
-#EXTINF:-1,Telecine Touch HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1866
-#EXTINF:-1,Terra Viva
-http://a.srvbr.me:8880/778654/778654/727
-#EXTINF:-1,TLC
-http://a.srvbr.me:8880/778654/778654/725
-#EXTINF:-1,TLC HD
-http://a.srvbr.me:8880/778654/778654/1481
-#EXTINF:-1,TLC HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1867
-#EXTINF:-1,TV Justica
-http://a.srvbr.me:8880/778654/778654/5293
-#EXTINF:-1,TNT
-http://a.srvbr.me:8880/778654/778654/724
-#EXTINF:-1,TNT HD
-http://a.srvbr.me:8880/778654/778654/723
-#EXTINF:-1,TNT HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/1868
-#EXTINF:-1,TNT Séries
-http://a.srvbr.me:8880/778654/778654/722
-#EXTINF:-1,TNT Séries HD
-http://a.srvbr.me:8880/778654/778654/721
-#EXTINF:-1,TNT Series HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4107
-#EXTINF:-1,PlayKids
-http://a.srvbr.me:8880/778654/778654/7563
-#EXTINF:-1,PlayKids HD
-http://a.srvbr.me:8880/778654/778654/7564
-#EXTINF:-1,Tooncast
-http://a.srvbr.me:8880/778654/778654/720
-#EXTINF:-1,Tooncast HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4106
-#EXTINF:-1,TruTV
-http://a.srvbr.me:8880/778654/778654/719
-#EXTINF:-1,TruTV HD
-http://a.srvbr.me:8880/778654/778654/5291
-#EXTINF:-1,TV Aparecida
-http://a.srvbr.me:8880/778654/778654/895
-#EXTINF:-1,TV Cultura
-http://a.srvbr.me:8880/778654/778654/5161
-#EXTINF:-1,TV Cultura HD
-http://a.srvbr.me:8880/778654/778654/5656
-#EXTINF:-1,TV Brasil
-http://a.srvbr.me:8880/778654/778654/717
-#EXTINF:-1,TV Câmara
-http://a.srvbr.me:8880/778654/778654/602
-#EXTINF:-1,TV Diário Fortaleza
-http://a.srvbr.me:8880/778654/778654/11063
-#EXTINF:-1,TV Diário Fortaleza HD
-http://a.srvbr.me:8880/778654/778654/11062
-#EXTINF:-1,TV Rá Tim Bum
-http://a.srvbr.me:8880/778654/778654/715
-#EXTINF:-1,TV Ra Tim Bum HD
-http://a.srvbr.me:8880/778654/778654/5292
-#EXTINF:-1,Universal Channel
-http://a.srvbr.me:8880/778654/778654/711
-#EXTINF:-1,Universal Channel HD
-http://a.srvbr.me:8880/778654/778654/710
-#EXTINF:-1,Universal Channel HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4103
-#EXTINF:-1,VH1
-http://a.srvbr.me:8880/778654/778654/5290
-#EXTINF:-1,VH1 HD
-http://a.srvbr.me:8880/778654/778654/1479
-#EXTINF:-1,VH1 HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4101
-#EXTINF:-1,VH1 Mega Hits
-http://a.srvbr.me:8880/778654/778654/709
-#EXTINF:-1,Viva
-http://a.srvbr.me:8880/778654/778654/708
-#EXTINF:-1,Viva HD
-http://a.srvbr.me:8880/778654/778654/707
-#EXTINF:-1,Viva Full HD
-http://a.srvbr.me:8880/778654/778654/5437
-#EXTINF:-1,Viva HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4100
-#EXTINF:-1,Warner Channel
-http://a.srvbr.me:8880/778654/778654/706
-#EXTINF:-1,Warner Channel HD
-http://a.srvbr.me:8880/778654/778654/705
-#EXTINF:-1,Warner Full HD
-http://a.srvbr.me:8880/778654/778654/5425
-#EXTINF:-1,Warner Channel HD [PLUS]
-http://a.srvbr.me:8880/778654/778654/4099
-#EXTINF:-1,Woohoo
-http://a.srvbr.me:8880/778654/778654/704
-#EXTINF:-1,Woohoo HD
-http://a.srvbr.me:8880/778654/778654/5657
+#EXTINF:-1 ,A&E
+http://189.91.128.150:5555/udp/227.10.20.129:1234
+#EXTINF:-1 ,Animal Planet HD
+http://189.91.128.150:5555/udp/227.10.20.118:1234
+#EXTINF:-1 ,Band Sports HD
+http://189.91.128.150:5555/udp/227.10.20.119:1234
+#EXTINF:-1 ,Band News
+http://189.91.128.150:5555/udp/227.10.20.131:1234
+#EXTINF:-1 ,Cinemax
+http://189.91.128.150:5555/udp/227.10.20.101:1234
+#EXTINF:-1 ,CNT HD
+http://189.91.128.150:5555/udp/227.10.20.111:1234
+#EXTINF:-1 ,Discovery Channel
+http://189.91.128.150:5555/udp/227.10.20.80:1234
+#EXTINF:-1 ,Discovery Home Health
+http://189.91.128.150:5555/udp/227.10.20.85:1234
+#EXTINF:-1 ,Discovery Kids
+http://189.91.128.150:5555/udp/227.10.20.83:1234
+#EXTINF:-1 ,Discovery Science
+http://189.91.128.150:5555/udp/227.10.20.92:1234
+#EXTINF:-1 ,Discovery Turbo
+http://189.91.128.150:5555/udp/227.10.20.82:1234
+#EXTINF:-1 ,Disney Channel
+http://189.91.128.150:5555/udp/227.10.20.90:1234
+#EXTINF:-1 ,Disney XD HD
+http://189.91.128.150:5555/udp/227.10.20.110:1234
+#EXTINF:-1 ,Ei HD
+http://189.91.128.150:5555/udp/227.10.20.121:1234
+#EXTINF:-1 ,ESPN
+http://189.91.128.150:5555/udp/227.10.20.128:1234
+#EXTINF:-1 ,ESPN Brasil
+http://189.91.128.150:5555/udp/227.10.20.81:1234
+#EXTINF:-1 ,Fashion TV HD
+http://189.91.128.150:5555/udp/227.10.20.113:1234
+#EXTINF:-1 ,Fish TV
+http://189.91.128.150:5555/udp/227.10.20.117:1234
+#EXTINF:-1 ,Fox Channel
+http://189.91.128.150:5555/udp/227.10.20.139:1234
+#EXTINF:-1 ,Fox Sports HD
+http://189.91.128.150:5555/udp/227.10.20.116:1234
+#EXTINF:-1 ,Fox Sports 2
+http://189.91.128.150:5555/udp/227.10.20.132:1234
+#EXTINF:-1 ,FX
+http://189.91.128.150:5555/udp/227.10.20.138:1234
+#EXTINF:-1 ,Globo
+http://189.91.128.150:5555/udp/227.10.20.109:1234
+#EXTINF:-1 ,Gloob
+http://189.91.128.150:5555/udp/227.10.20.91:1234
+#EXTINF:-1 ,History
+http://189.91.128.150:5555/udp/227.10.20.130:1234
+#EXTINF:-1 ,HBO
+http://189.91.128.150:5555/udp/227.10.20.94:1234
+#EXTINF:-1 ,HBO 2
+http://189.91.128.150:5555/udp/227.10.20.95:1234
+#EXTINF:-1 ,HBO Family
+http://189.91.128.150:5555/udp/227.10.20.97:1234
+#EXTINF:-1 ,HBO Latino
+http://189.91.128.150:5555/udp/227.10.20.133:1234
+#EXTINF:-1 ,HBO Plus
+http://189.91.128.150:5555/udp/227.10.20.96:1234
+#EXTINF:-1 ,HBO Pop
+http://189.91.128.150:5555/udp/227.10.20.99:1234
+#EXTINF:-1 ,HBO Signature
+http://189.91.128.150:5555/udp/227.10.20.98:1234
+#EXTINF:-1 ,HBO Xtreme
+http://189.91.128.150:5555/udp/227.10.20.100:1234
+#EXTINF:-1 ,Megapix
+http://189.91.128.150:5555/udp/227.10.20.89:1234
+#EXTINF:-1 ,Paramount
+http://189.91.128.150:5555/udp/227.10.20.140:1234
+#EXTINF:-1 ,Premiere Clubes HD
+http://189.91.128.150:5555/udp/227.10.20.102:1234
+#EXTINF:-1 ,Prime Box
+http://189.91.128.150:5555/udp/227.10.20.114:1234
+#EXTINF:-1 ,Rede TV
+http://189.91.128.150:5555/udp/227.10.20.122:1234
+#EXTINF:-1 ,SBT HD
+http://189.91.128.150:5555/udp/227.10.20.120:1234
+#EXTINF:-1 ,Studio Universal
+http://189.91.128.150:5555/udp/227.10.20.88:1234
+#EXTINF:-1 ,Telecine Action
+http://189.91.128.150:5555/udp/227.10.20.135:1234
+#EXTINF:-1 ,Telecine Fun
+http://189.91.128.150:5555/udp/227.10.20.137:1234
+#EXTINF:-1 ,Telecine Pipoca HD
+http://189.91.128.150:5555/udp/227.10.20.87:1234
+#EXTINF:-1 ,Telecine Premium
+http://189.91.128.150:5555/udp/227.10.20.134:1234
+#EXTINF:-1 ,Telecine Touch
+http://189.91.128.150:5555/udp/227.10.20.136:1234
+#EXTINF:-1 ,TLC
+http://189.91.128.150:5555/udp/227.10.20.84:1234
+#EXTINF:-1 ,Univale
+http://189.91.128.150:5555/udp/227.10.20.103:1234
+#EXTINF:-1 ,Woohoo
+http://189.91.128.150:5555/udp/227.10.20.112:1234
